@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>3rd. Burn - Mark Ziegner</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Avatar of Fury"/>
+        <card number="3" name="Firebrand Ranger"/>
+        <card number="4" name="Flametongue Kavu"/>
+        <card number="3" name="Kris Mage"/>
+        <card number="3" name="Rage Weaver"/>
+        <card number="4" name="Skizzik"/>
+        <card number="3" name="Ghitu Fire"/>
+        <card number="4" name="Shock"/>
+        <card number="4" name="Urza's Rage"/>
+        <card number="4" name="Chimeric Idol"/>
+        <card number="4" name="Seal of Fire"/>
+        <card number="19" name="Mountain"/>
+        <card number="4" name="Rishadan Port"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Blood Oath"/>
+        <card number="3" name="Boil"/>
+        <card number="1" name="Earthquake"/>
+        <card number="2" name="Ensnaring Bridge"/>
+        <card number="2" name="Obliterate"/>
+        <card number="4" name="Scorching Lava"/>
+        <card number="1" name="Tahngarth, Talruum Hero"/>
+    </zone>
+</cockatrice_deck>
