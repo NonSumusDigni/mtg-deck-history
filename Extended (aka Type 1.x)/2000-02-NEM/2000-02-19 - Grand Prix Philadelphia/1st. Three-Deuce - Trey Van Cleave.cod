@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>1st. Three-Deuce - Trey Van Cleave</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" name="Incinerate"/>
+        <card number="4" name="Rancor"/>
+        <card number="4" name="Land Grant"/>
+        <card number="4" name="Disenchant"/>
+        <card number="4" name="Swords to Plowshares"/>
+        <card number="4" name="Cursed Scroll"/>
+        <card number="2" name="Dwarven Miner"/>
+        <card number="4" name="River Boa"/>
+        <card number="4" name="Skyshroud Elite"/>
+        <card number="4" name="Elvish Lyrist"/>
+        <card number="4" name="Mogg Fanatic"/>
+        <card number="2" name="Mountain Valley"/>
+        <card number="3" name="Plateau"/>
+        <card number="3" name="Treetop Village"/>
+        <card number="4" name="Savannah"/>
+        <card number="4" name="Taiga"/>
+        <card number="4" name="Wasteland"/>
+    </zone>
+    <zone name="side">
+        <card number="4" name="Sanctimony"/>
+        <card number="4" name="Aura of Silence"/>
+        <card number="1" name="Greater Realm of Preservation"/>
+        <card number="4" name="Pyroblast"/>
+        <card number="2" name="Dwarven Miner"/>
+    </zone>
+</cockatrice_deck>

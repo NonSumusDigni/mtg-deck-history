@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>4th. Accelerated Blue - Rickard Österberg</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Daze"/>
+        <card number="3" name="Powder Keg"/>
+        <card number="3" name="Masticore"/>
+        <card number="4" name="Grim Monolith"/>
+        <card number="4" name="Counterspell"/>
+        <card number="3" name="Miscalculation"/>
+        <card number="2" name="Annul"/>
+        <card number="3" name="Opportunity"/>
+        <card number="3" name="Thwart"/>
+        <card number="4" name="Treachery"/>
+        <card number="3" name="Morphling"/>
+        <card number="4" name="Rishadan Port"/>
+        <card number="2" name="Dust Bowl"/>
+        <card number="20" name="Island"/>
+    </zone>
+    <zone name="side">
+        <card number="3" name="Submerge"/>
+        <card number="3" name="Stronghold Machinist"/>
+        <card number="2" name="Seal of Removal"/>
+        <card number="2" name="Scrying Glass"/>
+        <card number="2" name="Somnophore"/>
+        <card number="1" name="Annul"/>
+        <card number="1" name="Powder Keg"/>
+        <card number="1" name="Masticore"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>[INCOMPLETE] 9th-16th. Enchantress - Bernabe Gramajo</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Verduran Enchantress"/>
+        <card number="3" name="Yavimaya Elder"/>
+        <card number="4" name="Survival of the Fittest"/>
+        <card number="3" name="Wall of Blossoms"/>
+        <card number="4" name="Seal of Cleansing"/>
+        <card number="4" name="Rancor"/>
+        <card number="4" name="Swords to Plowshares"/>
+        <card number="2" name="Ancestral Mask"/>
+        <card number="4" name="Birds of Paradise"/>
+        <card number="1" name="Squee, Goblin Nabob"/>
+        <card number="3" name="Eladamri's Vineyard"/>
+        <card number="1" name="Masticore"/>
+        <card number="1" name="Spike Feeder"/>
+        <card number="1" name="Tithe"/>
+        <card number="4" name="Argothian Enchantress"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Masticore"/>
+        <card number="1" name="Squee, Goblin Nabob"/>
+        <card number="1" name="Worship"/>
+        <card number="1" name="Aura Fracture"/>
+        <card number="1" name="Monk Realist"/>
+        <card number="2" name="City of Solitude"/>
+        <card number="1" name="Yavimaya Elder"/>
+        <card number="1" name="Wall of Blossoms"/>
+        <card number="1" name="Uktabi Orangutan"/>
+        <card number="2" name="Spike Feeder"/>
+        <card number="3" name="Phyrexian Furnace"/>
+    </zone>
+</cockatrice_deck>

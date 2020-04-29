@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>10th. Sligh - Scott Thong</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Ball Lightning"/>
+        <card number="2" name="Lightning Dragon"/>
+        <card number="4" name="Mogg Fanatic"/>
+        <card number="3" name="Cursed Scroll"/>
+        <card number="1" name="Earthquake"/>
+        <card number="4" name="Fireblast"/>
+        <card number="3" name="Furnace of Rath"/>
+        <card number="1" name="Hammer of Bogardan"/>
+        <card number="4" name="Incinerate"/>
+        <card number="4" name="Price of Progress"/>
+        <card number="4" name="Seal of Fire"/>
+        <card number="4" name="Shock"/>
+        <card number="18" name="Mountain"/>
+        <card number="4" name="Wasteland"/>
+    </zone>
+    <zone name="side">
+        <card number="3" name="Anarchy"/>
+        <card number="4" name="Bottle Gnomes"/>
+        <card number="4" name="Pyroblast"/>
+        <card number="2" name="Pyroclasm"/>
+        <card number="2" name="Pyrokinesis"/>
+    </zone>
+</cockatrice_deck>

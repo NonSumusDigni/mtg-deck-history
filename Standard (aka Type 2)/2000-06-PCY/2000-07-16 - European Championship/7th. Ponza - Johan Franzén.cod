@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>7th. Ponza - Johan Franzén</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Stone Rain"/>
+        <card number="4" name="Pillage"/>
+        <card number="3" name="Masticore"/>
+        <card number="3" name="Shock"/>
+        <card number="4" name="Seal of Fire"/>
+        <card number="14" name="Mountain"/>
+        <card number="4" name="Dust Bowl"/>
+        <card number="4" name="Rishadan Port"/>
+        <card number="4" name="Ghitu Encampment"/>
+        <card number="4" name="Avalanche Riders"/>
+        <card number="2" name="Lightning Dragon"/>
+        <card number="3" name="Hammer of Bogardan"/>
+        <card number="4" name="Fire Diamond"/>
+        <card number="3" name="Cave-In"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Masticore"/>
+        <card number="1" name="Cave-In"/>
+        <card number="2" name="Flashfires"/>
+        <card number="3" name="Fault Line"/>
+        <card number="2" name="Scald"/>
+        <card number="2" name="Boil"/>
+        <card number="4" name="Rack and Ruin"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>5th-8th. Bargain - Jason The</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Academy Rector"/>
+        <card number="4" name="Skirge Familiar"/>
+        <card number="4" name="Dark Ritual"/>
+        <card number="1" name="Disenchant"/>
+        <card number="2" name="Duress"/>
+        <card number="4" name="Grim Monolith"/>
+        <card number="3" name="Renounce"/>
+        <card number="4" name="Soul Feast"/>
+        <card number="3" name="Tooth of Ramos"/>
+        <card number="4" name="Vampiric Tutor"/>
+        <card number="3" name="Yawgmoth's Bargain"/>
+        <card number="2" name="Yawgmoth's Will"/>
+        <card number="4" name="Peat Bog"/>
+        <card number="4" name="Phyrexian Tower"/>
+        <card number="5" name="Plains"/>
+        <card number="3" name="Remote Farm"/>
+        <card number="6" name="Swamp"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Disenchant"/>
+        <card number="2" name="Duress"/>
+        <card number="1" name="Meekstone"/>
+        <card number="2" name="Perish"/>
+        <card number="1" name="Persecute"/>
+        <card number="1" name="Rapid Decay"/>
+        <card number="1" name="Seal of Cleansing"/>
+        <card number="1" name="Spiritual Asylum"/>
+        <card number="4" name="Unmask"/>
+        <card number="1" name="Wrath of God"/>
+    </zone>
+</cockatrice_deck>

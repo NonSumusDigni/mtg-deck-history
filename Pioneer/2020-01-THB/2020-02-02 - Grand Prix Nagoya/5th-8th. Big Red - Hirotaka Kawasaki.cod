@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>5th-8th. Big Red - Hirotaka Kawasaki</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Blast Zone"/>
+        <card number="3" name="Bonecrusher Giant"/>
+        <card number="4" name="Castle Embereth"/>
+        <card number="2" name="Chandra, Acolyte of Flame"/>
+        <card number="2" name="Chandra, Fire Artisan"/>
+        <card number="4" name="Chandra, Torch of Defiance"/>
+        <card number="2" name="Fires of Invention"/>
+        <card number="4" name="Goblin Rabblemaster"/>
+        <card number="2" name="Heart of Kiran"/>
+        <card number="2" name="Lightning Strike"/>
+        <card number="10" name="Mountain"/>
+        <card number="4" name="Mutavault"/>
+        <card number="4" name="Ramunap Ruins"/>
+        <card number="3" name="Robber of the Rich"/>
+        <card number="1" name="Sarkhan the Masterless"/>
+        <card number="2" name="Scavenger Grounds"/>
+        <card number="2" name="Soul-Scar Mage"/>
+        <card number="4" name="Thought-Knot Seer"/>
+        <card number="2" name="Torbran, Thane of Red Fell"/>
+        <card number="2" name="Wild Slash"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Anger of the Gods"/>
+        <card number="2" name="Eidolon of the Great Revel"/>
+        <card number="1" name="Embercleave"/>
+        <card number="2" name="Fry"/>
+        <card number="1" name="Hour of Devastation"/>
+        <card number="1" name="Mizzium Mortars"/>
+        <card number="1" name="Purphoros's Intervention"/>
+        <card number="1" name="Ratchet Bomb"/>
+        <card number="1" name="Sarkhan the Masterless"/>
+        <card number="1" name="Shadowspear"/>
+        <card number="2" name="Tormod's Crypt"/>
+    </zone>
+</cockatrice_deck>

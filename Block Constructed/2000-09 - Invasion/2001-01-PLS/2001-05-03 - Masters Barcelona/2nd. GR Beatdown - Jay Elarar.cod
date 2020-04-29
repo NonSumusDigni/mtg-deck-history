@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>2nd. GR Beatdown - Jay Elarar</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Thornscape Familiar"/>
+        <card number="4" name="Skizzik"/>
+        <card number="3" name="Thornscape Battlemage"/>
+        <card number="2" name="Kavu Titan"/>
+        <card number="3" name="Kavu Chameleon"/>
+        <card number="4" name="Raging Kavu"/>
+        <card number="4" name="Blurred Mongoose"/>
+        <card number="2" name="Flametongue Kavu"/>
+        <card number="4" name="Ghitu Fire"/>
+        <card number="4" name="Urza's Rage"/>
+        <card number="3" name="Scorching Lava"/>
+        <card number="4" name="Shivan Oasis"/>
+        <card number="1" name="Keldon Necropolis"/>
+        <card number="10" name="Forest"/>
+        <card number="9" name="Mountain"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Thornscape Battlemage"/>
+        <card number="1" name="Kavu Chameleon"/>
+        <card number="2" name="Flametongue Kavu"/>
+        <card number="1" name="Scorching Lava"/>
+        <card number="2" name="Wallop"/>
+        <card number="4" name="Overabundance"/>
+        <card number="3" name="Thunderscape Battlemage"/>
+        <card number="1" name="Magma Burst"/>
+    </zone>
+</cockatrice_deck>

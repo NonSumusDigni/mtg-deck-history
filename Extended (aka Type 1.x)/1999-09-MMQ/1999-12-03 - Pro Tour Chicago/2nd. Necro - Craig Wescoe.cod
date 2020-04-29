@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>2nd. Necro - Craig Wescoe</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Skittering Skirge"/>
+        <card number="4" name="Contagion"/>
+        <card number="4" name="Corrupt"/>
+        <card number="4" name="Duress"/>
+        <card number="4" name="Dark Ritual"/>
+        <card number="3" name="Demonic Consultation"/>
+        <card number="4" name="Drain Life"/>
+        <card number="4" name="Necropotence"/>
+        <card number="2" name="Nevinyrral's Disk"/>
+        <card number="3" name="Spinning Darkness"/>
+        <card number="4" name="Unmask"/>
+        <card number="18" name="Swamp"/>
+        <card number="4" name="Wasteland"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Dystopia"/>
+        <card number="2" name="Nevinyrral's Disk"/>
+        <card number="2" name="Perish"/>
+        <card number="3" name="Persecute"/>
+        <card number="3" name="Planar Void"/>
+        <card number="3" name="Powder Keg"/>
+    </zone>
+</cockatrice_deck>

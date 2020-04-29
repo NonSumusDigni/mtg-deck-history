@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Red Deck Wins - Gary Wise</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Ball Lightning"/>
+        <card number="4" name="Goblin Patrol"/>
+        <card number="4" name="Jackal Pup"/>
+        <card number="4" name="Mogg Fanatic"/>
+        <card number="4" name="Cursed Scroll"/>
+        <card number="4" name="Fireblast"/>
+        <card number="2" name="Hammer of Bogardan"/>
+        <card number="2" name="Incinerate"/>
+        <card number="4" name="Lightning Bolt"/>
+        <card number="4" name="Shock"/>
+        <card number="4" name="Mishra's Factory"/>
+        <card number="16" name="Mountain"/>
+        <card number="4" name="Wasteland"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Anarchy"/>
+        <card number="2" name="Blood Moon"/>
+        <card number="2" name="Guerrilla Tactics"/>
+        <card number="2" name="Orgg"/>
+        <card number="4" name="Pyroblast"/>
+        <card number="4" name="Tormod's Crypt"/>
+    </zone>
+</cockatrice_deck>

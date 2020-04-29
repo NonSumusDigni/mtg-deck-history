@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>1st. Rising Waters - Stephen Campbell</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Seal of Removal"/>
+        <card number="4" name="Monk Idealist"/>
+        <card number="3" name="Parallax Wave"/>
+        <card number="2" name="Wrath of God"/>
+        <card number="2" name="Armageddon"/>
+        <card number="2" name="Rising Waters"/>
+        <card number="2" name="Raven Familiar"/>
+        <card number="2" name="Ring of Gix"/>
+        <card number="1" name="Radiant's Dragoons"/>
+        <card number="1" name="Trade Routes"/>
+        <card number="1" name="Seal of Cleansing"/>
+        <card number="1" name="Mystical Tutor"/>
+        <card number="1" name="Disenchant"/>
+        <card number="1" name="Memory Lapse"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Enlightened Tutor"/>
+        <card number="1" name="Recall"/>
+        <card number="3" name="Rishadan Port"/>
+        <card number="9" name="Island"/>
+        <card number="10" name="Plains"/>
+        <card number="4" name="Sky Diamond"/>
+        <card number="4" name="Marble Diamond"/>
+    </zone>
+    <zone name="side">
+        <card number="3" name="Tangle Wire"/>
+        <card number="1" name="Annul"/>
+        <card number="2" name="Back to Basics"/>
+        <card number="1" name="Island"/>
+        <card number="2" name="Cursed Totem"/>
+        <card number="1" name="Miscalculation"/>
+        <card number="1" name="Morphling"/>
+        <card number="1" name="Seal of Cleansing"/>
+        <card number="1" name="Armageddon"/>
+        <card number="1" name="Wrath of God"/>
+    </zone>
+</cockatrice_deck>

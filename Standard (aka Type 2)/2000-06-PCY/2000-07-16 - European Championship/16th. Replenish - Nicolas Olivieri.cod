@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>16th. Replenish - Nicolas Olivieri</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Replenish"/>
+        <card number="4" name="Opalescence"/>
+        <card number="4" name="Attunement"/>
+        <card number="4" name="Parallax Wave"/>
+        <card number="4" name="Parallax Tide"/>
+        <card number="3" name="Frantic Search"/>
+        <card number="3" name="Counterspell"/>
+        <card number="2" name="Enlightened Tutor"/>
+        <card number="3" name="Seal of Removal"/>
+        <card number="2" name="Seal of Cleansing"/>
+        <card number="1" name="Grim Monolith"/>
+        <card number="1" name="Energy Field"/>
+        <card number="3" name="Rishadan Port"/>
+        <card number="4" name="Adarkar Wastes"/>
+        <card number="11" name="Island"/>
+        <card number="7" name="Plains"/>
+    </zone>
+    <zone name="side">
+        <card number="3" name="Wrath of God"/>
+        <card number="2" name="Erase"/>
+        <card number="1" name="Cursed Totem"/>
+        <card number="1" name="Chill"/>
+        <card number="1" name="Circle of Protection: Black"/>
+        <card number="2" name="Enlightened Tutor"/>
+        <card number="1" name="Counterspell"/>
+        <card number="2" name="Lilting Refrain"/>
+        <card number="1" name="Seal of Cleansing"/>
+        <card number="1" name="Sheltering Prayers"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Oath of Druids - Xavier Curto</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" name="Spike Weaver"/>
+        <card number="2" name="Thorn Elemental"/>
+        <card number="1" name="Capsize"/>
+        <card number="4" name="Counterspell"/>
+        <card number="2" name="Dismiss"/>
+        <card number="4" name="Forbid"/>
+        <card number="3" name="Intuition"/>
+        <card number="2" name="Mana Leak"/>
+        <card number="2" name="Miscalculation"/>
+        <card number="3" name="Mox Diamond"/>
+        <card number="4" name="Oath of Druids"/>
+        <card number="3" name="Powder Keg"/>
+        <card number="3" name="Scroll Rack"/>
+        <card number="1" name="Vampiric Tutor"/>
+        <card number="1" name="City of Brass"/>
+        <card number="2" name="Forest"/>
+        <card number="10" name="Island"/>
+        <card number="2" name="Reflecting Pool"/>
+        <card number="4" name="Skyshroud Forest"/>
+        <card number="2" name="Treetop Village"/>
+        <card number="2" name="Underground River"/>
+    </zone>
+    <zone name="side">
+        <card number="3" name="Constant Mists"/>
+        <card number="3" name="Creeping Mold"/>
+        <card number="3" name="Quash"/>
+        <card number="2" name="Splinter"/>
+        <card number="1" name="Verdant Touch"/>
+        <card number="3" name="Wasteland"/>
+    </zone>
+</cockatrice_deck>

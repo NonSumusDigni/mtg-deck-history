@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>5th-8th. Counter-Slivers - Kim Brebach</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="City of Brass"/>
+        <card number="4" name="Tundra"/>
+        <card number="4" name="Underground Sea"/>
+        <card number="3" name="Flood Plain"/>
+        <card number="2" name="Undiscovered Paradise"/>
+        <card number="1" name="Volrath's Stronghold"/>
+        <card number="1" name="Tropical Island"/>
+        <card number="1" name="Gemstone Mine"/>
+        <card number="1" name="Volcanic Island"/>
+        <card number="4" name="Force of Will"/>
+        <card number="3" name="Counterspell"/>
+        <card number="2" name="Demonic Consultation"/>
+        <card number="3" name="Brainstorm"/>
+        <card number="3" name="Duress"/>
+        <card number="3" name="Swords to Plowshares"/>
+        <card number="2" name="Disenchant"/>
+        <card number="4" name="Crystalline Sliver"/>
+        <card number="4" name="Hibernation Sliver"/>
+        <card number="4" name="Muscle Sliver"/>
+        <card number="3" name="Acidic Sliver"/>
+        <card number="4" name="Winged Sliver"/>
+    </zone>
+    <zone name="side">
+        <card number="4" name="Pyroblast"/>
+        <card number="3" name="Diabolic Edict"/>
+        <card number="2" name="Cursed Totem"/>
+        <card number="2" name="Aura Fracture"/>
+        <card number="2" name="Soltari Visionary"/>
+        <card number="2" name="Worship"/>
+    </zone>
+</cockatrice_deck>

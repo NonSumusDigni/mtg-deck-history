@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>5th-8th. White Weenie - Emanuel Duering [INCOMPLETE]</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" name="Wasteland"/>
+        <card number="16" name="Plains"/>
+        <card number="4" name="Soul Warden"/>
+        <card number="3" name="Armageddon"/>
+        <card number="4" name="Crusade"/>
+        <card number="4" name="Soltari Foot Soldier"/>
+        <card number="4" name="White Knight"/>
+        <card number="2" name="Seal of Cleansing"/>
+        <card number="2" name="Disenchant"/>
+        <card number="3" name="Mother of Runes"/>
+        <card number="3" name="Warrior en-Kor"/>
+        <card number="4" name="Soltari Monk"/>
+        <card number="4" name="Swords to Plowshares"/>
+    </zone>
+    <zone name="side">
+        <card number="3" name="Masticore"/>
+        <card number="3" name="Circle of Protection: Red"/>
+        <card number="2" name="Wrath of God"/>
+        <card number="2" name="Sheltering Prayers"/>
+        <card number="3" name="Defense Grid"/>
+        <card number="1" name="Rune of Protection: Blue"/>
+        <card number="1" name="Circle of Protection: Blue"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>5th-8th. Dimir Inverter - Lee Shi Tian</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" name="Censor"/>
+        <card number="4" name="Choked Estuary"/>
+        <card number="2" name="Dig Through Time"/>
+        <card number="4" name="Drowned Catacomb"/>
+        <card number="4" name="Fatal Push"/>
+        <card number="4" name="Fetid Pools"/>
+        <card number="4" name="Inverter of Truth"/>
+        <card number="5" name="Island"/>
+        <card number="3" name="Jace, Wielder of Mysteries"/>
+        <card number="1" name="Languish"/>
+        <card number="4" name="Omen of the Sea"/>
+        <card number="4" name="Opt"/>
+        <card number="4" name="Swamp"/>
+        <card number="4" name="Thassa's Oracle"/>
+        <card number="4" name="Thoughtseize"/>
+        <card number="2" name="Tyrant's Scorn"/>
+        <card number="4" name="Watery Grave"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Coax from the Blind Eternities"/>
+        <card number="2" name="Damping Sphere"/>
+        <card number="1" name="Drown in the Loch"/>
+        <card number="1" name="Duress"/>
+        <card number="2" name="Grasp of Darkness"/>
+        <card number="1" name="Murderous Rider"/>
+        <card number="3" name="Mystical Dispute"/>
+        <card number="1" name="Noxious Grasp"/>
+        <card number="1" name="Thought Erasure"/>
+        <card number="2" name="Treasure Map"/>
+    </zone>
+</cockatrice_deck>

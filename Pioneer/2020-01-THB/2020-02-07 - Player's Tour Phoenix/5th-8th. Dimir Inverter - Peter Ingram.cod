@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>5th-8th. Dimir Inverter - Peter Ingram</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Censor"/>
+        <card number="2" name="Choked Estuary"/>
+        <card number="4" name="Dig Through Time"/>
+        <card number="4" name="Drowned Catacomb"/>
+        <card number="4" name="Fabled Passage"/>
+        <card number="4" name="Fatal Push"/>
+        <card number="2" name="Fetid Pools"/>
+        <card number="1" name="Hero's Downfall"/>
+        <card number="4" name="Inverter of Truth"/>
+        <card number="6" name="Island"/>
+        <card number="4" name="Jace, Wielder of Mysteries"/>
+        <card number="2" name="Mystical Dispute"/>
+        <card number="2" name="Omen of the Sea"/>
+        <card number="4" name="Opt"/>
+        <card number="2" name="Swamp"/>
+        <card number="3" name="Thassa's Oracle"/>
+        <card number="1" name="Thought Erasure"/>
+        <card number="4" name="Thoughtseize"/>
+        <card number="1" name="Urborg, Tomb of Yawgmoth"/>
+        <card number="4" name="Watery Grave"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Agonizing Remorse"/>
+        <card number="2" name="Ashiok, Nightmare Weaver"/>
+        <card number="2" name="Cry of the Carnarium"/>
+        <card number="2" name="Damping Sphere"/>
+        <card number="1" name="Hero's Downfall"/>
+        <card number="1" name="Jace, Vryn's Prodigy"/>
+        <card number="1" name="Kalitas, Traitor of Ghet"/>
+        <card number="2" name="Legion's End"/>
+        <card number="2" name="Mystical Dispute"/>
+        <card number="1" name="Pack Rat"/>
+    </zone>
+</cockatrice_deck>

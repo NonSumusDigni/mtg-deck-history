@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>3rd. GR Beatdown - Lucas Hager</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Blurred Mongoose"/>
+        <card number="2" name="Flametongue Kavu"/>
+        <card number="4" name="Kavu Runner"/>
+        <card number="4" name="Kavu Titan"/>
+        <card number="4" name="Raging Kavu"/>
+        <card number="3" name="Skizzik"/>
+        <card number="3" name="Thornscape Battlemage"/>
+        <card number="4" name="Thornscape Familiar"/>
+        <card number="3" name="Ghitu Fire"/>
+        <card number="4" name="Urza's Rage"/>
+        <card number="10" name="Forest"/>
+        <card number="1" name="Keldon Necropolis"/>
+        <card number="10" name="Mountain"/>
+        <card number="4" name="Shivan Oasis"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Flametongue Kavu"/>
+        <card number="1" name="Skizzik"/>
+        <card number="1" name="Thornscape Battlemage"/>
+        <card number="4" name="Jade Leech"/>
+        <card number="3" name="Kavu Chameleon"/>
+        <card number="4" name="Overabundance"/>
+    </zone>
+</cockatrice_deck>

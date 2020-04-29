@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>3rd. Simic Flash - Kenta Imai (maimai13)</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Aether Gust"/>
+        <card number="3" name="Bonecrusher Giant"/>
+        <card number="2" name="Brazen Borrower"/>
+        <card number="4" name="Breeding Pool"/>
+        <card number="3" name="Fabled Passage"/>
+        <card number="2" name="Forest"/>
+        <card number="4" name="Frilled Mystic"/>
+        <card number="4" name="Growth Spiral"/>
+        <card number="2" name="Island"/>
+        <card number="1" name="Mountain"/>
+        <card number="2" name="Mystical Dispute"/>
+        <card number="1" name="Negate"/>
+        <card number="4" name="Nightpack Ambusher"/>
+        <card number="4" name="Nissa, Who Shakes the World"/>
+        <card number="3" name="Quench"/>
+        <card number="3" name="Sinister Sabotage"/>
+        <card number="4" name="Steam Vents"/>
+        <card number="4" name="Stomping Ground"/>
+        <card number="1" name="Temple of Abandon"/>
+        <card number="1" name="Temple of Epiphany"/>
+        <card number="4" name="Temple of Mystery"/>
+        <card number="2" name="Uro, Titan of Nature's Wrath"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Aether Gust"/>
+        <card number="1" name="Chemister's Insight"/>
+        <card number="1" name="Disdainful Stroke"/>
+        <card number="2" name="Hydroid Krasis"/>
+        <card number="2" name="Mystical Dispute"/>
+        <card number="1" name="Negate"/>
+        <card number="2" name="Questing Beast"/>
+        <card number="4" name="Scorching Dragonfire"/>
+    </zone>
+</cockatrice_deck>

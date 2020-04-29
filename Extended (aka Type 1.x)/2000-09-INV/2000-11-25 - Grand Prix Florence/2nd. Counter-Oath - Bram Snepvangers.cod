@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>2nd. Counter-Oath - Bram Snepvangers</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Underground Sea"/>
+        <card number="1" name="Savannah"/>
+        <card number="3" name="Treetop Village"/>
+        <card number="4" name="Volcanic Island"/>
+        <card number="4" name="Tropical Island"/>
+        <card number="4" name="Tundra"/>
+        <card number="4" name="Flood Plain"/>
+        <card number="1" name="Abundance"/>
+        <card number="1" name="Sylvan Library"/>
+        <card number="1" name="Powder Keg"/>
+        <card number="2" name="Seal of Cleansing"/>
+        <card number="2" name="Oath of Druids"/>
+        <card number="1" name="Morphling"/>
+        <card number="1" name="Spike Feeder"/>
+        <card number="2" name="Gaea's Blessing"/>
+        <card number="2" name="Enlightened Tutor"/>
+        <card number="2" name="Fact or Fiction"/>
+        <card number="2" name="Worldly Counsel"/>
+        <card number="4" name="Impulse"/>
+        <card number="4" name="Brainstorm"/>
+        <card number="3" name="Annul"/>
+        <card number="2" name="Thwart"/>
+        <card number="4" name="Counterspell"/>
+        <card number="4" name="Force of Will"/>
+        <card number="1" name="Crater Hellion"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Seal of Cleansing"/>
+        <card number="1" name="Aura of Silence"/>
+        <card number="2" name="Oath of Druids"/>
+        <card number="2" name="Swords to Plowshares"/>
+        <card number="3" name="Pyroblast"/>
+        <card number="1" name="Annul"/>
+        <card number="2" name="Teferi's Response"/>
+        <card number="1" name="Phyrexian Furnace"/>
+        <card number="1" name="Circle of Protection: Red"/>
+    </zone>
+</cockatrice_deck>

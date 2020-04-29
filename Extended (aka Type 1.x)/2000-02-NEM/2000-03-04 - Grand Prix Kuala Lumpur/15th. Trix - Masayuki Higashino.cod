@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>15th. Trix - Masayuki Higashino</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Arcane Denial"/>
+        <card number="2" name="Brainstorm"/>
+        <card number="4" name="Dark Ritual"/>
+        <card number="3" name="Demonic Consultation"/>
+        <card number="3" name="Donate"/>
+        <card number="4" name="Duress"/>
+        <card number="1" name="Firestorm"/>
+        <card number="4" name="Force of Will"/>
+        <card number="1" name="Hoodwink"/>
+        <card number="4" name="Illusions of Grandeur"/>
+        <card number="4" name="Mana Vault"/>
+        <card number="4" name="Necropotence"/>
+        <card number="3" name="Vampiric Tutor"/>
+        <card number="4" name="Badlands"/>
+        <card number="1" name="City of Brass"/>
+        <card number="4" name="Gemstone Mine"/>
+        <card number="4" name="Peat Bog"/>
+        <card number="4" name="Underground River"/>
+        <card number="4" name="Underground Sea"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Contagion"/>
+        <card number="1" name="Firestorm"/>
+        <card number="3" name="Hydroblast"/>
+        <card number="1" name="Misdirection"/>
+        <card number="4" name="Phyrexian Negator"/>
+        <card number="1" name="Massacre"/>
+        <card number="1" name="Unmask"/>
+    </zone>
+</cockatrice_deck>

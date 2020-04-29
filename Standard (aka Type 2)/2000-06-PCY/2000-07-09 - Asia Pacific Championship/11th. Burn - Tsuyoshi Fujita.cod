@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>11th. Burn - Tsuyoshi Fujita</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Goblin Cadets"/>
+        <card number="4" name="Goblin Patrol"/>
+        <card number="2" name="Keldon Champion"/>
+        <card number="2" name="Veteran Brawlers"/>
+        <card number="3" name="Arc Lightning"/>
+        <card number="4" name="Earthquake"/>
+        <card number="4" name="Hammer of Bogardan"/>
+        <card number="2" name="Pillage"/>
+        <card number="1" name="Reckless Abandon"/>
+        <card number="3" name="Rhystic Lightning"/>
+        <card number="4" name="Seal of Fire"/>
+        <card number="4" name="Shock"/>
+        <card number="3" name="Ghitu Encampment"/>
+        <card number="16" name="Mountain"/>
+        <card number="4" name="Rishadan Port"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Crater Hellion"/>
+        <card number="1" name="Cursed Totem"/>
+        <card number="3" name="Meekstone"/>
+        <card number="2" name="Scald"/>
+        <card number="2" name="Tangle Wire"/>
+        <card number="3" name="Thran Foundry"/>
+        <card number="2" name="Thran Lens"/>
+    </zone>
+</cockatrice_deck>

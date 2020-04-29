@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>1st. Stompy - Noah Boeken</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Pouncing Jaguar"/>
+        <card number="4" name="Wild Dogs"/>
+        <card number="3" name="Elvish Lyrist"/>
+        <card number="4" name="Vine Dryad"/>
+        <card number="4" name="River Boa"/>
+        <card number="2" name="Albino Troll"/>
+        <card number="3" name="Uktabi Orangutan"/>
+        <card number="4" name="Giant Growth"/>
+        <card number="4" name="Rancor"/>
+        <card number="2" name="Wild Might"/>
+        <card number="4" name="Tangle Wire"/>
+        <card number="1" name="Lumbering Satyr"/>
+        <card number="16" name="Forest"/>
+        <card number="3" name="Gaea's Cradle"/>
+        <card number="2" name="Treetop Village"/>
+    </zone>
+    <zone name="side">
+        <card number="3" name="Thran Foundry"/>
+        <card number="3" name="Cursed Totem"/>
+        <card number="4" name="Rushwood Legate"/>
+        <card number="2" name="Lumbering Satyr"/>
+        <card number="2" name="Treetop Bracers"/>
+        <card number="1" name="Uktabi Orangutan"/>
+    </zone>
+</cockatrice_deck>

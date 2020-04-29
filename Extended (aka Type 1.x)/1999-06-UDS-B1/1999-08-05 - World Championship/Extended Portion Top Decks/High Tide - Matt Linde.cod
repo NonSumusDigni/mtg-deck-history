@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>High Tide - Matt Linde</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Brainstorm"/>
+        <card number="4" name="Counterspell"/>
+        <card number="4" name="Force of Will"/>
+        <card number="4" name="Frantic Search"/>
+        <card number="4" name="High Tide"/>
+        <card number="4" name="Impulse"/>
+        <card number="4" name="Merchant Scroll"/>
+        <card number="2" name="Stroke of Genius"/>
+        <card number="4" name="Turnabout"/>
+        <card number="4" name="Yawgmoth's Will"/>
+        <card number="4" name="Thawing Glaciers"/>
+        <card number="4" name="Underground Sea"/>
+        <card number="1" name="Swamp"/>
+        <card number="13" name="Island"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Defense Grid"/>
+        <card number="4" name="Hydroblast"/>
+        <card number="2" name="Interdict"/>
+        <card number="2" name="Palinchron"/>
+        <card number="1" name="Rescind"/>
+        <card number="2" name="Temporal Adept"/>
+        <card number="2" name="Wasteland"/>
+    </zone>
+</cockatrice_deck>

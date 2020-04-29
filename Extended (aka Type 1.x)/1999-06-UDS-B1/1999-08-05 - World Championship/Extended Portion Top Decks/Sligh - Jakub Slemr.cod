@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Red Deck Wins - Jakub Slemr</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" name="Goblin Cadets"/>
+        <card number="2" name="Goblin Lackey"/>
+        <card number="3" name="Goblin Patrol"/>
+        <card number="2" name="Goblin Vandal"/>
+        <card number="4" name="Jackal Pup"/>
+        <card number="4" name="Mogg Fanatic"/>
+        <card number="2" name="Cursed Scroll"/>
+        <card number="1" name="Death Spark"/>
+        <card number="3" name="Fireblast"/>
+        <card number="1" name="Fork"/>
+        <card number="3" name="Goblin Grenade"/>
+        <card number="4" name="Incinerate"/>
+        <card number="4" name="Lightning Bolt"/>
+        <card number="1" name="Price of Progress"/>
+        <card number="3" name="Shock"/>
+        <card number="16" name="Mountain"/>
+        <card number="4" name="Wasteland"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Cursed Scroll"/>
+        <card number="1" name="Death Spark"/>
+        <card number="2" name="Price of Progress"/>
+        <card number="4" name="Pyroblast"/>
+        <card number="4" name="Tormod's Crypt"/>
+        <card number="2" name="Guerrilla Tactics"/>
+    </zone>
+</cockatrice_deck>

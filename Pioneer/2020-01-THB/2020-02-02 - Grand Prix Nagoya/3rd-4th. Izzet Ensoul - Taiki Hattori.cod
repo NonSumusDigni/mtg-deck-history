@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>3rd-4th. Izzet Ensoul - Taiki Hattori</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Aethersphere Harvester"/>
+        <card number="3" name="Bomat Courier"/>
+        <card number="4" name="Darksteel Citadel"/>
+        <card number="4" name="Ensoul Artifact"/>
+        <card number="4" name="Ghostfire Blade"/>
+        <card number="4" name="Gingerbrute"/>
+        <card number="2" name="Hope of Ghirapur"/>
+        <card number="1" name="Island"/>
+        <card number="1" name="Karn, Scion of Urza"/>
+        <card number="4" name="Lightning Strike"/>
+        <card number="3" name="Mutavault"/>
+        <card number="4" name="Shivan Reef"/>
+        <card number="4" name="Shrapnel Blast"/>
+        <card number="4" name="Skilled Animator"/>
+        <card number="2" name="Spire of Industry"/>
+        <card number="4" name="Spirebluff Canal"/>
+        <card number="4" name="Steam Vents"/>
+        <card number="4" name="Stonecoil Serpent"/>
+        <card number="3" name="Wild Slash"/>
+    </zone>
+    <zone name="side">
+        <card number="3" name="Anger of the Gods"/>
+        <card number="1" name="Disdainful Stroke"/>
+        <card number="4" name="Essence Scatter"/>
+        <card number="2" name="Hangarback Walker"/>
+        <card number="1" name="Storm's Wrath"/>
+        <card number="3" name="Stubborn Denial"/>
+        <card number="1" name="Thopter Spy Network"/>
+    </zone>
+</cockatrice_deck>

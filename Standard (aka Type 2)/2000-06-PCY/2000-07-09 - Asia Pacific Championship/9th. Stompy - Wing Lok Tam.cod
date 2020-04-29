@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>9th. Stompy - Wing Lok Tam</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" name="Albino Troll"/>
+        <card number="3" name="Elvish Lyrist"/>
+        <card number="4" name="Llanowar Elves"/>
+        <card number="3" name="Pouncing Jaguar"/>
+        <card number="4" name="River Boa"/>
+        <card number="2" name="Wild Dogs"/>
+        <card number="4" name="Giant Growth"/>
+        <card number="2" name="Hurricane"/>
+        <card number="3" name="Invigorate"/>
+        <card number="4" name="Rancor"/>
+        <card number="4" name="Tangle Wire"/>
+        <card number="15" name="Forest"/>
+        <card number="3" name="Gaea's Cradle"/>
+        <card number="2" name="Rath's Edge"/>
+        <card number="4" name="Elvish Archers"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Blastoderm"/>
+        <card number="3" name="Harmonic Convergence"/>
+        <card number="3" name="Spreading Algae"/>
+        <card number="4" name="Vine Dryad"/>
+        <card number="3" name="Uktabi Orangutan"/>
+    </zone>
+</cockatrice_deck>

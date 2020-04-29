@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>8th. BUR Control - Frederico Bastos</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" name="Pyre Zombie"/>
+        <card number="2" name="Lobotomy"/>
+        <card number="3" name="Probe"/>
+        <card number="3" name="Void"/>
+        <card number="4" name="Fact or Fiction"/>
+        <card number="4" name="Recoil"/>
+        <card number="2" name="Terminate"/>
+        <card number="4" name="Undermine"/>
+        <card number="3" name="Urza's Rage"/>
+        <card number="2" name="Yawgmoth's Agenda"/>
+        <card number="7" name="Island"/>
+        <card number="4" name="Mountain"/>
+        <card number="4" name="Salt Marsh"/>
+        <card number="3" name="Swamp"/>
+        <card number="4" name="Terminal Moraine"/>
+        <card number="4" name="Urborg Volcano"/>
+        <card number="4" name="Spite // Malice"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Lobotomy"/>
+        <card number="1" name="Terminate"/>
+        <card number="2" name="Cremate"/>
+        <card number="3" name="Gainsay"/>
+        <card number="3" name="Slay"/>
+        <card number="1" name="Tsabo's Decree"/>
+        <card number="4" name="Urborg Shambler"/>
+    </zone>
+</cockatrice_deck>

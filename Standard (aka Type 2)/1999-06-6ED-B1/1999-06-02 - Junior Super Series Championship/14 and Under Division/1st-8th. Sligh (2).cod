@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>1st-8th. Sligh (2)</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Ball Lightning"/>
+        <card number="4" name="Goblin Lackey"/>
+        <card number="3" name="Goblin Raider"/>
+        <card number="4" name="Jackal Pup"/>
+        <card number="4" name="Mogg Fanatic"/>
+        <card number="4" name="Mogg Flunkies"/>
+        <card number="1" name="Rathi Dragon"/>
+        <card number="1" name="Viashino Heretic"/>
+        <card number="4" name="Incinerate"/>
+        <card number="4" name="Shock"/>
+        <card number="2" name="Sonic Burst"/>
+        <card number="4" name="Cursed Scroll"/>
+        <card number="2" name="Ghitu Encampment"/>
+        <card number="16" name="Mountain"/>
+        <card number="3" name="Wasteland"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Rathi Dragon"/>
+        <card number="4" name="Nevinyrral's Disk"/>
+        <card number="3" name="Shattering Pulse"/>
+        <card number="3" name="Thran Lens"/>
+        <card number="3" name="Vug Lizard"/>
+    </zone>
+</cockatrice_deck>

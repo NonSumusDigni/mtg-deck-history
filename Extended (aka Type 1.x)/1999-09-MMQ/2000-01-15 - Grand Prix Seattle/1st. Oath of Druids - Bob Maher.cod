@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>1st. Oath of Druids - Bob Maher</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Morphling"/>
+        <card number="1" name="Spike Feeder"/>
+        <card number="1" name="Spike Weaver"/>
+        <card number="1" name="Abundance"/>
+        <card number="1" name="Aura of Silence"/>
+        <card number="4" name="Brainstorm"/>
+        <card number="4" name="Counterspell"/>
+        <card number="1" name="Disrupt"/>
+        <card number="4" name="Enlightened Tutor"/>
+        <card number="1" name="Forbid"/>
+        <card number="4" name="Force of Will"/>
+        <card number="2" name="Gaea's Blessing"/>
+        <card number="3" name="Impulse"/>
+        <card number="1" name="Ivory Mask"/>
+        <card number="1" name="Null Rod"/>
+        <card number="2" name="Oath of Druids"/>
+        <card number="2" name="Swords to Plowshares"/>
+        <card number="2" name="Sylvan Library"/>
+        <card number="1" name="Trade Routes"/>
+        <card number="1" name="Adarkar Wastes"/>
+        <card number="1" name="Faerie Conclave"/>
+        <card number="3" name="Flood Plain"/>
+        <card number="2" name="Island"/>
+        <card number="1" name="Savannah"/>
+        <card number="3" name="Treetop Village"/>
+        <card number="4" name="Tropical Island"/>
+        <card number="4" name="Tundra"/>
+        <card number="4" name="Wasteland"/>
+    </zone>
+    <zone name="side">
+        <card number="3" name="Annul"/>
+        <card number="1" name="Aura of Silence"/>
+        <card number="1" name="Circle of Protection: Red"/>
+        <card number="1" name="Compost"/>
+        <card number="1" name="Crater Hellion"/>
+        <card number="2" name="Mana Short"/>
+        <card number="2" name="Oath of Druids"/>
+        <card number="1" name="Phyrexian Furnace"/>
+        <card number="2" name="Powder Keg"/>
+        <card number="1" name="Sacred Ground"/>
+    </zone>
+</cockatrice_deck>

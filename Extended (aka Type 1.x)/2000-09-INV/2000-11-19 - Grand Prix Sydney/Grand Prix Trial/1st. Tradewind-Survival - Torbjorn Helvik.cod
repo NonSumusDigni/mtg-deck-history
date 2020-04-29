@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>1st. Survival - Torbjorn Helvik</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="6" name="Forest"/>
+        <card number="5" name="Island"/>
+        <card number="4" name="Tropical Island"/>
+        <card number="1" name="Savannah"/>
+        <card number="4" name="Brainstorm"/>
+        <card number="4" name="Counterspell"/>
+        <card number="4" name="Disrupt"/>
+        <card number="4" name="Force of Will"/>
+        <card number="4" name="Land Grant"/>
+        <card number="4" name="Survival of the Fittest"/>
+        <card number="1" name="Impulse"/>
+        <card number="4" name="Birds of Paradise"/>
+        <card number="4" name="Tradewind Rider"/>
+        <card number="3" name="Wall of Roots"/>
+        <card number="2" name="Quirion Ranger"/>
+        <card number="1" name="Wall of Blossoms"/>
+        <card number="1" name="Merfolk Looter"/>
+        <card number="1" name="Squee, Goblin Nabob"/>
+        <card number="1" name="Uktabi Orangutan"/>
+        <card number="1" name="Spike Weaver"/>
+        <card number="1" name="Gilded Drake"/>
+        <card number="1" name="Spike Feeder"/>
+        <card number="1" name="Morphling"/>
+        <card number="1" name="Llanowar Elves"/>
+    </zone>
+    <zone name="side">
+        <card number="4" name="Back to Basics"/>
+        <card number="3" name="Emerald Charm"/>
+        <card number="2" name="Armageddon"/>
+        <card number="1" name="Spike Feeder"/>
+        <card number="1" name="Gilded Drake"/>
+        <card number="1" name="Uktabi Orangutan"/>
+        <card number="1" name="Masticore"/>
+        <card number="1" name="Deranged Hermit"/>
+        <card number="1" name="Ophidian"/>
+    </zone>
+</cockatrice_deck>

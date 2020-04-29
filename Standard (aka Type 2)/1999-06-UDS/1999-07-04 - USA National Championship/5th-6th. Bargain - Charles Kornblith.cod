@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>[USA Nationals, 3rd] Bargain Combo - Charles Kornblith</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Abundance"/>
+        <card number="3" name="Attunement"/>
+        <card number="1" name="Delusions of Mediocrity"/>
+        <card number="4" name="Intuition"/>
+        <card number="4" name="Frantic Search"/>
+        <card number="3" name="Forbid"/>
+        <card number="4" name="Mox Diamond"/>
+        <card number="4" name="Mystical Tutor"/>
+        <card number="1" name="Peace of Mind"/>
+        <card number="4" name="Replenish"/>
+        <card number="1" name="Sacred Ground"/>
+        <card number="1" name="Seismic Assault"/>
+        <card number="4" name="Vampiric Tutor"/>
+        <card number="1" name="Yawgmoth's Bargain"/>
+        <card number="2" name="Ancient Tomb"/>
+        <card number="4" name="City of Brass"/>
+        <card number="4" name="City of Traitors"/>
+        <card number="8" name="Island"/>
+        <card number="4" name="Plains"/>
+        <card number="2" name="Underground River"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Arcane Laboratory"/>
+        <card number="4" name="Chill"/>
+        <card number="2" name="Defense Grid"/>
+        <card number="2" name="Erase"/>
+        <card number="1" name="Light of Day"/>
+        <card number="2" name="Mana Short"/>
+        <card number="2" name="Propaganda"/>
+        <card number="1" name="Wrath of God"/>
+    </zone>
+</cockatrice_deck>

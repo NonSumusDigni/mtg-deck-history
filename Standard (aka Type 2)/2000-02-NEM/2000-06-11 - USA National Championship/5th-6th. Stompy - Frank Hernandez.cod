@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>5th-6th. Mono-Green Aggro - Frank Hernandez</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" name="Albino Troll"/>
+        <card number="3" name="Elvish Lyrist"/>
+        <card number="3" name="Llanowar Elves"/>
+        <card number="3" name="Pouncing Jaguar"/>
+        <card number="4" name="River Boa"/>
+        <card number="3" name="Uktabi Orangutan"/>
+        <card number="4" name="Vine Dryad"/>
+        <card number="4" name="Wild Dogs"/>
+        <card number="4" name="Giant Growth"/>
+        <card number="2" name="Hurricane"/>
+        <card number="3" name="Land Grant"/>
+        <card number="4" name="Rancor"/>
+        <card number="3" name="Tangle Wire"/>
+        <card number="11" name="Forest"/>
+        <card number="3" name="Gaea's Cradle"/>
+        <card number="3" name="Treetop Village"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Harmonic Convergence"/>
+        <card number="3" name="Meekstone"/>
+        <card number="4" name="Rushwood Dryad"/>
+        <card number="4" name="Rushwood Legate"/>
+        <card number="3" name="Thran Foundry"/>
+    </zone>
+</cockatrice_deck>

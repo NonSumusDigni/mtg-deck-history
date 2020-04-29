@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>3rd-4th. Enchantress - Matthew Norton</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Argothian Enchantress"/>
+        <card number="1" name="Morphling"/>
+        <card number="2" name="Deranged Hermit"/>
+        <card number="4" name="Opposition"/>
+        <card number="4" name="Treachery"/>
+        <card number="4" name="Lilting Refrain"/>
+        <card number="4" name="Veiled Sentry"/>
+        <card number="4" name="Exploration"/>
+        <card number="4" name="Fertile Ground"/>
+        <card number="7" name="Forest"/>
+        <card number="2" name="Treetop Village"/>
+        <card number="10" name="Island"/>
+        <card number="3" name="Thran Quarry"/>
+        <card number="3" name="Horseshoe Crab"/>
+        <card number="4" name="Yavimaya Enchantress"/>
+    </zone>
+    <zone name="side">
+        <card number="3" name="Thran Foundry"/>
+        <card number="4" name="Hibernation"/>
+        <card number="3" name="Annul"/>
+        <card number="3" name="Douse"/>
+        <card number="2" name="Worship"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>1st-8th. Necro</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Persecute"/>
+        <card number="3" name="Yawgmoth's Will"/>
+        <card number="3" name="Corrupt"/>
+        <card number="4" name="Drain Life"/>
+        <card number="4" name="Duress"/>
+        <card number="3" name="Nausea"/>
+        <card number="4" name="Dark Ritual"/>
+        <card number="4" name="Diabolic Edict"/>
+        <card number="4" name="Nevinyrral's Disk"/>
+        <card number="4" name="Urza's Bauble"/>
+        <card number="4" name="Necropotence"/>
+        <card number="22" name="Swamp"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Persecute"/>
+        <card number="3" name="Bottle Gnomes"/>
+        <card number="3" name="Carrion Beetles"/>
+        <card number="2" name="Coercion"/>
+        <card number="3" name="Engineered Plague"/>
+        <card number="3" name="Gloom"/>
+    </zone>
+</cockatrice_deck>

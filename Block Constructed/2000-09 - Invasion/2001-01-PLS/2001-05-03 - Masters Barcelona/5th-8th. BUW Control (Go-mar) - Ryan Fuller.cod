@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>5th-8th. BUW Control (Go-mar) - Ryan Fuller</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Meddling Mage"/>
+        <card number="2" name="Galina's Knight"/>
+        <card number="2" name="Dromar, the Banisher"/>
+        <card number="2" name="Rout"/>
+        <card number="2" name="Lobotomy"/>
+        <card number="4" name="Dromar's Charm"/>
+        <card number="4" name="Absorb"/>
+        <card number="4" name="Fact or Fiction"/>
+        <card number="4" name="Opt"/>
+        <card number="1" name="Disrupt"/>
+        <card number="1" name="Exclude"/>
+        <card number="1" name="Repulse"/>
+        <card number="2" name="Teferi's Moat"/>
+        <card number="1" name="Yawgmoth's Agenda"/>
+        <card number="7" name="Plains"/>
+        <card number="8" name="Island"/>
+        <card number="3" name="Swamp"/>
+        <card number="4" name="Coastal Tower"/>
+        <card number="4" name="Salt Marsh"/>
+        <card number="1" name="Spite // Malice"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Galina's Knight"/>
+        <card number="1" name="Dromar, the Banisher"/>
+        <card number="1" name="Rout"/>
+        <card number="1" name="Lobotomy"/>
+        <card number="1" name="Disrupt"/>
+        <card number="3" name="Crusading Knight"/>
+        <card number="4" name="Gainsay"/>
+        <card number="2" name="Benalish Heralds"/>
+    </zone>
+</cockatrice_deck>

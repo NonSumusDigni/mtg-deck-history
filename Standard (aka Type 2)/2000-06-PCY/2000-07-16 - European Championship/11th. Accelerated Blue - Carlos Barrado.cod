@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>11th. Accelerated Blue - Carlos Barrado</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Miscalculation"/>
+        <card number="4" name="Counterspell"/>
+        <card number="4" name="Thwart"/>
+        <card number="3" name="Annul"/>
+        <card number="4" name="Powder Keg"/>
+        <card number="3" name="Treachery"/>
+        <card number="3" name="Masticore"/>
+        <card number="3" name="Morphling"/>
+        <card number="3" name="Stroke of Genius"/>
+        <card number="4" name="Grim Monolith"/>
+        <card number="4" name="Rishadan Port"/>
+        <card number="21" name="Island"/>
+    </zone>
+    <zone name="side">
+        <card number="4" name="Hibernation"/>
+        <card number="3" name="Misdirection"/>
+        <card number="2" name="Stronghold Machinist"/>
+        <card number="2" name="Scrying Glass"/>
+        <card number="2" name="Douse"/>
+        <card number="1" name="Annul"/>
+        <card number="1" name="Masticore"/>
+    </zone>
+</cockatrice_deck>

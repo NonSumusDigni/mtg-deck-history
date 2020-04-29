@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>6-0. BG Midrange - Eduardo Simoa Texeira</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Silt Crawler"/>
+        <card number="4" name="Thrashing Wumpus"/>
+        <card number="4" name="Blastoderm"/>
+        <card number="4" name="Saproling Burst"/>
+        <card number="2" name="Primeval Shambler"/>
+        <card number="4" name="Seal of Doom"/>
+        <card number="4" name="Snuff Out"/>
+        <card number="4" name="Chimeric Idol"/>
+        <card number="1" name="Haunted Crossroads"/>
+        <card number="3" name="Vendetta"/>
+        <card number="2" name="Vine Trellis"/>
+        <card number="12" name="Forest"/>
+        <card number="12" name="Swamp"/>
+    </zone>
+    <zone name="side">
+        <card number="4" name="Massacre"/>
+        <card number="3" name="Forced March"/>
+        <card number="4" name="Reverent Silence"/>
+        <card number="4" name="Distorting Lens"/>
+    </zone>
+</cockatrice_deck>

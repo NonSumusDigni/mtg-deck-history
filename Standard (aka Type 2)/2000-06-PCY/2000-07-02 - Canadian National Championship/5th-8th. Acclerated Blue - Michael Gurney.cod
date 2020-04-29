@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>5th-8th. Acclerated Blue - Michael Gurney</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Masticore"/>
+        <card number="2" name="Morphling"/>
+        <card number="1" name="Brainstorm"/>
+        <card number="4" name="Counterspell"/>
+        <card number="1" name="Daze"/>
+        <card number="2" name="Foil"/>
+        <card number="4" name="Grim Monolith"/>
+        <card number="4" name="Powder Keg"/>
+        <card number="4" name="Miscalculation"/>
+        <card number="3" name="Stroke of Genius"/>
+        <card number="1" name="Thwart"/>
+        <card number="3" name="Treachery"/>
+        <card number="2" name="Dust Bowl"/>
+        <card number="2" name="Faerie Conclave"/>
+        <card number="18" name="Island"/>
+        <card number="1" name="Rath's Edge"/>
+        <card number="4" name="Rishadan Port"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Annul"/>
+        <card number="1" name="Arcane Laboratory"/>
+        <card number="3" name="Chill"/>
+        <card number="3" name="Hibernation"/>
+        <card number="1" name="Scrying Glass"/>
+        <card number="2" name="Seal of Removal"/>
+        <card number="3" name="Stronghold Machinist"/>
+    </zone>
+</cockatrice_deck>

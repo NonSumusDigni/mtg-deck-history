@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>1st-8th. Wildfire</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Avalanche Riders"/>
+        <card number="4" name="Mogg Fanatic"/>
+        <card number="2" name="Orgg"/>
+        <card number="3" name="Raze"/>
+        <card number="4" name="Stone Rain"/>
+        <card number="4" name="Wildfire"/>
+        <card number="1" name="Earthquake"/>
+        <card number="1" name="Jokulhaups"/>
+        <card number="3" name="Shock"/>
+        <card number="4" name="Incinerate"/>
+        <card number="4" name="Nevinyrral's Disk"/>
+        <card number="4" name="Ghitu Encampment"/>
+        <card number="22" name="Mountain"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Raze"/>
+        <card number="3" name="Earthquake"/>
+        <card number="3" name="Jokulhaups"/>
+        <card number="4" name="Pyroblast"/>
+        <card number="4" name="Ticking Gnomes"/>
+    </zone>
+</cockatrice_deck>

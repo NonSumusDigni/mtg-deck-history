@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>6th. Fires - Michael Pustilnik</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Birds of Paradise"/>
+        <card number="4" name="River Boa"/>
+        <card number="4" name="Blastoderm"/>
+        <card number="3" name="Llanowar Elves"/>
+        <card number="3" name="Kavu Titan"/>
+        <card number="3" name="Ghitu Fire"/>
+        <card number="3" name="Earthquake"/>
+        <card number="3" name="Aura Mutation"/>
+        <card number="4" name="Chimeric Idol"/>
+        <card number="4" name="Saproling Burst"/>
+        <card number="3" name="Fires of Yavimaya"/>
+        <card number="6" name="Forest"/>
+        <card number="4" name="Mountain"/>
+        <card number="4" name="Karplusan Forest"/>
+        <card number="4" name="Brushland"/>
+        <card number="2" name="Rishadan Port"/>
+        <card number="1" name="Shivan Oasis"/>
+        <card number="1" name="Elfhame Palace"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Earthquake"/>
+        <card number="4" name="Simoon"/>
+        <card number="4" name="Boil"/>
+        <card number="3" name="Flashfires"/>
+        <card number="2" name="Blood Oath"/>
+        <card number="1" name="Lumbering Satyr"/>
+    </zone>
+</cockatrice_deck>

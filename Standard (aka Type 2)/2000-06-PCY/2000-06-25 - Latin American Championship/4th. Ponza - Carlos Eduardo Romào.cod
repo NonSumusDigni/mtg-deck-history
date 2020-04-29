@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>4th. Ponza - Carlos Eduardo Romào</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Avalanche Riders"/>
+        <card number="3" name="Masticore"/>
+        <card number="3" name="Cave-In"/>
+        <card number="3" name="Earthquake"/>
+        <card number="3" name="Fire Diamond"/>
+        <card number="3" name="Hammer of Bogardan"/>
+        <card number="4" name="Pillage"/>
+        <card number="4" name="Seal of Fire"/>
+        <card number="2" name="Shock"/>
+        <card number="4" name="Stone Rain"/>
+        <card number="2" name="Tectonic Break"/>
+        <card number="2" name="Dust Bowl"/>
+        <card number="3" name="Ghitu Encampment"/>
+        <card number="4" name="Karplusan Forest"/>
+        <card number="12" name="Mountain"/>
+        <card number="4" name="Rishadan Port"/>
+    </zone>
+    <zone name="side">
+        <card number="4" name="Boil"/>
+        <card number="1" name="Fire Diamond"/>
+        <card number="2" name="Tectonic Break"/>
+        <card number="4" name="Thran Foundry"/>
+        <card number="4" name="Tranquility"/>
+    </zone>
+</cockatrice_deck>

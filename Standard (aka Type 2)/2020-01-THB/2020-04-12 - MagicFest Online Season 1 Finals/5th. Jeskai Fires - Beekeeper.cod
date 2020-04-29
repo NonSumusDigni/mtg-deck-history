@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>5th. Jeskai Fires - Beekeeper</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Aether Gust"/>
+        <card number="4" name="Bonecrusher Giant"/>
+        <card number="2" name="Castle Vantress"/>
+        <card number="4" name="Cavalier of Flame"/>
+        <card number="4" name="Deafening Clarion"/>
+        <card number="2" name="Elspeth Conquers Death"/>
+        <card number="3" name="Fabled Passage"/>
+        <card number="4" name="Fires of Invention"/>
+        <card number="2" name="Haktos the Unscarred"/>
+        <card number="4" name="Hallowed Fountain"/>
+        <card number="1" name="Island"/>
+        <card number="3" name="Kenrith, the Returned King"/>
+        <card number="2" name="Mountain"/>
+        <card number="2" name="Plains"/>
+        <card number="3" name="Sacred Foundry"/>
+        <card number="4" name="Sphinx of Foresight"/>
+        <card number="4" name="Steam Vents"/>
+        <card number="4" name="Teferi, Time Raveler"/>
+        <card number="2" name="Temple of Epiphany"/>
+        <card number="4" name="Temple of Triumph"/>
+    </zone>
+    <zone name="side">
+        <card number="3" name="Devout Decree"/>
+        <card number="1" name="Disenchant"/>
+        <card number="1" name="Elspeth Conquers Death"/>
+        <card number="3" name="Legion Warboss"/>
+        <card number="2" name="Mystical Dispute"/>
+        <card number="2" name="Robber of the Rich"/>
+        <card number="3" name="Tithe Taker"/>
+    </zone>
+</cockatrice_deck>

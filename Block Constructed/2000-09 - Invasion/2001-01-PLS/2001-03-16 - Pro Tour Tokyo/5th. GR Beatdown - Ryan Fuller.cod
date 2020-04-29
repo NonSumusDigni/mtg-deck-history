@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>5th. GR Beatdown - Ryan Fuller</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Blurred Mongoose"/>
+        <card number="2" name="Flametongue Kavu"/>
+        <card number="4" name="Kavu Titan"/>
+        <card number="4" name="Raging Kavu"/>
+        <card number="4" name="Skizzik"/>
+        <card number="4" name="Thornscape Battlemage"/>
+        <card number="4" name="Thornscape Familiar"/>
+        <card number="2" name="Yavimaya Barbarian"/>
+        <card number="4" name="Ghitu Fire"/>
+        <card number="4" name="Urza's Rage"/>
+        <card number="10" name="Forest"/>
+        <card number="1" name="Keldon Necropolis"/>
+        <card number="9" name="Mountain"/>
+        <card number="4" name="Shivan Oasis"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Flametongue Kavu"/>
+        <card number="3" name="Gaea's Herald"/>
+        <card number="2" name="Jade Leech"/>
+        <card number="3" name="Overabundance"/>
+        <card number="4" name="Thunderscape Battlemage"/>
+        <card number="1" name="Wallop"/>
+    </zone>
+</cockatrice_deck>

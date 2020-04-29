@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>2nd. Trinity Green - Watanabe Hiroto</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" name="Birds of Paradise"/>
+        <card number="4" name="Deranged Hermit"/>
+        <card number="4" name="Llanowar Elves"/>
+        <card number="4" name="Masticore"/>
+        <card number="3" name="Priest of Titania"/>
+        <card number="4" name="Rofellos, Llanowar Emissary"/>
+        <card number="4" name="Skyshroud Poacher"/>
+        <card number="2" name="Phyrexian Processor"/>
+        <card number="4" name="Plow Under"/>
+        <card number="4" name="Tangle Wire"/>
+        <card number="14" name="Forest"/>
+        <card number="4" name="Gaea's Cradle"/>
+        <card number="4" name="Rishadan Port"/>
+        <card number="2" name="Treetop Village"/>
+    </zone>
+    <zone name="side">
+        <card number="3" name="Blastoderm"/>
+        <card number="2" name="Harmonic Convergence"/>
+        <card number="2" name="Phyrexian Processor"/>
+        <card number="4" name="Reverent Silence"/>
+        <card number="1" name="Spidersilk Armor"/>
+        <card number="3" name="Splinter"/>
+    </zone>
+</cockatrice_deck>

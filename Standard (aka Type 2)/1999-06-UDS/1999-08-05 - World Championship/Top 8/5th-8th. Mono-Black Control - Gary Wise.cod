@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>5th-8th. Mono-Black Control - Gary Wise</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Bottle Gnomes"/>
+        <card number="1" name="Phyrexian Negator"/>
+        <card number="3" name="Phyrexian Plaguelord"/>
+        <card number="3" name="Ravenous Rats"/>
+        <card number="2" name="Ticking Gnomes"/>
+        <card number="2" name="Corpse Dance"/>
+        <card number="3" name="Cursed Scroll"/>
+        <card number="4" name="Dark Ritual"/>
+        <card number="4" name="Duress"/>
+        <card number="4" name="Diabolic Edict"/>
+        <card number="4" name="Powder Keg"/>
+        <card number="1" name="Rapid Decay"/>
+        <card number="2" name="Stupor"/>
+        <card number="1" name="Vampiric Tutor"/>
+        <card number="3" name="Yawgmoth's Will"/>
+        <card number="1" name="Phyrexian Tower"/>
+        <card number="2" name="Spawning Pit"/>
+        <card number="13" name="Swamp"/>
+        <card number="2" name="Volrath's Stronghold"/>
+        <card number="4" name="Wasteland"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Cursed Scroll"/>
+        <card number="3" name="Perish"/>
+        <card number="2" name="Phyrexian Negator"/>
+        <card number="3" name="Planar Void"/>
+        <card number="2" name="Rapid Decay"/>
+        <card number="1" name="Sphere of Resistance"/>
+        <card number="1" name="Stromgald Cabal"/>
+        <card number="1" name="Vampiric Tutor"/>
+        <card number="1" name="Yawgmoth's Bargain"/>
+    </zone>
+</cockatrice_deck>

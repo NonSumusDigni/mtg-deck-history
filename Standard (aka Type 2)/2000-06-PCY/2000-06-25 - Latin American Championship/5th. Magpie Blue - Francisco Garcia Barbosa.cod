@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>5th. Magpie Blue - Francisco Garcia Barbosa</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Thieving Magpie"/>
+        <card number="4" name="Masticore"/>
+        <card number="2" name="Morphling"/>
+        <card number="4" name="Accumulated Knowledge"/>
+        <card number="4" name="Counterspell"/>
+        <card number="4" name="Daze"/>
+        <card number="4" name="Miscalculation"/>
+        <card number="4" name="Powder Keg"/>
+        <card number="3" name="Thwart"/>
+        <card number="2" name="Treachery"/>
+        <card number="2" name="Dust Bowl"/>
+        <card number="19" name="Island"/>
+        <card number="4" name="Rishadan Port"/>
+    </zone>
+    <zone name="side">
+        <card number="3" name="Annul"/>
+        <card number="3" name="Chill"/>
+        <card number="2" name="Hibernation"/>
+        <card number="3" name="Misdirection"/>
+        <card number="4" name="Seal of Removal"/>
+    </zone>
+</cockatrice_deck>

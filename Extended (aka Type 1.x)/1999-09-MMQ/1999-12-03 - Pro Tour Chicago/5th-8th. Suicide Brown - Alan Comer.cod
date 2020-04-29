@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>5th-8th. Suicide Brown - Alan Comer</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Masticore"/>
+        <card number="2" name="Phyrexian Colossus"/>
+        <card number="1" name="Arcane Denial"/>
+        <card number="3" name="Crumbling Sanctuary"/>
+        <card number="1" name="Cursed Scroll"/>
+        <card number="2" name="Dust Bowl"/>
+        <card number="4" name="Grim Monolith"/>
+        <card number="3" name="Mana Leak"/>
+        <card number="4" name="Mana Vault"/>
+        <card number="1" name="Null Brooch"/>
+        <card number="4" name="Phyrexian Processor"/>
+        <card number="4" name="Thran Dynamo"/>
+        <card number="4" name="Tinker"/>
+        <card number="4" name="Voltaic Key"/>
+        <card number="3" name="Ancient Tomb"/>
+        <card number="4" name="City of Traitors"/>
+        <card number="12" name="Island"/>
+    </zone>
+    <zone name="side">
+        <card number="3" name="Annul"/>
+        <card number="2" name="Back to Basics"/>
+        <card number="1" name="Caltrops"/>
+        <card number="1" name="Crumbling Sanctuary"/>
+        <card number="2" name="Disrupting Scepter"/>
+        <card number="1" name="Mana Leak"/>
+        <card number="1" name="Thran Foundry"/>
+        <card number="3" name="Null Brooch"/>
+        <card number="1" name="Phyrexian Furnace"/>
+    </zone>
+</cockatrice_deck>
