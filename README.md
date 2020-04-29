@@ -10,3 +10,4 @@ Currently, this is very much a work in progress. I am in the process of adding d
 3. Write CONTRIBUTING.md to guide possible helpers
 4. Set up webhooks to run validation on PRs
 5. Set up webhooks to trigger builds of a JSON version of the collection
+6. Look into automatic ingestion of contemporary results (from MTG Goldfish or MTG Top 8 maybe)
