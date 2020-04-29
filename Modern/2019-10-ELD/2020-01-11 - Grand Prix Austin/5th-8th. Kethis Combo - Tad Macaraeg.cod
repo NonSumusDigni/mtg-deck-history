@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>5th-8th. Kethis Combo - Tad Macaraeg</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Arcum's Astrolabe"/>
+        <card number="1" name="Breeding Pool"/>
+        <card number="4" name="Emry, Lurker of the Loch"/>
+        <card number="3" name="Flooded Strand"/>
+        <card number="4" name="Gilded Goose"/>
+        <card number="4" name="Grinding Station"/>
+        <card number="1" name="Hallowed Fountain"/>
+        <card number="1" name="Hope of Ghirapur"/>
+        <card number="4" name="Kethis, the Hidden Hand"/>
+        <card number="4" name="Mishra's Bauble"/>
+        <card number="4" name="Misty Rainforest"/>
+        <card number="4" name="Mox Amber"/>
+        <card number="4" name="Mox Opal"/>
+        <card number="3" name="Oko, Thief of Crowns"/>
+        <card number="1" name="Polluted Delta"/>
+        <card number="1" name="Saheeli, Sublime Artificer"/>
+        <card number="1" name="Snow-Covered Forest"/>
+        <card number="1" name="Snow-Covered Island"/>
+        <card number="1" name="Snow-Covered Plains"/>
+        <card number="1" name="Snow-Covered Swamp"/>
+        <card number="2" name="Teferi, Time Raveler"/>
+        <card number="1" name="Temple Garden"/>
+        <card number="3" name="Unearth"/>
+        <card number="2" name="Verdant Catacombs"/>
+        <card number="1" name="Watery Grave"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Assassin's Trophy"/>
+        <card number="2" name="Collective Brutality"/>
+        <card number="3" name="Fatal Push"/>
+        <card number="2" name="Metallic Rebuke"/>
+        <card number="2" name="Mystical Dispute"/>
+        <card number="1" name="Sai, Master Thopterist"/>
+        <card number="3" name="Veil of Summer"/>
+    </zone>
+</cockatrice_deck>
