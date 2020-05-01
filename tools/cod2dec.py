@@ -44,9 +44,9 @@ def convert(xml_root):
         for card in zone.iter('card'):
             card_count = card.get('number')
             card_name = card.get('name')
-            output_lines.append('{}{} {}'.format(prefix, card_count, card_name))
+            output_lines.append('{} {} {}'.format(prefix, card_count, card_name))
 
-    return '\n'.join(output_lines)
+    return '\n'.join(output_lines) + '\n'
 
 
 convert_dir(os.path.curdir)
