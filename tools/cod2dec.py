@@ -1,8 +1,15 @@
 #!/bin/bash python3
 
+import argparse
 import os
 import xml.etree.ElementTree as ET
 
+parser = argparse.ArgumentParser(description='Convert all .cod files to .dec files recursively from the current directory.')
+parser.add_argument('--delete', '-d', action='store_true', help='Also delete the .cod files after converting')
+parser.add_argument('--dry-run', action='store_true', help="Don't write or delete any files, just print intentions")
+args = parser.parse_args()
+
+log_prefix = '[DRY RUN] ' if args.dry_run else ''
 
 def convert_dir(dir_path):
     for root, dirs, files in os.walk(dir_path):
@@ -18,10 +25,17 @@ def convert_dir(dir_path):
 
                 # check if a .dec version already exists
                 if not os.path.isfile(dec_file_name):
-                    print('Converting file: {}...'.format(cod_file_name))
+                    print('{}Converting file {}'.format(log_prefix, cod_file_name))
                     dec_file_contents = convert(ET.parse(cod_file_name).getroot())
-                    with open(dec_file_name, 'w') as f:
-                        f.write(dec_file_contents)
+                    print('{}Writing file {}'.format(log_prefix, dec_file_name))
+                    if not args.dry_run:
+                        with open(dec_file_name, 'w') as f:
+                            f.write(dec_file_contents)
+
+                if args.delete:
+                    print('{}Deleting file {}'.format(log_prefix, cod_file_name))
+                    if not args.dry_run:
+                        os.remove(cod_file_name)
     
 
 def convert(xml_root):
