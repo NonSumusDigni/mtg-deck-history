@@ -1,5 +1,3 @@
-#!/bin/bash python3
-
 import argparse
 import os
 import xml.etree.ElementTree as ET
