@@ -1,602 +1,602 @@
-"Code","Version","Format","Start Month","Summary"
-"BC-ALA-2008-10-ALA","BC-ALA-0.1.0","Shards of Alara Block","2008-10","Shards of Alara cards now legal."
-"BC-ALA-2009-03-CON","BC-ALA-1.0.0","Shards of Alara Block","2009-03","Conflux cards now legal."
-"BC-ALA-2009-05-ARB","BC-ALA-1.1.0","Shards of Alara Block","2009-05","Alara Reborn cards now legal."
-"BC-CHK-2004-11-CHK","BC-CHK-0.1.0","Kamigawa Block","2004-11","Champions of Kamigawa cards are now legal."
-"BC-CHK-2005-03-BOK","BC-CHK-1.0.0","Kamigawa Block","2005-03","Betrayers of Kamigawa cards are now legal."
-"BC-CHK-2005-07-SOK","BC-CHK-1.1.0","Kamigawa Block","2005-07","Saviors of Kamigawa cards now legal."
-"BC-ICE-1995-06-ICE","BC-ICE-0.1.0","Ice Age Block","1995-06","Ice Age cards now legal"
-"BC-ICE-1995-10-HML","BC-ICE-1.0.0","Ice Age Block","1995-10","Homelands cards now legal"
-"BC-ICE-1996-06-ALL","BC-ICE-1.1.0","Ice Age Block","1996-06","Alliances cards now legal"
-"BC-ICE-1997-05-ALL-B1","BC-ICE-1.1.1","Ice Age Block","1997-05","Thawing Glaciers and Zuran Orb are banned."
-"BC-ICE-2006-08-CSP","BC-ICE-2.0.0","Ice Age Block","2006-08","Ice Age Block redefined as Ice Age, Alliances, and Coldsnap. Homelands cards no longer legal."
-"BC-INV-2000-10-INV","BC-INV-0.1.0","Invasion Block","2000-10","Invasion cards now legal."
-"BC-INV-2001-02-PLS","BC-INV-1.0.0","Invasion Block","2001-02","Planeshift cards now legal."
-"BC-INV-2001-06-APC","BC-INV-1.1.0","Invasion Block","2001-06","Apocalypse cards now legal."
-"BC-ISD-2011-10-ISD","BC-ISD-0.1.0","Innistrad-Avacyn Restored Block","2011-10","Innistrad cards now legal."
-"BC-ISD-2012-03-DKA","BC-ISD-1.0.0","Innistrad-Avacyn Restored Block","2012-03","Dark Ascension cards now legal."
-"BC-ISD-2012-03-DKA-B1","BC-ISD-1.0.1","Innistrad-Avacyn Restored Block","2012-03","Intangible Virtue and Lingering Souls are banned."
-"BC-ISD-2012-06-AVR","BC-ISD-1.1.0","Innistrad-Avacyn Restored Block","2012-06","Avacyn Restored cards now legal."
-"BC-LRW-2007-11-LRW","BC-LRW-0.1.0","Lorwyn-Shadowmoor Block","2007-11","Lorwyn cards now legal."
-"BC-LRW-2008-03-MOR","BC-LRW-1.0.0","Lorwyn-Shadowmoor Block","2008-03","Morningtide cards now legal."
-"BC-LRW-2008-06-SHM","BC-LRW-1.1.0","Lorwyn-Shadowmoor Block","2008-06","Shadowmoor cards now legal."
-"BC-LRW-2008-07-EVE","BC-LRW-1.2.0","Lorwyn-Shadowmoor Block","2008-07","Eventide cards now legal."
-"BC-MIR-1996-10-MIR","BC-MIR-0.1.0","Mirage Block","1996-10","Mirage cards now legal"
-"BC-MIR-1997-03-VIS","BC-MIR-1.0.0","Mirage Block","1997-03","Visions cards now legal"
-"BC-MIR-1997-07-WTH","BC-MIR-1.1.0","Mirage Block","1997-07","Weatherlight cards now legal"
-"BC-MIR-1997-07-WTH-B1","BC-MIR-1.1.1","Mirage Block","1997-07","Squandered Resources is banned"
-"BC-MMQ-1999-10-MMQ","BC-MMQ-0.1.0","Mercadian Masques Block","1999-10","Mercadian Masques cards now legal."
-"BC-MMQ-2000-03-NEM","BC-MMQ-1.0.0","Mercadian Masques Block","2000-03","Nemesis cards now legal."
-"BC-MMQ-2000-06-NEM-B1","BC-MMQ-1.0.1","Mercadian Masques Block","2000-06","Lin Sivvi, Defiant Hero and Rishadan Port are banned"
-"BC-MMQ-2000-07-PCY","BC-MMQ-1.1.0","Mercadian Masques Block","2000-07","Prophecy cards now legal."
-"BC-MRD-2003-11-MRD","BC-MRD-0.1.0","Mirrodin Block","2003-11","Mirrodin cards now legal."
-"BC-MRD-2004-03-DST","BC-MRD-1.0.0","Mirrodin Block","2004-03","Darksteel cards now legal."
-"BC-MRD-2004-06-DST-B1","BC-MRD-1.0.1","Mirrodin Block","2004-06","Skullclamp is banned."
-"BC-MRD-2004-07-5DN","BC-MRD-1.1.0","Mirrodin Block","2004-07","Fifth Dawn cards now legal."
-"BC-MRD-2006-03-5DN-B1","BC-MRD-1.1.1","Mirrodin Block","2006-03","Aether Vial, Ancient Den, Arcbound Ravager, Darksteel Citadel, Disciple of the Vault, Great Furnace, Seat of the Synod, Tree of Tales, and Vault of Whispers are banned."
-"BC-ODY-2001-11-ODY","BC-ODY-0.1.0","Odyssey Block","2001-11","Odyssey cards now legal."
-"BC-ODY-2002-03-TOR","BC-ODY-1.0.0","Odyssey Block","2002-03","Torment cards now legal."
-"BC-ODY-2002-06-JUD","BC-ODY-1.1.0","Odyssey Block","2002-06","Judgment cards now legal."
-"BC-ONS-2002-11-ONS","BC-ONS-0.1.0","Onslaught Block","2002-11","Onslaught cards now legal."
-"BC-ONS-2003-02-LGN","BC-ONS-1.0.0","Onslaught Block","2003-02","Legions cards now legal."
-"BC-ONS-2003-06-SCG","BC-ONS-1.1.0","Onslaught Block","2003-06","Scourge cards now legal."
-"BC-RAV-2005-11-RAV","BC-RAV-0.1.0","Ravnica Block","2005-11","Ravnica: City of Guilds cards are now legal."
-"BC-RAV-2006-03-GPT","BC-RAV-1.0.0","Ravnica Block","2006-03","Guildpact cards now legal."
-"BC-RAV-2006-06-DIS","BC-RAV-1.1.0","Ravnica Block","2006-06","Dissension cards now legal."
-"BC-RTR-2012-11-RTR","BC-RTR-0.1.0","Return to Ravnica Block","2012-11","Return to Ravnica cards now legal."
-"BC-RTR-2013-03-GTC","BC-RTR-1.0.0","Return to Ravnica Block","2013-03","Gatecrash cards now legal."
-"BC-RTR-2013-05-DGM","BC-RTR-1.1.0","Return to Ravnica Block","2013-05","Dragon's Maze cards now legal."
-"BC-SOM-2010-11-SOM","BC-SOM-0.1.0","Scars of Mirrodin Block","2010-11","Scars of Mirrodin cards now legal."
-"BC-SOM-2011-03-MBS","BC-SOM-1.0.0","Scars of Mirrodin Block","2011-03","Mirrodin Beseiged cards now legal."
-"BC-SOM-2011-06-NPH","BC-SOM-1.1.0","Scars of Mirrodin Block","2011-06","New Phyrexia cards now legal."
-"BC-THS-2013-10-THS","BC-THS-0.1.0","Theros Block","2013-10","Theros cards now legal."
-"BC-THS-2014-03-BNG","BC-THS-1.0.0","Theros Block","2014-03","Born of the Gods cards now legal."
-"BC-THS-2014-05-JOU","BC-THS-1.1.0","Theros Block","2014-05","Journey Into Nyx cards now legal."
-"BC-TMP-1997-11-TMP","BC-TMP-0.1.0","Tempest Block","1997-11","Tempest cards now legal"
-"BC-TMP-1998-03-STH","BC-TMP-1.0.0","Tempest Block","1998-03","Stronghold cards now legal"
-"BC-TMP-1998-07-EXO","BC-TMP-1.1.0","Tempest Block","1998-07","Exodus cards now legal"
-"BC-TMP-1998-07-EXO-B1","BC-TMP-1.1.1","Tempest Block","1998-07","Cursed Scroll is banned."
-"BC-TSP-2006-11-TSP","BC-TSP-0.1.0","Time Spiral Block","2006-11","Time Spiral cards now legal."
-"BC-TSP-2007-03-PLC","BC-TSP-1.0.0","Time Spiral Block","2007-03","Planar Chaos cards now legal."
-"BC-TSP-2007-06-FUT","BC-TSP-1.1.0","Time Spiral Block","2007-06","Future Sight cards now legal."
-"BC-USG-1998-11-USG","BC-USG-0.1.0","Urza's Saga Block","1998-11","Urza's Saga cards now legal"
-"BC-USG-1999-03-ULG","BC-USG-1.0.0","Urza's Saga Block","1999-03","Urza's Legacy cards now legal"
-"BC-USG-1999-03-ULG-B1","BC-USG-1.0.1","Urza's Saga Block","1999-03","Time Spiral, Memory Jar, and Windfall are banned"
-"BC-USG-1999-06-ULG-B2","BC-USG-1.0.2","Urza's Saga Block","1999-06","Gaea's Cradle, Serra's Sanctum, Tolarian Academy, and Voltaic Key are banned."
-"BC-USG-1999-07-UDS","BC-USG-1.1.0","Urza's Saga Block","1999-07","Urza's Destiny cards now legal."
-"BC-ZEN-2009-11-ZEN","BC-ZEN-0.1.0","Zendikar Block","2009-11","Zendikar cards now legal."
-"BC-ZEN-2010-03-WWK","BC-ZEN-1.0.0","Zendikar Block","2010-03","Worldwake cards now legal."
-"BC-ZEN-2010-05-ROE","BC-ZEN-1.1.0","Zendikar Block","2010-05","Rise of the Eldrazi cards now legal."
-"EXT-1997-07-WTH","EXT-1.0.0.0","Extended","1997-07","Extended, announced in May, is now officially sanctioned. Initial banned list is made of cards from Limited Edition, Unlimited Edition, Arabian Nights, Antiquities, and Legends (which have not been reprinted), ante cards, and additionally: Demonic Tutor, Balance, Fastbond, Regrowth, Black Vise, Ivory Tower, Serendib Efreet, Braingeyser, Sol Ring, Juggernaut, Strip Mine, Channel, Kird Ape, Mana Crypt, Maze of Ith, Wheel of Fortune, Mind Twist, and Zuran Orb are banned."
-"EXT-1997-10-WTH-B1","EXT-1.0.0.1","Extended","1997-10","Hypnotic Specter is banned. Juggernaut is unbanned"
-"EXT-1997-11-TMP","EXT-1.0.1.0","Extended","1997-11","Tempest cards now legal"
-"EXT-1998-03-STH","EXT-1.0.2.0","Extended","1998-03","Stronghold cards now legal"
-"EXT-1998-07-EXO","EXT-1.0.3.0","Extended","1998-07","Exodus cards now legal"
-"EXT-1998-07-EXO-B1","EXT-1.0.3.1","Extended","1998-07","Land Tax is banned."
-"EXT-1998-11-USG","EXT-1.0.4.0","Extended","1998-11","Urza's Saga cards now legal"
-"EXT-1998-12-USG-B1","EXT-1.0.4.1","Extended","1998-12","Tolarian Academy and Windfall are banned. Braingeyser is unbanned."
-"EXT-1999-03-ULG","EXT-1.0.5.0","Extended","1999-03","Urza's Legacy cards now legal"
-"EXT-1999-03-ULG-B1","EXT-1.0.5.1","Extended","1999-03","Memory Jar is banned."
-"EXT-1999-05-6ED","EXT-1.0.6.0","Extended","1999-05","Sixth Edition cards now legal."
-"EXT-1999-06-6ED-B1","EXT-1.0.6.1","Extended","1999-06","Time Spiral is banned."
-"EXT-1999-07-UDS","EXT-1.0.7.0","Extended","1999-07","Urza's Destiny cards now legal."
-"EXT-1999-08-UDS-B1","EXT-1.0.7.1","Extended","1999-08","Yawgmoth's Bargain is banned."
-"EXT-1999-09-UDS-B2","EXT-1.0.7.2","Extended","1999-09","Dream Halls, Earthcraft, Lotus Petal, Mind Over Matter, and Yawgmoth's Will are banned."
-"EXT-1999-10-MMQ","EXT-1.1.0.0","Extended","1999-10","Mercadian Masques cards now legal. The Dark, Fallen Empires, Revised, Fourth Edition cards no longer legal. However, Tundra, Underground Sea, Badlands, Taiga, Savannah, Scrubland, Volcanic Island, Bayou, Plateau, and Tropical Island are still legal."
-"EXT-2000-03-MMQ-B1","EXT-1.1.1.1","Extended","2000-03","Dark Ritual and Mana Vault are banned."
-"EXT-2000-03-NEM","EXT-1.1.1.0","Extended","2000-03","Nemesis cards now legal."
-"EXT-2000-07-PCY","EXT-1.1.2.0","Extended","2000-07","Prophecy cards now legal."
-"EXT-2000-10-INV","EXT-1.1.3.0","Extended","2000-10","Invasion cards now legal."
-"EXT-2001-02-PLS","EXT-1.1.4.0","Extended","2001-02","Planeshift cards now legal."
-"EXT-2001-03-PLS-B1","EXT-1.1.4.1","Extended","2001-03","Necropotence, Replenish, Survival of the Fittest, and Demonic Consultation are banned."
-"EXT-2001-05-7ED","EXT-1.1.5.0","Extended","2001-05","Seventh Edition cards now legal."
-"EXT-2001-06-APC","EXT-1.1.6.0","Extended","2001-06","Apocalypse cards now legal."
-"EXT-2001-11-ODY","EXT-1.1.7.0","Extended","2001-11","Odyssey cards now legal."
-"EXT-2002-03-TOR","EXT-1.1.8.0","Extended","2002-03","Torment cards now legal."
-"EXT-2002-06-JUD","EXT-1.1.9.0","Extended","2002-06","Judgment cards now legal."
-"EXT-2002-11-ONS","EXT-1.2.0.0","Extended","2002-11","Onslaught cards now legal. Ice Age, Alliances, Homelands, Mirage, Visions, Weatherlight, and Fifth Edition no longer legal. Tundra, Underground Sea, Badlands, Taiga, Savannah, Scrubland, Volcanic Island, Bayou, Plateau, and Tropical Island no longer legal."
-"EXT-2003-02-LGN","EXT-1.2.1.0","Extended","2003-02","Legions cards now legal."
-"EXT-2003-06-SCG","EXT-1.2.2.0","Extended","2003-06","Scourge cards now legal."
-"EXT-2003-08-8ED","EXT-1.2.3.0","Extended","2003-08","Eighth Edition cards now legal."
-"EXT-2003-09-8ED-B1","EXT-1.2.3.1","Extended","2003-09","Goblin Lackey, Entomb, and Frantic Search are banned."
-"EXT-2003-11-MRD","EXT-1.2.4.0","Extended","2003-11","Mirrodin cards now legal."
-"EXT-2003-12-MRD-B1","EXT-1.2.4.1","Extended","2003-12","Goblin Recruiter, Grim Monolith, Tinker, Hermit Druid, Ancient Tomb, and Oath of Druids are banned."
-"EXT-2004-03-DST","EXT-1.2.5.0","Extended","2004-03","Darksteel cards now legal."
-"EXT-2004-07-5DN","EXT-1.2.6.0","Extended","2004-07","Fifth Dawn cards now legal."
-"EXT-2004-09-5DN-B1","EXT-1.2.6.1","Extended","2004-09","Metalworker and Skullclamp are banned."
-"EXT-2004-11-CHK","EXT-1.2.7.0","Extended","2004-11","Champions of Kamigawa cards are now legal."
-"EXT-2005-03-BOK","EXT-1.2.8.0","Extended","2005-03","Betrayers of Kamigawa cards are now legal."
-"EXT-2005-07-SOK","EXT-1.2.9.0","Extended","2005-07","Saviors of Kamigawa cards now legal."
-"EXT-2005-08-9ED","EXT-1.2.10.0","Extended","2005-08","Ninth Edition cards now legal."
-"EXT-2005-09-SOK-B1","EXT-1.2.10.1","Extended","2005-09","Aether Vial and Disciple of the Vault are banned."
-"EXT-2005-11-RAV","EXT-1.3.0.0","Extended","2005-11","Ravnica: City of Guilds cards are now legal. Tempest, Stronghold, Exodus, Urza's Saga, Urza's Legacy, Urza's Destiny, Mercadian Masques, Nemesis, Prophecy, and Sixth Edition no longer legal."
-"EXT-2006-03-GPT","EXT-1.3.1.0","Extended","2006-03","Guildpact cards now legal."
-"EXT-2006-06-DIS","EXT-1.3.2.0","Extended","2006-06","Dissension cards now legal."
-"EXT-2006-08-CSP","EXT-1.3.3.0","Extended","2006-08","Coldsnap cards now legal."
-"EXT-2006-11-TSP","EXT-1.3.4.0","Extended","2006-11","Time Spiral cards now legal."
-"EXT-2007-03-PLC","EXT-1.3.5.0","Extended","2007-03","Planar Chaos cards now legal."
-"EXT-2007-06-FUT","EXT-1.3.6.0","Extended","2007-06","Future Sight cards now legal."
-"EXT-2007-08-10E","EXT-1.3.7.0","Extended","2007-08","Tenth Edition cards now legal."
-"EXT-2007-11-LRW","EXT-1.3.8.0","Extended","2007-11","Lorwyn cards now legal."
-"EXT-2008-03-MOR","EXT-1.3.9.0","Extended","2008-03","Morningtide cards now legal."
-"EXT-2008-06-SHM","EXT-1.3.10.0","Extended","2008-06","Shadowmoor cards now legal."
-"EXT-2008-07-EVE","EXT-1.3.11.0","Extended","2008-07","Eventide cards now legal."
-"EXT-2008-09-EVE-B1","EXT-1.3.10.1","Extended","2008-09","Sensei's Divining Top is banned."
-"EXT-2008-10-ALA","EXT-2.0.0.0","Extended","2008-10","Shards of Alara cards now legal. Extended changed to the last seven years of blocks and core sets, rotating upon the release of a new block each autumn. Invasion, Planeshift, Apocalypse, Odyssey, Torment, Judgment, and Seventh Edition cards no longer legal."
-"EXT-2009-03-CON","EXT-2.0.1.0","Extended","2009-03","Conflux cards now legal."
-"EXT-2009-05-ARB","EXT-2.0.2.0","Extended","2009-05","Alara Reborn cards now legal."
-"EXT-2009-08-M10","EXT-2.0.3.0","Extended","2009-08","Magic 2010 cards now legal."
-"EXT-2009-11-ZEN","EXT-2.1.0.0","Extended","2009-11","Zendikar cards now legal. Onslaught, Legions, Scourge, and Eighth Edition no longer legal."
-"EXT-2010-03-WWK","EXT-2.1.1.0","Extended","2010-03","Worldwake cards now legal."
-"EXT-2010-05-ROE","EXT-2.1.2.0","Extended","2010-05","Rise of the Eldrazi cards now legal."
-"EXT-2010-07-ROE-B1","EXT-3.0.0.0","Extended","2010-07","Sword of the Meek and Hypergenesis are banned. Extended changed to the last four years of blocks and core sets, rotating upon the release of a new block each autumn. Mirrodin, Darksteel, Fifth Dawn, Champions of Kamigawa, Betrayers of Kamigawa, Saviors of Kamigawa, Ravnica: City of Guilds, Guildpact, Dissension, Coldsnap, and Ninth Edition cards no longer legal."
-"EXT-2010-08-M11","EXT-3.0.1.0","Extended","2010-08","Magic 2011 cards now legal."
-"EXT-2010-11-SOM","EXT-3.1.0.0","Extended","2010-11","Scars of Mirrodin cards now legal. Time Spiral, Planar Chaos, Future Sight, and Tenth Edition cards no longer legal."
-"EXT-2011-03-MBS","EXT-3.1.1.0","Extended","2011-03","Mirrodin Beseiged cards now legal."
-"EXT-2011-06-NPH","EXT-3.1.2.0","Extended","2011-06","New Phyrexia cards now legal."
-"EXT-2011-08-M12","EXT-3.1.3.0","Extended","2011-08","Magic 2012 cards now legal."
-"EXT-2011-09-M12-B1","EXT-3.1.3.1","Extended","2011-09","Jace, the Mind Sculptor, Mental Misstep, Ponder, Preordain, and Stoneforge Mystic are banned."
-"EXT-2011-10-ISD","EXT-3.2.0.0","Extended","2011-10","Innistrad cards now legal. Lorwyn, Morningtide, Shadowmoor, and Eventide cards no longer legal."
-"EXT-2012-03-DKA","EXT-3.2.1.0","Extended","2012-03","Dark Ascension cards now legal."
-"EXT-2012-06-AVR","EXT-3.2.2.0","Extended","2012-06","Avacyn Restored cards now legal."
-"EXT-2012-08-M13","EXT-3.2.3.0","Extended","2012-08","Magic 2013 cards now legal."
-"HST-2019-10-ELD","HST-1.0.0","Historic","2019-10","Historic ladder created with qualifying path to MC. Initial card pool is cards from: Ixalan, Rivals of Ixalan, Dominaria, Core Set 2019, Guilds of Ravnica, Ravnica Allegiance, War of the Spark, Core Set 2020, and Throne of Eldraine."
-"HST-2019-11-HA1","HST-1.1.0","Historic","2019-11","Historic Anthology 1 cards now legal."
-"HST-2019-12-HA1-B1","HST-1.1.1","Historic","2019-12","Rhy, the Redeemed now legal."
-"HST-2020-01-THB","HST-1.2.0","Historic","2020-01","Theros: Beyond Death cards now legal."
-"HST-2020-03-HA2","HST-1.3.0","Historic","2020-03","Historic Anthology 2 cards now legal."
-"HST-2020-03-THB-B1","HST-1.2.1","Historic","2020-03","Oko, Thief of Crowns, Once Upon a Time, and Veil of Summer are banned. Field of the Dead is made legal."
-"HST-2020-04-IKO","HST-1.4.0","Historic","2020-04","Ikoria: Lair of Behemoths cards now legal."
-"LGC-1996-05-HML","LGC-1.0.0","Legacy","1996-05","Legacy is created (then called Type 1.5). ""Type 1.5 tournament decks may be constructed from Magic: The Gathering cards from the Limited (first edition, with black border) series, the Unlimited (second edition), Revised (third edition), Fourth Edition, any Magic: The Gathering expansion (unless expressly disallowed by the head judge prior to the event), and promotional cards released by Wizards of the Coast in magazines or through books."" There are no restricted cards. The list of banned cards is the sum of all cards that are either restricted or banned in Vintage or Standard."
-"LGC-1996-06-ALL","LGC-1.1.0","Legacy","1996-06","Alliances cards now legal"
-"LGC-1996-06-HML-B1","LGC-1.0.1","Legacy","1996-06","Land Tax is banned."
-"LGC-1996-10-ALL-B1","LGC-1.1.1","Legacy","1996-10","Fastbond and Strip Mine are banned. The head judge can't disallow any Magic expansion anymore."
-"LGC-1996-10-MIR","LGC-1.2.0","Legacy","1996-10","Mirage cards now legal"
-"LGC-1997-03-VIS","LGC-1.3.0","Legacy","1997-03","Visions cards now legal"
-"LGC-1997-07-WTH","LGC-1.4.0","Legacy","1997-07","Weatherlight cards now legal"
-"LGC-1997-11-TMP","LGC-1.5.0","Legacy","1997-11","Tempest cards now legal"
-"LGC-1998-03-STH","LGC-1.6.0","Legacy","1998-03","Stronghold cards now legal"
-"LGC-1998-07-EXO","LGC-1.7.0","Legacy","1998-07","Exodus cards now legal"
-"LGC-1998-11-USG","LGC-1.8.0","Legacy","1998-11","Urza's Saga cards now legal"
-"LGC-1998-12-USG-B1","LGC-1.8.1","Legacy","1998-12","Stroke of Genius, Tolarian Academy, and Windfall are banned. Feldon's Cane is unbanned."
-"LGC-1999-03-ULG","LGC-1.9.0","Legacy","1999-03","Urza's Legacy cards now legal"
-"LGC-1999-03-ULG-B1","LGC-1.9.1","Legacy","1999-03","Memory Jar is banned."
-"LGC-1999-03-USG-B2","LGC-1.8.2","Legacy","1999-03","Time Spiral is banned. Candelabra of Tawnos, Copy Artifact, Maze of Ith, Zuran Orb, and Mishra's Workshop are unbanned."
-"LGC-1999-07-UDS","LGC-1.10.0","Legacy","1999-07","Urza's Destiny cards now legal."
-"LGC-1999-09-UDS-B1","LGC-1.10.1","Legacy","1999-09","Divine Intervention, Ivory Tower, Mirror Universe, Shahrazad, and Underworld Dreams are unbanned. Crop Rotation, Doomsday, Dream Halls, Enlightened Tutor, Frantic Search, Grim Monolith, Hurkyl's Recall, Lotus Petal, Mana Crypt, Mana Vault, Mind Over Matter, Mox Diamond, Mystical Tutor, Tinker, Vampiric Tutor, Voltaic Key, Yawgmoth's Bargain, and Yawgmoth's Will are banned."
-"LGC-1999-10-MMQ","LGC-1.11.0","Legacy","1999-10","Mercadian Masques cards now legal."
-"LGC-2000-03-NEM","LGC-1.12.0","Legacy","2000-03","Nemesis cards now legal."
-"LGC-2000-07-PCY","LGC-1.13.0","Legacy","2000-07","Prophecy cards now legal."
-"LGC-2000-09-PCY-B1","LGC-1.13.1","Legacy","2000-09","Demonic Consultation and Necropotence are banned."
-"LGC-2000-10-INV","LGC-1.14.0","Legacy","2000-10","Invasion cards now legal."
-"LGC-2001-02-PLS","LGC-1.15.0","Legacy","2001-02","Planeshift cards now legal."
-"LGC-2001-06-APC","LGC-1.16.0","Legacy","2001-06","Apocalypse cards now legal."
-"LGC-2001-11-ODY","LGC-1.17.0","Legacy","2001-11","Odyssey cards now legal."
-"LGC-2001-12-ODY-B1","LGC-1.17.1","Legacy","2001-12","Fact or Fiction is banned."
-"LGC-2002-03-TOR","LGC-1.18.0","Legacy","2002-03","Torment cards now legal."
-"LGC-2002-06-JUD","LGC-1.19.0","Legacy","2002-06","Judgment cards now legal."
-"LGC-2002-11-ONS","LGC-1.20.0","Legacy","2002-11","Onslaught cards now legal."
-"LGC-2003-02-LGN","LGC-1.21.0","Legacy","2003-02","Legions cards now legal."
-"LGC-2003-03-LGN-B1","LGC-1.21.1","Legacy","2003-03","Earthcraft and Entomb are banned. Berserk, Hurkyl's Recall, and Recall are unbanned."
-"LGC-2003-06-LGN-B2","LGC-1.21.2","Legacy","2003-06","Gush and Mind's Desire are banned."
-"LGC-2003-06-SCG","LGC-1.22.0","Legacy","2003-06","Scourge cards now legal."
-"LGC-2003-11-MRD","LGC-1.23.0","Legacy","2003-11","Mirrodin cards now legal."
-"LGC-2003-12-MRD-B1","LGC-1.23.1","Legacy","2003-12","Burning Wish, Chrome Mox, and Lion's Eye Diamond are banned."
-"LGC-2004-03-DST","LGC-1.24.0","Legacy","2004-03","Darksteel cards now legal."
-"LGC-2004-07-5DN","LGC-1.25.0","Legacy","2004-07","Fifth Dawn cards now legal."
-"LGC-2004-09-5DN-B1","LGC-2.0.0","Legacy","2004-09","Format becomes independent of Vintage. Banned : Bazaar of Baghdad, Goblin Recruiter, Hermit Druid, Illusionary Mask, Land Tax, Mana Drain, Metalworker, Mishra's Workshop, Oath of Druids, Replenish, Skullclamp, and Worldgorger Dragon. Unbanned : Braingeyser, Burning Wish, Chrome Mox, Crop Rotation, Doomsday, Enlightened Tutor, Fact or Fiction, Lion's Eye Diamond, Lotus Petal, Mox Diamond, Mystical Tutor, Regrowth, Stroke of Genius, and Voltaic Key."
-"LGC-2004-11-CHK","LGC-2.1.0","Legacy","2004-11","Champions of Kamigawa cards are now legal."
-"LGC-2005-03-BOK","LGC-2.2.0","Legacy","2005-03","Betrayers of Kamigawa cards are now legal."
-"LGC-2005-07-SOK","LGC-2.3.0","Legacy","2005-07","Saviors of Kamigawa cards now legal."
-"LGC-2005-09-SOK-B1","LGC-2.3.1","Legacy","2005-09","Imperial Seal is banned."
-"LGC-2005-10-POR","LGC-2.4.0","Legacy","2005-10","Portal, Portal 2, Portal: Three Kingdoms, Starter, and Starter 2000 cards are now legal."
-"LGC-2005-11-RAV","LGC-2.5.0","Legacy","2005-11","Ravnica: City of Guilds cards are now legal."
-"LGC-2006-03-GPT","LGC-2.6.0","Legacy","2006-03","Guildpact cards now legal."
-"LGC-2006-06-DIS","LGC-2.7.0","Legacy","2006-06","Dissension cards now legal."
-"LGC-2006-08-CSP","LGC-2.8.0","Legacy","2006-08","Coldsnap cards now legal."
-"LGC-2006-11-TSP","LGC-2.9.0","Legacy","2006-11","Time Spiral cards now legal."
-"LGC-2007-03-PLC","LGC-2.10.0","Legacy","2007-03","Planar Chaos cards now legal."
-"LGC-2007-06-FUT","LGC-2.11.0","Legacy","2007-06","Future Sight cards now legal."
-"LGC-2007-06-PLC-B1","LGC-2.10.1","Legacy","2007-06","Flash is banned. Mind Over Matter and Replenish are unbanned."
-"LGC-2007-09-FUT-B1","LGC-2.11.1","Legacy","2007-09","Shahrazad is banned."
-"LGC-2007-11-LRW","LGC-2.12.0","Legacy","2007-11","Lorwyn cards now legal."
-"LGC-2008-03-MOR","LGC-2.13.0","Legacy","2008-03","Morningtide cards now legal."
-"LGC-2008-06-SHM","LGC-2.14.0","Legacy","2008-06","Shadowmoor cards now legal."
-"LGC-2008-07-EVE","LGC-2.15.0","Legacy","2008-07","Eventide cards now legal."
-"LGC-2008-09-EVE-B1","LGC-2.15.1","Legacy","2008-09","Time Vault is banned."
-"LGC-2008-10-ALA","LGC-2.16.0","Legacy","2008-10","Shards of Alara cards now legal."
-"LGC-2009-03-CON","LGC-2.17.0","Legacy","2009-03","Conflux cards now legal."
-"LGC-2009-05-ARB","LGC-2.18.0","Legacy","2009-05","Alara Reborn cards now legal."
-"LGC-2009-08-M10","LGC-2.19.0","Legacy","2009-08","Magic 2010 cards now legal."
-"LGC-2009-09-M10-B1","LGC-2.19.1","Legacy","2009-09","Dream Halls, Entomb, and Metalworker are unbanned."
-"LGC-2009-11-ZEN","LGC-2.20.0","Legacy","2009-11","Zendikar cards now legal."
-"LGC-2010-03-WWK","LGC-2.21.0","Legacy","2010-03","Worldwake cards now legal."
-"LGC-2010-05-ROE","LGC-2.22.0","Legacy","2010-05","Rise of the Eldrazi cards now legal."
-"LGC-2010-07-ROE-B1","LGC-2.22.1","Legacy","2010-07","Mystical Tutor is banned. Grim Monolith and Illusionary Mask are unbanned."
-"LGC-2010-08-M11","LGC-2.23.0","Legacy","2010-08","Magic 2011 cards now legal."
-"LGC-2010-11-SOM","LGC-2.24.0","Legacy","2010-11","Scars of Mirrodin cards now legal."
-"LGC-2010-12-SOM-B1","LGC-2.24.1","Legacy","2010-12","Survival of the Fittest is banned. Time Spiral is unbanned."
-"LGC-2011-03-MBS","LGC-2.25.0","Legacy","2011-03","Mirrodin Beseiged cards now legal."
-"LGC-2011-06-NPH","LGC-2.26.0","Legacy","2011-06","New Phyrexia cards now legal."
-"LGC-2011-07-CMD","LGC-2.27.0","Legacy","2011-07","Commander cards now legal."
-"LGC-2011-08-M12","LGC-2.28.0","Legacy","2011-08","Magic 2012 cards now legal."
-"LGC-2011-09-M12-B1","LGC-2.28.1","Legacy","2011-09","Mental Misstep is banned."
-"LGC-2011-10-ISD","LGC-2.29.0","Legacy","2011-10","Innistrad cards now legal."
-"LGC-2012-03-DKA","LGC-2.30.0","Legacy","2012-03","Dark Ascension cards now legal."
-"LGC-2012-06-AVR","LGC-2.31.0","Legacy","2012-06","Avacyn Restored cards now legal."
-"LGC-2012-06-DKA-B1","LGC-2.30.1","Legacy","2012-06","Land Tax is unbanned."
-"LGC-2012-06-PC2","LGC-2.32.0","Legacy","2012-06","Planechase 2012 cards now legal."
-"LGC-2012-08-M13","LGC-2.33.0","Legacy","2012-08","Magic 2013 cards now legal."
-"LGC-2012-11-RTR","LGC-2.34.0","Legacy","2012-11","Return to Ravnica cards now legal."
-"LGC-2013-03-GTC","LGC-2.35.0","Legacy","2013-03","Gatecrash cards now legal."
-"LGC-2013-05-DGM","LGC-2.36.0","Legacy","2013-05","Dragon's Maze cards now legal."
-"LGC-2013-08-M14","LGC-2.37.0","Legacy","2013-08","Magic 2014 cards now legal."
-"LGC-2013-10-THS","LGC-2.38.0","Legacy","2013-10","Theros cards now legal."
-"LGC-2013-11-C13","LGC-2.39.0","Legacy","2013-11","Commander 2013 cards now legal."
-"LGC-2014-03-BNG","LGC-2.40.0","Legacy","2014-03","Born of the Gods cards now legal."
-"LGC-2014-05-JOU","LGC-2.41.0","Legacy","2014-05","Journey Into Nyx cards now legal."
-"LGC-2014-06-CNS","LGC-2.42.0","Legacy","2014-06","Conspiracy cards now legal. Cards with Conspiracy card type are preemptively banned."
-"LGC-2014-07-M15","LGC-2.42.0","Legacy","2014-07","Magic 2015 cards now legal."
-"LGC-2014-10-KTK","LGC-2.43.0","Legacy","2014-10","Khans of Tarkir cards now legal."
-"LGC-2014-11-C14","LGC-2.44.0","Legacy","2014-11","Commander 2014 cards now legal."
-"LGC-2015-01-FRF","LGC-2.45.0","Legacy","2015-01","Fate Reforged cards now legal. Treasure Cruise is banned. Worldgorger Dragon is unbanned."
-"LGC-2015-03-DTK","LGC-2.46.0","Legacy","2015-03","Dragons of Tarkir cards now legal."
-"LGC-2015-07-ORI","LGC-2.47.0","Legacy","2015-07","Magic Origins cards now legal."
-"LGC-2015-09-ORI-B1","LGC-2.47.1","Legacy","2015-09","Dig Through Time is banned. Black Vise is unbanned."
-"LGC-2015-10-BFZ","LGC-2.48.0","Legacy","2015-10","Battle for Zendikar cards now legal."
-"LGC-2015-11-C15","LGC-2.49.0","Legacy","2015-11","Commander 2015 cards now legal."
-"LGC-2016-01-OGW","LGC-2.50.0","Legacy","2016-01","Oath of the Gatewatch cards now legal."
-"LGC-2016-04-SOI","LGC-2.51.0","Legacy","2016-04","Shadows Over Innistrad cards now legal."
-"LGC-2016-07-EMN","LGC-2.52.0","Legacy","2016-07","Eldritch Moon cards now legal."
-"LGC-2016-08-CN2","LGC-2.53.0","Legacy","2016-08","Conspiracy: Take the Crown cards now legal."
-"LGC-2016-09-KLD","LGC-2.54.0","Legacy","2016-09","Kaladesh cards now legal."
-"LGC-2016-11-C16","LGC-2.55.0","Legacy","2016-11","Commander 2016 cards now legal."
-"LGC-2017-01-AER","LGC-2.56.0","Legacy","2017-01","Aether Revolt cards now legal."
-"LGC-2017-04-AKH","LGC-2.57.0","Legacy","2017-04","Amonkhet cards now legal. Sensei's Divining Top is banned."
-"LGC-2017-07-HOU","LGC-2.58.0","Legacy","2017-07","Hour of Devastation cards now legal."
-"LGC-2017-08-C17","LGC-2.59.0","Legacy","2017-08","Commander 2017 cards now legal."
-"LGC-2017-09-XLN","LGC-2.60.0","Legacy","2017-09","Ixalan cards now legal."
-"LGC-2018-01-RIX","LGC-2.61.0","Legacy","2018-01","Rivals of Ixalan cards now legal."
-"LGC-2018-04-DOM","LGC-2.62.0","Legacy","2018-04","Dominaria cards now legal."
-"LGC-2018-06-BBD","LGC-2.63.0","Legacy","2018-06","Battlebond cards now legal."
-"LGC-2018-07-M19","LGC-2.64.0","Legacy","2018-07","Core Set 2019 cards now legal. Deathrite Shaman and Gitaxian Probe are banned."
-"LGC-2018-08-C18","LGC-2.65.0","Legacy","2018-08","Commander 2018 cards now legal."
-"LGC-2018-10-GRN","LGC-2.66.0","Legacy","2018-10","Guilds of Ravnica cards now legal."
-"LGC-2019-01-RNA","LGC-2.67.0","Legacy","2019-01","Ravnica Allegiance cards now legal."
-"LGC-2019-05-WAR","LGC-2.68.0","Legacy","2019-05","War of the Spark cards now legal."
-"LGC-2019-06-MH1","LGC-2.69.0","Legacy","2019-06","Modern Horizons cards now legal."
-"LGC-2019-07-M20","LGC-2.70.0","Legacy","2019-07","Core Set 2020 cards now legal."
-"LGC-2019-08-C19","LGC-2.71.0","Legacy","2019-08","Commander 2019 cards now legal."
-"LGC-2019-10-ELD","LGC-2.72.0","Legacy","2019-10","Throne of Eldraine cards now legal."
-"LGC-2019-11-ELD-B1","LGC-2.72.1","Legacy","2019-11","Wrenn and Six is banned."
-"LGC-2020-01-THB","LGC-2.73.0","Legacy","2020-01","Theros: Beyond Death cards now legal."
-"LGC-2020-03-THB-B1","LGC-2.73.1","Legacy","2020-03","Underworld Breach is banned."
-"LGC-2020-04-IKO","LGC-2.74.0","Legacy","2020-04","Ikoria: Lair of Behemoths cards now legal."
-"MDR-2011-08-M12","MDR-1.0.0","Modern","2011-08","Modern becomes a sanctioned paper format from an online format. The initial ban list is: Ancestral Vision, Ancient Den, Bitterblossom, Chrome Mox, Dark Depths, Dread Return, Glimpse of Nature, Golgari Grave-Troll, Great Furnace, Hypergenesis, Jace, the Mind Sculptor, Mental Misstep, Seat of the Synod, Sensei's Divining Top, Skullclamp, Stoneforge Mystic, Sword of the Meek, Tree of Tales, Umezawa's Jitte, Valakut, the Molten Pinnacle, and Vault of Whispers."
-"MDR-2011-09-M12-B1","MDR-1.0.1","Modern","2011-09","Blazing Shoal, Cloudpost, Green Sun's Zenith, Ponder, Preordain, and Rite of Flame are banned."
-"MDR-2011-10-ISD","MDR-1.1.0","Modern","2011-10","Innistrad cards now legal."
-"MDR-2011-12-ISD-B1","MDR-1.1.1","Modern","2011-12","Punishing Fire and Wild Nacatl are banned."
-"MDR-2012-03-DKA","MDR-1.2.0","Modern","2012-03","Dark Ascension cards now legal."
-"MDR-2012-06-AVR","MDR-1.3.0","Modern","2012-06","Avacyn Restored cards now legal."
-"MDR-2012-08-M13","MDR-1.4.0","Modern","2012-08","Magic 2013 cards now legal."
-"MDR-2012-09-M13-B1","MDR-1.4.1","Modern","2012-09","Valakut, the Molten Pinnacle is unbanned."
-"MDR-2012-11-RTR","MDR-1.5.0","Modern","2012-11","Return to Ravnica cards now legal."
-"MDR-2013-01-RTR-B1","MDR-1.5.1","Modern","2013-01","Bloodbraid Elf and Seething Song are banned."
-"MDR-2013-03-GTC","MDR-1.6.0","Modern","2013-03","Gatecrash cards now legal."
-"MDR-2013-05-DGM","MDR-1.7.0","Modern","2013-05","Dragon's Maze cards now legal."
-"MDR-2013-05-GTC-B1","MDR-1.6.1","Modern","2013-05","Second Sunrise is banned."
-"MDR-2013-08-M14","MDR-1.8.0","Modern","2013-08","Magic 2014 cards now legal."
-"MDR-2013-10-THS","MDR-1.9.0","Modern","2013-10","Theros cards now legal."
-"MDR-2014-02-THS-B1","MDR-1.9.1","Modern","2014-02","Deathrite Shaman is banned. Bitterblossom and Wild Nacatl are unbanned."
-"MDR-2014-03-BNG","MDR-1.10.0","Modern","2014-03","Born of the Gods cards now legal."
-"MDR-2014-05-JOU","MDR-1.11.0","Modern","2014-05","Journey Into Nyx cards now legal."
-"MDR-2014-07-M15","MDR-1.12.0","Modern","2014-07","Magic 2015 cards now legal."
-"MDR-2014-10-KTK","MDR-1.13.0","Modern","2014-10","Khans of Tarkir cards now legal."
-"MDR-2015-01-FRF","MDR-1.14.0","Modern","2015-01","Fate Reforged cards now legal. Dig Through Time, Treasure Cruise, and Birthing Pod are banned. Golgari Grave-Troll is unbanned."
-"MDR-2015-03-DTK","MDR-1.15.0","Modern","2015-03","Dragons of Tarkir cards now legal."
-"MDR-2015-07-ORI","MDR-1.16.0","Modern","2015-07","Magic Origins cards now legal."
-"MDR-2015-10-BFZ","MDR-1.17.0","Modern","2015-10","Battle for Zendikar cards now legal."
-"MDR-2016-01-OGW","MDR-1.18.0","Modern","2016-01","Oath of the Gatewatch cards now legal. Splinter Twin and Summer Bloom are banned."
-"MDR-2016-04-SOI","MDR-1.19.0","Modern","2016-04","Shadows Over Innistrad cards now legal. Eye of Ugin is banned. Ancestral Vision and Sword of the Meek are unbanned."
-"MDR-2016-07-EMN","MDR-1.20.0","Modern","2016-07","Eldritch Moon cards now legal."
-"MDR-2016-09-KLD","MDR-1.21.0","Modern","2016-09","Kaladesh cards now legal."
-"MDR-2017-01-AER","MDR-1.22.0","Modern","2017-01","Aether Revolt cards now legal. Gitaxian Probe and Golgari Grave-Troll are banned."
-"MDR-2017-04-AKH","MDR-1.23.0","Modern","2017-04","Amonkhet cards now legal."
-"MDR-2017-07-HOU","MDR-1.24.0","Modern","2017-07","Hour of Devastation cards now legal."
-"MDR-2017-09-XLN","MDR-1.25.0","Modern","2017-09","Ixalan cards now legal."
-"MDR-2018-01-RIX","MDR-1.26.0","Modern","2018-01","Rivals of Ixalan cards now legal."
-"MDR-2018-02-RIX-B1","MDR-1.26.1","Modern","2018-02","Jace, the Mind Sculptor and Bloodbraid Elf are unbanned."
-"MDR-2018-04-DOM","MDR-1.27.0","Modern","2018-04","Dominaria cards now legal."
-"MDR-2018-07-M19","MDR-1.28.0","Modern","2018-07","Core Set 2019 cards now legal."
-"MDR-2018-10-GRN","MDR-1.29.0","Modern","2018-10","Guilds of Ravnica cards now legal."
-"MDR-2019-01-RNA","MDR-1.30.0","Modern","2019-01","Ravnica Allegiance cards now legal."
-"MDR-2019-01-RNA-B1","MDR-1.30.1","Modern","2019-01","Krark-Clan Ironworks is banned."
-"MDR-2019-05-WAR","MDR-1.31.0","Modern","2019-05","War of the Spark cards now legal."
-"MDR-2019-06-MH1","MDR-1.32.0","Modern","2019-06","Modern Horizons cards now legal."
-"MDR-2019-07-M20","MDR-1.33.0","Modern","2019-07","Core Set 2020 cards now legal. Bridge from Below is banned."
-"MDR-2019-08-M20-B1","MDR-1.33.1","Modern","2019-08","Hogaak, Arisen Necropolis and Faithless Looting are banned. Stoneforge Mystic is unbanned."
-"MDR-2019-10-ELD","MDR-1.34.0","Modern","2019-10","Throne of Eldraine cards now legal."
-"MDR-2020-01-THB","MDR-1.35.0","Modern","2020-01","Theros: Beyond Death cards now legal."
-"MDR-2020-01-THB-B1","MDR-1.35.1","Modern","2020-01","Oko, Thief of Crowns, Mox Opal, and Mycosynth Lattice are banned."
-"MDR-2020-03-THB-B2","MDR-1.35.2","Modern","2020-03","Once Upon a Time is banned."
-"MDR-2020-04-IKO","MDR-1.36.0","Modern","2020-04","Ikoria: Lair of Behemoths cards now legal."
-"PDC-1993-08-LEA","PDC-0.1.0","Pre-DCI","1993-08","Limited Edition Alpha cards now legal"
-"PDC-1993-10-LEB","PDC-0.2.0","Pre-DCI","1993-10","Limited Edition Beta cards now legal"
-"PDC-1993-12-2ED*","PDC-0.3.0","Pre-DCI","1993-12","Unlimited Edition cards now legal"
-"PDC-1993-12-ARN","PDC-0.4.0","Pre-DCI","1993-12","Arabian Nights cards now legal"
-"PNR-2019-10-ELD","PNR-1.0.0","Pioneer","2019-10","Pioneer announced a new non-rotating format including sets from Return to Ravnica forward. Bloodstained Mire, Flooded Strand, Polluted Delta, Windswept Heath and Wooded Foothills are banned."
-"PNR-2019-11-ELD-B1","PNR-1.0.1","Pioneer","2019-11","Felidar Guardian, Leyline of Abundance and Oath of Nissa are banned."
-"PNR-2019-11-ELD-B2","PNR-1.0.2","Pioneer","2019-11","Veil of Summer is banned."
-"PNR-2019-12-ELD-B3","PNR-1.0.3","Pioneer","2019-12","Field of the Dead, Once Upon a Time and Smuggler's Copter are banned."
-"PNR-2019-12-ELD-B4","PNR-1.0.4","Pioneer","2019-12","Oko, Thief of Crowns and Nexus of Fate are banned."
-"PNR-2020-01-THB","PNR-1.1.0","Pioneer","2020-01","Theros: Beyond Death cards now legal."
-"PNR-2020-04-IKO","PNR-1.2.0","Pioneer","2020-04","Ikoria: Lair of Behemoths cards now legal."
-"PPR-2019-06-MH1","PPR-1.0.0","Pauper","2019-06","Pauper become a sanctioned format. Banned list is inherited from MTGO, with the additions of High Tide, Hymn to Tourach, and Sinkhole."
-"PPR-2019-07-M20","PPR-1.1.0","Pauper","2019-07","Core Set 2020 cards now legal."
-"PPR-2019-08-C19","PPR-1.2.0","Pauper","2019-08","Commander 2019 cards now legal."
-"PPR-2019-10-ELD","PPR-1.3.0","Pauper","2019-10","Throne of Eldraine cards now legal."
-"PPR-2019-10-ELD-B1","PPR-1.4.0","Pauper","2019-10","Arcum's Astrolabe is banned."
-"PPR-2020-01-THB","PPR-1.5.0","Pauper","2020-01","Theros: Beyond Death cards now legal."
-"PPR-2020-04-IKO","PPR-1.6.0","Pauper","2020-04","Ikoria: Lair of Behemoths cards now legal."
-"STN-1995-01-FEM","STN-1.0.0.0","Standard","1995-01","Creation of Standard (then called ""Type 2"") on January 10, inheriting banned and restricted lists from Vintage. Legal sets are the most recent edition of Magic: the Gathering (Revised at the time), and the two most recent expansions (The Dark and Fallen Empires at the time)"
-"STN-1995-04-FEM-B1","STN-1.0.0.1","Standard","1995-04","Balance and Fork are restricted."
-"STN-1995-05-4ED","STN-1.0.1.0","Standard","1995-05","Fourth Edition cards now legal. Revised cards are no longer legal."
-"STN-1995-06-ICE","STN-1.2.0.0","Standard","1995-06","Ice Age cards now legal. The Dark cards no longer legal. (?)"
-"STN-1995-10-HML","STN-2.0.0.0","Standard","1995-10","Homelands cards now legal. New deck construction rules. Standard (Type 2) can be composed of cards from the most recent edition of Magic The Gathering (Fourth Edition at the time), white border extensions (Chronicles), and all available limited edition expansions (Ice Age, Fallen Empires, and Homelands)."
-"STN-1995-11-HML-B1","STN-2.0.0.1","Standard","1995-11","Legendary cards are unrestricted. Zuran Orb is restricted. Channel is banned."
-"STN-1996-02-HML-B2","STN-2.0.0.2","Standard","1996-02","Mind Twist is banned. Black Vise is restricted."
-"STN-1996-04-HML-B3","STN-2.0.0.3","Standard","1996-04","Feldon's Cane and Recall are unrestricted."
-"STN-1996-06-ALL","STN-2.0.1.0","Standard","1996-06","Alliances cards now legal"
-"STN-1996-06-HML-B4","STN-2.0.0.4","Standard","1996-06","Land Tax is restricted."
-"STN-1996-10-ALL-B1","STN-2.0.1.1","Standard","1996-10","Hymn to Tourach and Strip Mine are restricted."
-"STN-1996-10-MIR","STN-2.1.0.0","Standard","1996-10","Mirage cards now legal. Fallen Empires cards no longer legal."
-"STN-1997-01-MIR-B1","STN-3.0.0.0","Standard","1997-01","All cards on the restricted list are moved to the banned list. New deck construction rules. New editions of the basic set replace old versions and are permitted in Standard play thirty days after the release date of the new edition. New standalone expansions (e.g., Ice Age, Mirage, etc.) replace previous stand-alone expansions and are permitted in Standard play thirty days after the release date of the new edition. Limited-edition expansions are replaced thirty days after the release date of the next limited-edition expansion which has a release date of more than 10 months later than the release date of the outgoing limited-edition expansion."
-"STN-1997-03-5ED","STN-3.0.2.0","Standard","1997-03","Fifth Edition cards now legal. Fourth Edition cards no longer legal."
-"STN-1997-03-VIS","STN-3.0.1.0","Standard","1997-03","Visions cards now legal"
-"STN-1997-06-5ED-B1","STN-3.0.2.1","Standard","1997-06","Zuran Orb is banned."
-"STN-1997-07-WTH","STN-3.0.3.0","Standard","1997-07","Weatherlight cards now legal"
-"STN-1997-07-WTH-B1","STN-4.0.0","Standard","1997-07","New deck construction rules. Standard decks can be composed of cards from the most recent edition of Magic: The Gathering (then Fifth Edition) and all sets from the two most recent ""blocks"" of expansions (then Ice Age, Homelands, Alliances, Mirage, Visions, and Weatherlight)"
-"STN-1997-11-TMP","STN-4.1.0.0","Standard","1997-11","Tempest cards now legal. Ice Age, Homelands, and Alliances cards no longer legal."
-"STN-1998-03-STH","STN-4.1.1.0","Standard","1998-03","Stronghold cards now legal"
-"STN-1998-07-EXO","STN-4.1.2.0","Standard","1998-07","Exodus cards now legal"
-"STN-1998-11-USG","STN-4.2.0.0","Standard","1998-11","Urza's Saga cards now legal. Mirage, Visions, and Weatherlight cards no longer legal."
-"STN-1998-12-USG-B1","STN-4.2.0.1","Standard","1998-12","Tolarian Academy and Windfall are banned."
-"STN-1999-03-ULG","STN-4.2.1.0","Standard","1999-03","Urza's Legacy cards now legal"
-"STN-1999-03-ULG-B1","STN-4.2.1.1","Standard","1999-03","Memory Jar is banned."
-"STN-1999-03-USG-B2","STN-4.2.0.2","Standard","1999-03","Dream Halls, Earthcraft, Fluctuator, Lotus Petal, Recurring Nightmare, and Time Spiral are banned."
-"STN-1999-05-6ED","STN-4.2.2.0","Standard","1999-05","Sixth Edition cards now legal. Fifth Edition cards no longer legal."
-"STN-1999-06-6ED-B1","STN-4.2.2.1","Standard","1999-06","Mind Over Matter is banned."
-"STN-1999-07-UDS","STN-4.2.3.0","Standard","1999-07","Urza's Destiny cards now legal."
-"STN-1999-10-MMQ","STN-4.3.0.0","Standard","1999-10","Mercadian Masques cards now legal. Tempest, Stronghold, and Exodus cards no longer legal."
-"STN-2000-03-NEM","STN-4.3.1.0","Standard","2000-03","Nemesis cards now legal."
-"STN-2000-07-PCY","STN-4.3.2.0","Standard","2000-07","Prophecy cards now legal."
-"STN-2000-10-INV","STN-4.4.0.0","Standard","2000-10","Invasion cards now legal. Urza's Saga, Urza's Legacy, and Urza's Destiny cards no longer legal."
-"STN-2001-02-PLS","STN-4.4.1.0","Standard","2001-02","Planeshift cards now legal."
-"STN-2001-05-7ED","STN-4.4.2.0","Standard","2001-05","Seventh Edition cards now legal. Sixth Edition cards no longer legal."
-"STN-2001-06-APC","STN-4.4.3.0","Standard","2001-06","Apocalypse cards now legal."
-"STN-2001-11-ODY","STN-4.5.0.0","Standard","2001-11","Odyssey cards now legal. Mercadian Masques, Nemesis, and Prophecy cards no longer legal."
-"STN-2002-03-TOR","STN-4.5.1.0","Standard","2002-03","Torment cards now legal."
-"STN-2002-06-JUD","STN-4.5.2.0","Standard","2002-06","Judgment cards now legal."
-"STN-2002-11-ONS","STN-4.6.0.0","Standard","2002-11","Onslaught cards now legal. Invasion, Planeshift, and Apocalypse cards no longer legal."
-"STN-2003-02-LGN","STN-4.6.1.0","Standard","2003-02","Legions cards now legal."
-"STN-2003-06-SCG","STN-4.6.2.0","Standard","2003-06","Scourge cards now legal."
-"STN-2003-08-8ED","STN-4.6.3.0","Standard","2003-08","Eighth Edition cards now legal. Seventh Edition cards no longer legal."
-"STN-2003-11-MRD","STN-4.7.0.0","Standard","2003-11","Mirrodin cards now legal. Odyssey, Torment, and Scourge cards no longer legal."
-"STN-2004-03-DST","STN-4.7.1.0","Standard","2004-03","Darksteel cards now legal."
-"STN-2004-06-DST-B1","STN-4.7.1.1","Standard","2004-06","Skullclamp is banned."
-"STN-2004-07-5DN","STN-4.7.2.0","Standard","2004-07","Fifth Dawn cards now legal."
-"STN-2004-11-CHK","STN-4.8.0.0","Standard","2004-11","Champions of Kamigawa cards are now legal. Onslaught, Legions, and Scourge cards are no longer legal."
-"STN-2005-03-BOK","STN-4.8.1.0","Standard","2005-03","Betrayers of Kamigawa cards are now legal."
-"STN-2005-03-CHK-B1","STN-4.8.0.1","Standard","2005-03","Arcbound Ravager, Disciple of the Vault, Darksteel Citadel, Ancient Den, Great Furnace, Seat of the Synod, Tree of Tales, and Vault of Whispers are banned."
-"STN-2005-07-SOK","STN-4.8.2.0","Standard","2005-07","Saviors of Kamigawa cards now legal."
-"STN-2005-08-9ED","STN-4.8.3.0","Standard","2005-08","Ninth Edition cards now legal. Eighth Edition cards no longer legal."
-"STN-2005-11-RAV","STN-4.9.0.0","Standard","2005-11","Ravnica: City of Guilds cards are now legal. Mirrodin, Darksteel, and Fifth Dawn cards are no longer legal."
-"STN-2006-03-GPT","STN-4.9.1.0","Standard","2006-03","Guildpact cards now legal."
-"STN-2006-06-DIS","STN-4.9.2.0","Standard","2006-06","Dissension cards now legal."
-"STN-2006-08-CSP","STN-4.9.3.0","Standard","2006-08","Coldsnap cards now legal."
-"STN-2006-11-TSP","STN-4.10.0.0","Standard","2006-11","Time Spiral cards now legal. Champions of Kamigawa, Betrayers of Kamigawa, and Saviors of Kamigawa cards no longer legal."
-"STN-2007-03-PLC","STN-4.10.1.0","Standard","2007-03","Planar Chaos cards now legal."
-"STN-2007-06-FUT","STN-4.10.2.0","Standard","2007-06","Future Sight cards now legal."
-"STN-2007-08-10E","STN-4.10.3.0","Standard","2007-08","Tenth Edition cards now legal. Ninth Edition cards no longer legal."
-"STN-2007-11-LRW","STN-4.11.0.0","Standard","2007-11","Lorwyn cards now legal. Ravnica: City of Guilds, Guildpact, Dissension, and Coldsnap cards no longer legal."
-"STN-2008-03-MOR","STN-4.11.1.0","Standard","2008-03","Morningtide cards now legal."
-"STN-2008-06-SHM","STN-4.11.2.0","Standard","2008-06","Shadowmoor cards now legal."
-"STN-2008-07-EVE","STN-4.11.3.0","Standard","2008-07","Eventide cards now legal."
-"STN-2008-10-ALA","STN-4.12.0.0","Standard","2008-10","Shards of Alara cards now legal. Time Spiral, Planar Chaos, and Future Sight cards no longer legal."
-"STN-2009-03-CON","STN-4.12.1.0","Standard","2009-03","Conflux cards now legal."
-"STN-2009-05-ARB","STN-4.12.2.0","Standard","2009-05","Alara Reborn cards now legal."
-"STN-2009-08-M10","STN-5.0.0.0","Standard","2009-08","Magic 2010 cards now legal. Core Sets now rotate out with Fall rotation rather than replacing the previous Core Set."
-"STN-2009-11-ZEN","STN-5.1.0.0","Standard","2009-11","Zendikar cards now legal. Lorwyn, Morningtide, Shadowmoor, Eventide, and Tenth Edition cards no longer legal."
-"STN-2010-03-WWK","STN-5.1.1.0","Standard","2010-03","Worldwake cards now legal."
-"STN-2010-05-ROE","STN-5.1.2.0","Standard","2010-05","Rise of the Eldrazi cards now legal."
-"STN-2010-08-M11","STN-5.1.3.0","Standard","2010-08","Magic 2011 cards now legal."
-"STN-2010-11-SOM","STN-5.2.0.0","Standard","2010-11","Scars of Mirrodin cards now legal. Shards of Alara, Conflux, Alara Reborn, and Magic 2010 cards no longer legal."
-"STN-2011-03-MBS","STN-5.2.1.0","Standard","2011-03","Mirrodin Beseiged cards now legal."
-"STN-2011-06-MBS-B1","STN-5.2.1.1","Standard","2011-06","Jace, the Mind Sculptor and Stoneforge Mystic are banned. An exception to the above is introduced, making the War of Attrition event deck legal for Standard constructed play if the decklist has not been modified. The deck contains two copies of Stoneforge Mystic."
-"STN-2011-06-NPH","STN-5.2.2.0","Standard","2011-06","New Phyrexia cards now legal."
-"STN-2011-08-M12","SNT-5.2.3.0","Standard","2011-08","Magic 2012 cards now legal."
-"STN-2011-10-ISD","STN-5.3.0.0","Standard","2011-10","Innistrad cards now legal. Zendikar, Worldwake, Rise of the Eldrazi, and Magic 2011 cards no longer legal."
-"STN-2012-03-DKA","STN-5.3.1.0","Standard","2012-03","Dark Ascension cards now legal."
-"STN-2012-06-AVR","STN-5.3.2.0","Standard","2012-06","Avacyn Restored cards now legal."
-"STN-2012-08-M13","STN-5.3.3.0","Standard","2012-08","Magic 2013 cards now legal."
-"STN-2012-11-RTR","STN-5.4.0.0","Standard","2012-11","Return to Ravnica cards now legal. Scars of Mirrodin, Mirrodin Beseiged, New Phyrexia, and Magic 2012 cards no longer legal."
-"STN-2013-03-GTC","STN-5.4.1.0","Standard","2013-03","Gatecrash cards now legal."
-"STN-2013-05-DGM","STN-5.4.2.0","Standard","2013-05","Dragon's Maze cards now legal."
-"STN-2013-08-M14","STN-5.4.3.0","Standard","2013-08","Magic 2014 cards now legal."
-"STN-2013-10-THS","STN-5.5.0.0","Standard","2013-10","Theros cards now legal. Innistrad, Dark Ascension, Avacyn Restored, and Magic 2013 cards no longer legal."
-"STN-2014-03-BNG","STN-5.5.1.0","Standard","2014-03","Born of the Gods cards now legal."
-"STN-2014-05-JOU","STN-5.5.2.0","Standard","2014-05","Journey Into Nyx cards now legal."
-"STN-2014-07-M15","STN-5.5.3.0","Standard","2014-07","Magic 2015 cards now legal."
-"STN-2014-10-KTK","STN-5.6.0.0","Standard","2014-10","Khans of Tarkir cards now legal. Return to Ravnica, Gatecrash, Dragon's Maze, and Magic 2014 cards no longer legal."
-"STN-2015-01-FRF","STN-5.6.1.0","Standard","2015-01","Fate Reforged cards now legal."
-"STN-2015-03-DTK","STN-5.6.2.0","Standard","2015-03","Dragons of Tarkir cards now legal."
-"STN-2015-07-ORI","STN-5.6.3.0","Standard","2015-07","Magic Origins cards now legal."
-"STN-2015-10-BFZ","STN-6.0.0.0","Standard","2015-10","Battle for Zendikar cards now legal. Theros, Born of the Gods, Journey into Nyx, and Magic 2015 no longer legal. Standard rotation changed to Spring/Fall schedule with Three 2-set blocks legal at any given point."
-"STN-2016-01-OGW","STN-6.0.1.0","Standard","2016-01","Oath of the Gatewatch cards now legal."
-"STN-2016-04-SOI","STN-6.1.0.0","Standard","2016-04","Shadows Over Innistrad cards now legal. Khans of Tarkir and Fate Reforged cards no longer legal."
-"STN-2016-07-EMN","STN-6.1.1.0","Standard","2016-07","Eldritch Moon cards now legal."
-"STN-2016-09-KLD","STN-6.2.0.0","Standard","2016-09","Kaladesh cards now legal. Dragons of Tarkir and Magic Origins cards no longer legal."
-"STN-2017-01-AER","STN-6.2.1.0","Standard","2017-01","Aether Revolt cards now legal. Emrakul, the Promised End, Smuggler's Copter, and Reflector Mage are banned."
-"STN-2017-04-AKH","STN-6.3.0.0","Standard","2017-04","Amonkhet cards now legal. Battle for Zendikar and Oath of the Gatewatch cards no longer legal. Felidar Guardian is banned."
-"STN-2017-06-AKH-B1","STN-6.3.0.1","Standard","2017-06","Aetherworks Marvel is banned."
-"STN-2017-07-HOU","STN-6.3.1.0","Standard","2017-07","Hour of Devastation cards now legal."
-"STN-2017-09-XLN","STN-7.0.0.0","Standard","2017-09","Ixalan cards now legal. Shadows Over Innistrad and Eldritch Moon cards no longer legal."
-"STN-2018-01-RIX","STN-7.0.1.0","Standard","2018-01","Rivals of Ixalan cards now legal. Attune with Aether, Rogue Refiner, Ramunap Ruins, and Rampaging Ferocidon are banned."
-"STN-2018-04-DOM","STN-7.0.2.0","Standard","2018-04","Dominaria cards now legal."
-"STN-2018-07-M19","STN-7.0.3.0","Standard","2018-07","Core Set 2019 cards now legal."
-"STN-2018-10-GRN","STN-8.0.0.0","Standard","2018-10","Guilds of Ravnica cards now legal. Amonkhet and Hour of Devastation cards no longer legal."
-"STN-2019-01-RNA","STN-8.0.1.0","Standard","2019-01","Ravnica Allegiance cards now legal."
-"STN-2019-05-WAR","STN-8.0.2.0","Standard","2019-05","War of the Spark cards now legal."
-"STN-2019-07-M20","STN-8.0.3.0","Standard","2019-07","Core Set 2020 cards now legal."
-"STN-2019-08-M20-B1","STN-8.0.3.1","Standard","2019-08","Rampaging Ferocidon is unbanned."
-"STN-2019-10-ELD","STN-8.1.0.0","Standard","2019-10","Throne of Eldraine cards now legal. Ixalan, Rivals of Ixalan, Dominaria, and Core Set 2019 cards no longer legal."
-"STN-2019-10-ELD-B1","STN-8.1.0.1","Standard","2019-10","Field of the Dead is banned."
-"STN-2019-11-ELD-B2","STN-8.1.0.2","Standard","2019-11","Oko, Thief of Crowns, Once Upon a Time and Veil of Summer are banned."
-"STN-2020-01-THB","STN-8.1.1.0","Standard","2020-01","Theros: Beyond Death cards now legal."
-"STN-2020-04-IKO","STN-8.1.2.0","Standard","2020-04","Ikoria: Lair of Behemoths cards now legal."
-"VNT-1994-01-ARN-B1","VNT-1.0.0","Vintage","1994-01","Formation of the original DCI banned/restricted list. Ali from Cairo, Ancestral Recall, Berserk, Black Lotus, Braingeyser, Dingus Egg, Gauntlet of Might, Icy Manipulator, Mox Emerald, Mox Jet, Mox Pearl, Mox Ruby, Mox Sapphire, Orcish Oriflamme, Rukh Egg, Sol Ring, Timetwister, Time Vault, and Time Walk are restricted (""Limited""). Ante cards and Shahrazad are banned. Use of cards from any of the expansion sets (at that time Arabian Nights) are banned unless the referee consents to their use (this would later be changed to allowed ""unless expressly disallowed by the head judge prior to the event"")."
-"VNT-1994-02-ARN-B2","VNT-1.0.1","Vintage","1994-02","Orcish Oriflamme and Rukh Egg are unrestricted."
-"VNT-1994-03-ATQ","VNT-1.1.0","Vintage","1994-03","Antiquities cards now legal"
-"VNT-1994-03-ATQ-B1","VNT-1.1.1","Vintage","1994-03","Channel, Copy Artifact, Demonic Tutor, Regrowth, and Wheel of Fortune are restricted. Icy Manipulator is unrestricted. Time Vault is banned."
-"VNT-1994-04-3ED*","VNT-1.2.0","Vintage","1994-04","Revised Edition cards now legal"
-"VNT-1994-05-3ED-B1*","VNT-1.2.1","Vintage","1994-05","Candelabra of Tawnos, Feldon's Cane, Ivory Tower, and Library of Alexandria are restricted. Dingus Egg and Gauntlet of Might are unrestricted."
-"VNT-1994-06-LEG","VNT-1.3.0","Vintage","1994-06","Legends cards now legal"
-"VNT-1994-06-LEG-B1","VNT-1.3.1","Vintage","1994-06","Mishra's Workshop is restricted."
-"VNT-1994-08-DRK","VNT-1.4.0","Vintage","1994-08","The Dark cards now legal"
-"VNT-1994-08-DRK-B1","VNT-1.4.1","Vintage","1994-08","Chaos Orb, Falling Star, Mind Twist, Mirror Universe, Recall, Sword of the Ages, Underworld Dreams are restricted. For flavor reasons, all legendary cards (of type ""Summon Legends""—then called Legends—or ""Legendary Land"") were restricted. Divine Intervention is banned"
-"VNT-1994-10-DRK-B2","VNT-1.4.2","Vintage","1994-10","Maze of Ith is restricted"
-"VNT-1994-11-FEM","VNT-1.5.0","Vintage","1994-11","Fallen Empires cards now legal"
-"VNT-1995-04-FEM-B1","VNT-1.5.1","Vintage","1995-04","Balance and Fork are restricted."
-"VNT-1995-06-ICE","VNT-1.6.0","Vintage","1995-06","Ice Age cards now legal"
-"VNT-1995-10-HML","VNT-1.7.0","Vintage","1995-10","Homelands cards now legal"
-"VNT-1995-11-HML-B1","VNT-1.7.1","Vintage","1995-11","Legendary cards are unrestricted. Zuran Orb is restricted. Channel, Chaos Orb, and Falling Star are banned."
-"VNT-1996-02-HML-B2","VNT-1.7.2","Vintage","1996-02","Mind Twist is banned. Black Vise is restricted."
-"VNT-1996-04-HML-B3","VNT-1.7.3","Vintage","1996-04","Time Vault is unbanned. Ali from Cairo, Black Vise, and Sword of the Ages are unrestricted. Time Vault errata'd: Time Vault now adds a time counter to itself when a turn is skipped for its cost. Taking an extra turn requires the removal of a time counter."
-"VNT-1996-06-ALL","VNT-1.8.0","Vintage","1996-06","Alliances cards now legal"
-"VNT-1996-10-ALL-B1","VNT-1.8.1","Vintage","1996-10","Fastbond is restricted. The head judge can't disallow any Magic expansion anymore."
-"VNT-1996-10-MIR","VNT-1.9.0","Vintage","1996-10","Mirage cards now legal"
-"VNT-1997-03-VIS","VNT-1.10.0","Vintage","1997-03","Visions cards now legal"
-"VNT-1997-07-WTH","VNT-1.11.0","Vintage","1997-07","Weatherlight cards now legal"
-"VNT-1997-07-WTH-B1","VNT-1.11.1","Vintage","1997-07","Black Vise is restricted."
-"VNT-1997-10-WTH-B2","VNT-1.11.2","Vintage","1997-10","Candelabra of Tawnos, Copy Artifact, Feldon's Cane, Mishra's Workshop, and Zuran Orb are unrestricted"
-"VNT-1997-11-TMP","VNT-1.12.0","Vintage","1997-11","Tempest cards now legal"
-"VNT-1998-01-TMP-B1","VNT-1.12.1","Vintage","1998-01","Strip Mine is restricted"
-"VNT-1998-03-STH","VNT-1.13.0","Vintage","1998-03","Stronghold cards now legal"
-"VNT-1998-07-EXO","VNT-1.14.0","Vintage","1998-07","Exodus cards now legal"
-"VNT-1998-11-USG","VNT-1.15.0","Vintage","1998-11","Urza's Saga cards now legal"
-"VNT-1998-12-USG-B1","VNT-1.15.1","Vintage","1998-12","Stroke of Genius, Tolarian Academy, and Windfall are restricted"
-"VNT-1999-03-ULG","VNT-1.16.0","Vintage","1999-03","Urza's Legacy cards now legal"
-"VNT-1999-03-ULG-B1","VNT-1.16.1","Vintage","1999-03","Memory Jar is restricted."
-"VNT-1999-03-USG-B2","VNT-1.15.2","Vintage","1999-03","Maze of Ith is unrestricted. Time Spiral is restricted."
-"VNT-1999-07-UDS","VNT-1.17.0","Vintage","1999-07","Urza's Destiny cards now legal."
-"VNT-1999-09-UDS-B1","VNT-1.17.1","Vintage","1999-09","Divine Intervention and Shahrazad are unbanned. Ivory Tower, Mirror Universe, and Underworld Dreams are unrestricted. Crop Rotation, Doomsday, Dream Halls, Enlightened Tutor, Frantic Search, Grim Monolith, Hurkyl's Recall, Lotus Petal, Mana Crypt, Mana Vault, Mind Over Matter, Mox Diamond, Mystical Tutor, Tinker, Vampiric Tutor, Voltaic Key, Yawgmoth's Bargain, and Yawgmoth's Will are restricted."
-"VNT-1999-10-MMQ","VNT-1.18.0","Vintage","1999-10","Mercadian Masques cards now legal."
-"VNT-2000-03-NEM","VNT-1.19.0","Vintage","2000-03","Nemesis cards now legal."
-"VNT-2000-07-PCY","VNT-1.20.0","Vintage","2000-07","Prophecy cards now legal."
-"VNT-2000-09-PCY-B1","VNT-1.20.1","Vintage","2000-09","Channel and Mind Twist are changed from banned to restricted. Demonic Consultation and Necropotence are also restricted."
-"VNT-2000-10-INV","VNT-1.21.0","Vintage","2000-10","Invasion cards now legal."
-"VNT-2001-02-PLS","VNT-1.22.0","Vintage","2001-02","Planeshift cards now legal."
-"VNT-2001-06-APC","VNT-1.23.0","Vintage","2001-06","Apocalypse cards now legal."
-"VNT-2001-11-ODY","VNT-1.24.0","Vintage","2001-11","Odyssey cards now legal."
-"VNT-2001-12-ODY-B1","VNT-1.24.1","Vintage","2001-12","Fact or Fiction is restricted."
-"VNT-2002-03-TOR","VNT-1.25.0","Vintage","2002-03","Torment cards now legal."
-"VNT-2002-06-JUD","VNT-1.26.0","Vintage","2002-06","Judgment cards now legal."
-"VNT-2002-11-ONS","VNT-1.27.0","Vintage","2002-11","Onslaught cards now legal."
-"VNT-2003-02-LGN","VNT-1.28.0","Vintage","2003-02","Legions cards now legal."
-"VNT-2003-03-LGN-B1","VNT-1.28.1","Vintage","2003-03","Earthcraft and Entomb are restricted. Berserk, Hurkyl's Recall, and Recall are unrestricted."
-"VNT-2003-06-LGN-B2","VNT-1.28.2","Vintage","2003-06","Gush and Mind's Desire are restricted."
-"VNT-2003-06-SCG","VNT-1.29.0","Vintage","2003-06","Scourge cards now legal."
-"VNT-2003-11-MRD","VNT-1.30.0","Vintage","2003-11","Mirrodin cards now legal."
-"VNT-2003-12-MRD-B1","VNT-1.30.1","Vintage","2003-12","Burning Wish, Chrome Mox, and Lion's Eye Diamond are restricted."
-"VNT-2004-03-DST","VNT-1.31.0","Vintage","2004-03","Darksteel cards now legal."
-"VNT-2004-07-5DN","VNT-1.32.0","Vintage","2004-07","Fifth Dawn cards now legal."
-"VNT-2004-09-5DN-B1","VNT-1.32.1","Vintage","2004-09","Braingeyser, Doomsday, Earthcraft, and Fork are unrestricted."
-"VNT-2004-11-CHK","VNT-1.33.0","Vintage","2004-11","Champions of Kamigawa cards are now legal."
-"VNT-2004-12-CHK-B1","VNT-1.33.1","Vintage","2004-12","Stroke of Genius is unrestricted."
-"VNT-2005-03-BOK","VNT-1.34.0","Vintage","2005-03","Betrayers of Kamigawa cards are now legal."
-"VNT-2005-03-CHK-B1","VNT-1.33.2","Vintage","2005-03","Trinisphere is restricted."
-"VNT-2005-07-SOK","VNT-1.35.0","Vintage","2005-07","Saviors of Kamigawa cards now legal."
-"VNT-2005-09-SOK-B1","VNT-1.35.1","Vintage","2005-09","Imperial Seal and Personal Tutor are restricted. Mind Over Matter is unrestricted."
-"VNT-2005-10-POR","VNT-1.36.0","Vintage","2005-10","Portal, Portal 2, Portal: Three Kingdoms, Starter, and Starter 2000 cards are now legal."
-"VNT-2005-11-RAV","VNT-1.37.0","Vintage","2005-11","Ravnica: City of Guilds cards are now legal."
-"VNT-2006-03-GPT","VNT-1.38.0","Vintage","2006-03","Guildpact cards now legal."
-"VNT-2006-06-DIS","VNT-1.39.0","Vintage","2006-06","Dissension cards now legal."
-"VNT-2006-08-CSP","VNT-1.40.0","Vintage","2006-08","Coldsnap cards now legal."
-"VNT-2006-11-TSP","VNT-1.41.0","Vintage","2006-11","Time Spiral cards now legal."
-"VNT-2007-03-PLC","VNT-1.42.0","Vintage","2007-03","Planar Chaos cards now legal."
-"VNT-2007-06-FUT","VNT-1.43.0","Vintage","2007-06","Future Sight cards now legal."
-"VNT-2007-06-PLC-B1","VNT-1.42.1","Vintage","2007-06","Gifts Ungiven is restricted. Voltaic Key, Black Vise, Mind Twist, and Gush are unrestricted."
-"VNT-2007-09-FUT-B1","VNT-1.43.1","Vintage","2007-09","Shahrazad is banned."
-"VNT-2007-11-LRW","VNT-1.44.0","Vintage","2007-11","Lorwyn cards now legal."
-"VNT-2008-03-MOR","VNT-1.45.0","Vintage","2008-03","Morningtide cards now legal."
-"VNT-2008-06-MOR-B1","VNT-1.45.1","Vintage","2008-06","Brainstorm, Flash, Gush, Merchant Scroll, Ponder are restricted."
-"VNT-2008-06-SHM","VNT-1.46.0","Vintage","2008-06","Shadowmoor cards now legal."
-"VNT-2008-07-EVE","VNT-1.47.0","Vintage","2008-07","Eventide cards now legal."
-"VNT-2008-09-EVE-B1","VNT-1.47.1","Vintage","2008-09","Time Vault is restricted. Chrome Mox, Dream Halls, Mox Diamond, Personal Tutor, and Time Spiral are unrestricted."
-"VNT-2008-10-ALA","VNT-1.48.0","Vintage","2008-10","Shards of Alara cards now legal."
-"VNT-2009-03-CON","VNT-1.49.0","Vintage","2009-03","Conflux cards now legal."
-"VNT-2009-05-ARB","VNT-1.50.0","Vintage","2009-05","Alara Reborn cards now legal."
-"VNT-2009-08-M10","VNT-1.51.0","Vintage","2009-08","Magic 2010 cards now legal."
-"VNT-2009-11-ZEN","VNT-1.52.0","Vintage","2009-11","Zendikar cards now legal."
-"VNT-2010-03-WWK","VNT-1.53.0","Vintage","2010-03","Worldwake cards now legal."
-"VNT-2010-05-ROE","VNT-1.54.0","Vintage","2010-05","Rise of the Eldrazi cards now legal."
-"VNT-2010-08-M11","VNT-1.55.0","Vintage","2010-08","Magic 2011 cards now legal."
-"VNT-2010-09-M11-B1","VNT-1.55.1","Vintage","2010-09","Frantic Search and Gush are unrestricted."
-"VNT-2010-11-SOM","VNT-1.56.0","Vintage","2010-11","Scars of Mirrodin cards now legal."
-"VNT-2011-03-MBS","VNT-1.57.0","Vintage","2011-03","Mirrodin Beseiged cards now legal."
-"VNT-2011-06-NPH","VNT-1.58.0","Vintage","2011-06","New Phyrexia cards now legal."
-"VNT-2011-07-CMD","VNT-1.59.0","Vintage","2011-07","Commander cards now legal."
-"VNT-2011-08-M12","VNT-1.60.0","Vintage","2011-08","Magic 2012 cards now legal."
-"VNT-2011-09-M12-B1","VNT-1.60.1","Vintage","2011-09","Fact or Fiction is unrestricted."
-"VNT-2011-10-ISD","VNT-1.61.0","Vintage","2011-10","Innistrad cards now legal."
-"VNT-2012-03-DKA","VNT-1.62.0","Vintage","2012-03","Dark Ascension cards now legal."
-"VNT-2012-06-AVR","VNT-1.63.0","Vintage","2012-06","Avacyn Restored cards now legal."
-"VNT-2012-06-PC2","VNT-1.64.0","Vintage","2012-06","Planechase 2012 cards now legal."
-"VNT-2012-08-M13","VNT-1.65.0","Vintage","2012-08","Magic 2013 cards now legal."
-"VNT-2012-09-M13-B1","VNT-1.65.1","Vintage","2012-09","Burning Wish is unrestricted."
-"VNT-2012-11-RTR","VNT-1.66.0","Vintage","2012-11","Return to Ravnica cards now legal."
-"VNT-2013-03-GTC","VNT-1.67.0","Vintage","2013-03","Gatecrash cards now legal."
-"VNT-2013-05-DGM","VNT-1.68.0","Vintage","2013-05","Dragon's Maze cards now legal."
-"VNT-2013-05-GTC-B1","VNT-1.67.1","Vintage","2013-05","Regrowth is unrestricted."
-"VNT-2013-08-M14","VNT-1.69.0","Vintage","2013-08","Magic 2014 cards now legal."
-"VNT-2013-10-THS","VNT-1.70.0","Vintage","2013-10","Theros cards now legal."
-"VNT-2013-11-C13","VNT-1.71.0","Vintage","2013-11","Commander 2013 cards now legal."
-"VNT-2014-03-BNG","VNT-1.72.0","Vintage","2014-03","Born of the Gods cards now legal."
-"VNT-2014-05-JOU","VNT-1.73.0","Vintage","2014-05","Journey Into Nyx cards now legal."
-"VNT-2014-06-CNS","VNT-1.74.0","Vintage","2014-06","Conspiracy cards now legal. Cards with Conspiracy card type are preemptively banned."
-"VNT-2014-07-M15","VNT-1.74.0","Vintage","2014-07","Magic 2015 cards now legal."
-"VNT-2014-10-KTK","VNT-1.75.0","Vintage","2014-10","Khans of Tarkir cards now legal."
-"VNT-2014-11-C14","VNT-1.76.0","Vintage","2014-11","Commander 2014 cards now legal."
-"VNT-2015-01-FRF","VNT-1.77.0","Vintage","2015-01","Fate Reforged cards now legal. Treasure Cruise is restricted. Gifts Ungiven is unrestricted."
-"VNT-2015-03-DTK","VNT-1.78.0","Vintage","2015-03","Dragons of Tarkir cards now legal."
-"VNT-2015-07-ORI","VNT-1.79.0","Vintage","2015-07","Magic Origins cards now legal."
-"VNT-2015-09-ORI-B1","VNT-1.79.1","Vintage","2015-09","Chalice of the Void and Dig Through Time are restricted. Thirst for Knowledge is unrestricted."
-"VNT-2015-10-BFZ","VNT-1.80.0","Vintage","2015-10","Battle for Zendikar cards now legal."
-"VNT-2015-11-C15","VNT-1.81.0","Vintage","2015-11","Commander 2015 cards now legal."
-"VNT-2016-01-OGW","VNT-1.82.0","Vintage","2016-01","Oath of the Gatewatch cards now legal."
-"VNT-2016-04-SOI","VNT-1.83.0","Vintage","2016-04","Shadows Over Innistrad cards now legal. Lodestone Golem is restricted."
-"VNT-2016-07-EMN","VNT-1.84.0","Vintage","2016-07","Eldritch Moon cards now legal."
-"VNT-2016-08-CN2","VNT-1.85.0","Vintage","2016-08","Conspiracy: Take the Crown cards now legal."
-"VNT-2016-09-KLD","VNT-1.86.0","Vintage","2016-09","Kaladesh cards now legal."
-"VNT-2016-11-C16","VNT-1.87.0","Vintage","2016-11","Commander 2016 cards now legal."
-"VNT-2017-01-AER","VNT-1.88.0","Vintage","2017-01","Aether Revolt cards now legal."
-"VNT-2017-04-AKH","VNT-1.89.0","Vintage","2017-04","Amonkhet cards now legal. Gitaxian Probe and Gush are restricted."
-"VNT-2017-07-HOU","VNT-1.90.0","Vintage","2017-07","Hour of Devastation cards now legal."
-"VNT-2017-08-C17","VNT-1.91.0","Vintage","2017-08","Commander 2017 cards now legal. Thorn of Amethyst and Monastery Mentor are restricted. Yawgmoth's Bargain is unrestricted."
-"VNT-2017-09-XLN","VNT-1.92.0","Vintage","2017-09","Ixalan cards now legal."
-"VNT-2018-01-RIX","VNT-1.93.0","Vintage","2018-01","Rivals of Ixalan cards now legal."
-"VNT-2018-04-DOM","VNT-1.94.0","Vintage","2018-04","Dominaria cards now legal."
-"VNT-2018-06-BBD","VNT-1.95.0","Vintage","2018-06","Battlebond cards now legal."
-"VNT-2018-07-M19","VNT-1.96.0","Vintage","2018-07","Core Set 2019 cards now legal."
-"VNT-2018-08-C18","VNT-1.97.0","Vintage","2018-08","Commander 2018 cards now legal."
-"VNT-2018-10-GRN","VNT-1.98.0","Vintage","2018-10","Guilds of Ravnica cards now legal."
-"VNT-2019-01-RNA","VNT-1.99.0","Vintage","2019-01","Ravnica Allegiance cards now legal."
-"VNT-2019-05-WAR","VNT-1.100.0","Vintage","2019-05","War of the Spark cards now legal."
-"VNT-2019-06-MH1","VNT-1.101.0","Vintage","2019-06","Modern Horizons cards now legal."
-"VNT-2019-07-M20","VNT-1.102.0","Vintage","2019-07","Core Set 2020 cards now legal."
-"VNT-2019-08-C19","VNT-1.103.0","Vintage","2019-08","Commander 2019 cards now legal."
-"VNT-2019-08-C19-B1","VNT-1.103.1","Vintage","2019-08","Karn, the Great Creator, Mental Misstep, Golgari Grave-Troll, and Mystic Forge are restricted. Fastbond is unrestricted."
-"VNT-2019-10-ELD","VNT-1.104.0","Vintage","2019-10","Throne of Eldraine cards now legal."
-"VNT-2019-11-ELD-B1","VNT-1.104.1","Vintage","2019-11","Narset, Parter of Veils is restricted."
-"VNT-2020-01-THB","VNT-1.105.0","Vintage","2020-01","Theros: Beyond Death cards now legal."
-"VNT-2020-04-IKO","VNT-1.106.0","Vintage","2020-04","Ikoria: Lair of Behemoths cards now legal."
+Code,Version,Format,Start Month,Summary
+PDC-1993-08-LEA,PDC-0.1.0,Pre-DCI,1993-08,Limited Edition Alpha cards now legal
+PDC-1993-10-LEB,PDC-0.2.0,Pre-DCI,1993-10,Limited Edition Beta cards now legal
+PDC-1993-12-2ED*,PDC-0.3.0,Pre-DCI,1993-12,Unlimited Edition cards now legal
+PDC-1993-12-ARN,PDC-0.4.0,Pre-DCI,1993-12,Arabian Nights cards now legal
+VNT-1994-01-ARN-B1,VNT-1.0.0,Vintage,1994-01,"Formation of the original DCI banned/restricted list. Ali from Cairo, Ancestral Recall, Berserk, Black Lotus, Braingeyser, Dingus Egg, Gauntlet of Might, Icy Manipulator, Mox Emerald, Mox Jet, Mox Pearl, Mox Ruby, Mox Sapphire, Orcish Oriflamme, Rukh Egg, Sol Ring, Timetwister, Time Vault, and Time Walk are restricted (""Limited""). Ante cards and Shahrazad are banned. Use of cards from any of the expansion sets (at that time Arabian Nights) are banned unless the referee consents to their use (this would later be changed to allowed ""unless expressly disallowed by the head judge prior to the event"")."
+VNT-1994-02-ARN-B2,VNT-1.0.1,Vintage,1994-02,Orcish Oriflamme and Rukh Egg are unrestricted.
+VNT-1994-03-ATQ,VNT-1.1.0,Vintage,1994-03,Antiquities cards now legal
+VNT-1994-03-ATQ-B1,VNT-1.1.1,Vintage,1994-03,"Channel, Copy Artifact, Demonic Tutor, Regrowth, and Wheel of Fortune are restricted. Icy Manipulator is unrestricted. Time Vault is banned."
+VNT-1994-04-3ED*,VNT-1.2.0,Vintage,1994-04,Revised Edition cards now legal
+VNT-1994-05-3ED-B1*,VNT-1.2.1,Vintage,1994-05,"Candelabra of Tawnos, Feldon's Cane, Ivory Tower, and Library of Alexandria are restricted. Dingus Egg and Gauntlet of Might are unrestricted."
+VNT-1994-06-LEG,VNT-1.3.0,Vintage,1994-06,Legends cards now legal
+VNT-1994-06-LEG-B1,VNT-1.3.1,Vintage,1994-06,Mishra's Workshop is restricted.
+VNT-1994-08-DRK,VNT-1.4.0,Vintage,1994-08,The Dark cards now legal
+VNT-1994-08-DRK-B1,VNT-1.4.1,Vintage,1994-08,"Chaos Orb, Falling Star, Mind Twist, Mirror Universe, Recall, Sword of the Ages, Underworld Dreams are restricted. For flavor reasons, all legendary cards (of type ""Summon Legends""—then called Legends—or ""Legendary Land"") were restricted. Divine Intervention is banned"
+VNT-1994-10-DRK-B2,VNT-1.4.2,Vintage,1994-10,Maze of Ith is restricted
+VNT-1994-11-FEM,VNT-1.5.0,Vintage,1994-11,Fallen Empires cards now legal
+STN-1995-01-FEM,STN-1.0.0.0,Standard,1995-01,"Creation of Standard (then called ""Type 2"") on January 10, inheriting banned and restricted lists from Vintage. Legal sets are the most recent edition of Magic: the Gathering (Revised at the time), and the two most recent expansions (The Dark and Fallen Empires at the time)"
+STN-1995-04-FEM-B1,STN-1.0.0.1,Standard,1995-04,Balance and Fork are restricted.
+VNT-1995-04-FEM-B1,VNT-1.5.1,Vintage,1995-04,Balance and Fork are restricted.
+STN-1995-05-4ED,STN-1.0.1.0,Standard,1995-05,Fourth Edition cards now legal. Revised cards are no longer legal.
+BC-ICE-1995-06-ICE,BC-ICE-0.1.0,Ice Age Block,1995-06,Ice Age cards now legal
+STN-1995-06-ICE,STN-1.2.0.0,Standard,1995-06,Ice Age cards now legal. The Dark cards no longer legal. (?)
+VNT-1995-06-ICE,VNT-1.6.0,Vintage,1995-06,Ice Age cards now legal
+BC-ICE-1995-10-HML,BC-ICE-1.0.0,Ice Age Block,1995-10,Homelands cards now legal
+STN-1995-10-HML,STN-2.0.0.0,Standard,1995-10,"Homelands cards now legal. New deck construction rules. Standard (Type 2) can be composed of cards from the most recent edition of Magic The Gathering (Fourth Edition at the time), white border extensions (Chronicles), and all available limited edition expansions (Ice Age, Fallen Empires, and Homelands)."
+VNT-1995-10-HML,VNT-1.7.0,Vintage,1995-10,Homelands cards now legal
+STN-1995-11-HML-B1,STN-2.0.0.1,Standard,1995-11,Legendary cards are unrestricted. Zuran Orb is restricted. Channel is banned.
+VNT-1995-11-HML-B1,VNT-1.7.1,Vintage,1995-11,"Legendary cards are unrestricted. Zuran Orb is restricted. Channel, Chaos Orb, and Falling Star are banned."
+STN-1996-02-HML-B2,STN-2.0.0.2,Standard,1996-02,Mind Twist is banned. Black Vise is restricted.
+VNT-1996-02-HML-B2,VNT-1.7.2,Vintage,1996-02,Mind Twist is banned. Black Vise is restricted.
+STN-1996-04-HML-B3,STN-2.0.0.3,Standard,1996-04,Feldon's Cane and Recall are unrestricted.
+VNT-1996-04-HML-B3,VNT-1.7.3,Vintage,1996-04,"Time Vault is unbanned. Ali from Cairo, Black Vise, and Sword of the Ages are unrestricted. Time Vault errata'd: Time Vault now adds a time counter to itself when a turn is skipped for its cost. Taking an extra turn requires the removal of a time counter."
+LGC-1996-05-HML,LGC-1.0.0,Legacy,1996-05,"Legacy is created (then called Type 1.5). ""Type 1.5 tournament decks may be constructed from Magic: The Gathering cards from the Limited (first edition, with black border) series, the Unlimited (second edition), Revised (third edition), Fourth Edition, any Magic: The Gathering expansion (unless expressly disallowed by the head judge prior to the event), and promotional cards released by Wizards of the Coast in magazines or through books."" There are no restricted cards. The list of banned cards is the sum of all cards that are either restricted or banned in Vintage or Standard."
+BC-ICE-1996-06-ALL,BC-ICE-1.1.0,Ice Age Block,1996-06,Alliances cards now legal
+LGC-1996-06-HML-B1,LGC-1.0.1,Legacy,1996-06,Land Tax is banned.
+LGC-1996-06-ALL,LGC-1.1.0,Legacy,1996-06,Alliances cards now legal
+STN-1996-06-HML-B4,STN-2.0.0.4,Standard,1996-06,Land Tax is restricted.
+STN-1996-06-ALL,STN-2.0.1.0,Standard,1996-06,Alliances cards now legal
+VNT-1996-06-ALL,VNT-1.8.0,Vintage,1996-06,Alliances cards now legal
+BC-MIR-1996-10-MIR,BC-MIR-0.1.0,Mirage Block,1996-10,Mirage cards now legal
+LGC-1996-10-ALL-B1,LGC-1.1.1,Legacy,1996-10,Fastbond and Strip Mine are banned. The head judge can't disallow any Magic expansion anymore.
+LGC-1996-10-MIR,LGC-1.2.0,Legacy,1996-10,Mirage cards now legal
+STN-1996-10-ALL-B1,STN-2.0.1.1,Standard,1996-10,Hymn to Tourach and Strip Mine are restricted.
+STN-1996-10-MIR,STN-2.1.0.0,Standard,1996-10,Mirage cards now legal. Fallen Empires cards no longer legal.
+VNT-1996-10-ALL-B1,VNT-1.8.1,Vintage,1996-10,Fastbond is restricted. The head judge can't disallow any Magic expansion anymore.
+VNT-1996-10-MIR,VNT-1.9.0,Vintage,1996-10,Mirage cards now legal
+STN-1997-01-MIR-B1,STN-3.0.0.0,Standard,1997-01,"All cards on the restricted list are moved to the banned list. New deck construction rules. New editions of the basic set replace old versions and are permitted in Standard play thirty days after the release date of the new edition. New standalone expansions (e.g., Ice Age, Mirage, etc.) replace previous stand-alone expansions and are permitted in Standard play thirty days after the release date of the new edition. Limited-edition expansions are replaced thirty days after the release date of the next limited-edition expansion which has a release date of more than 10 months later than the release date of the outgoing limited-edition expansion."
+BC-MIR-1997-03-VIS,BC-MIR-1.0.0,Mirage Block,1997-03,Visions cards now legal
+LGC-1997-03-VIS,LGC-1.3.0,Legacy,1997-03,Visions cards now legal
+STN-1997-03-VIS,STN-3.0.1.0,Standard,1997-03,Visions cards now legal
+STN-1997-03-5ED,STN-3.0.2.0,Standard,1997-03,Fifth Edition cards now legal. Fourth Edition cards no longer legal.
+VNT-1997-03-VIS,VNT-1.10.0,Vintage,1997-03,Visions cards now legal
+BC-ICE-1997-05-ALL-B1,BC-ICE-1.1.1,Ice Age Block,1997-05,Thawing Glaciers and Zuran Orb are banned.
+STN-1997-06-5ED-B1,STN-3.0.2.1,Standard,1997-06,Zuran Orb is banned.
+BC-MIR-1997-07-WTH,BC-MIR-1.1.0,Mirage Block,1997-07,Weatherlight cards now legal
+BC-MIR-1997-07-WTH-B1,BC-MIR-1.1.1,Mirage Block,1997-07,Squandered Resources is banned
+EXT-1997-07-WTH,EXT-1.0.0.0,Extended,1997-07,"Extended, announced in May, is now officially sanctioned. Initial banned list is made of cards from Limited Edition, Unlimited Edition, Arabian Nights, Antiquities, and Legends (which have not been reprinted), ante cards, and additionally: Demonic Tutor, Balance, Fastbond, Regrowth, Black Vise, Ivory Tower, Serendib Efreet, Braingeyser, Sol Ring, Juggernaut, Strip Mine, Channel, Kird Ape, Mana Crypt, Maze of Ith, Wheel of Fortune, Mind Twist, and Zuran Orb are banned."
+LGC-1997-07-WTH,LGC-1.4.0,Legacy,1997-07,Weatherlight cards now legal
+STN-1997-07-WTH,STN-3.0.3.0,Standard,1997-07,Weatherlight cards now legal
+STN-1997-07-WTH-B1,STN-4.0.0,Standard,1997-07,"New deck construction rules. Standard decks can be composed of cards from the most recent edition of Magic: The Gathering (then Fifth Edition) and all sets from the two most recent ""blocks"" of expansions (then Ice Age, Homelands, Alliances, Mirage, Visions, and Weatherlight)"
+VNT-1997-07-WTH,VNT-1.11.0,Vintage,1997-07,Weatherlight cards now legal
+VNT-1997-07-WTH-B1,VNT-1.11.1,Vintage,1997-07,Black Vise is restricted.
+EXT-1997-10-WTH-B1,EXT-1.0.0.1,Extended,1997-10,Hypnotic Specter is banned. Juggernaut is unbanned
+VNT-1997-10-WTH-B2,VNT-1.11.2,Vintage,1997-10,"Candelabra of Tawnos, Copy Artifact, Feldon's Cane, Mishra's Workshop, and Zuran Orb are unrestricted"
+BC-TMP-1997-11-TMP,BC-TMP-0.1.0,Tempest Block,1997-11,Tempest cards now legal
+EXT-1997-11-TMP,EXT-1.0.1.0,Extended,1997-11,Tempest cards now legal
+LGC-1997-11-TMP,LGC-1.5.0,Legacy,1997-11,Tempest cards now legal
+STN-1997-11-TMP,STN-4.1.0.0,Standard,1997-11,"Tempest cards now legal. Ice Age, Homelands, and Alliances cards no longer legal."
+VNT-1997-11-TMP,VNT-1.12.0,Vintage,1997-11,Tempest cards now legal
+VNT-1998-01-TMP-B1,VNT-1.12.1,Vintage,1998-01,Strip Mine is restricted
+BC-TMP-1998-03-STH,BC-TMP-1.0.0,Tempest Block,1998-03,Stronghold cards now legal
+EXT-1998-03-STH,EXT-1.0.2.0,Extended,1998-03,Stronghold cards now legal
+LGC-1998-03-STH,LGC-1.6.0,Legacy,1998-03,Stronghold cards now legal
+STN-1998-03-STH,STN-4.1.1.0,Standard,1998-03,Stronghold cards now legal
+VNT-1998-03-STH,VNT-1.13.0,Vintage,1998-03,Stronghold cards now legal
+BC-TMP-1998-07-EXO,BC-TMP-1.1.0,Tempest Block,1998-07,Exodus cards now legal
+BC-TMP-1998-07-EXO-B1,BC-TMP-1.1.1,Tempest Block,1998-07,Cursed Scroll is banned.
+EXT-1998-07-EXO,EXT-1.0.3.0,Extended,1998-07,Exodus cards now legal
+EXT-1998-07-EXO-B1,EXT-1.0.3.1,Extended,1998-07,Land Tax is banned.
+LGC-1998-07-EXO,LGC-1.7.0,Legacy,1998-07,Exodus cards now legal
+STN-1998-07-EXO,STN-4.1.2.0,Standard,1998-07,Exodus cards now legal
+VNT-1998-07-EXO,VNT-1.14.0,Vintage,1998-07,Exodus cards now legal
+BC-USG-1998-11-USG,BC-USG-0.1.0,Urza's Saga Block,1998-11,Urza's Saga cards now legal
+EXT-1998-11-USG,EXT-1.0.4.0,Extended,1998-11,Urza's Saga cards now legal
+LGC-1998-11-USG,LGC-1.8.0,Legacy,1998-11,Urza's Saga cards now legal
+STN-1998-11-USG,STN-4.2.0.0,Standard,1998-11,"Urza's Saga cards now legal. Mirage, Visions, and Weatherlight cards no longer legal."
+VNT-1998-11-USG,VNT-1.15.0,Vintage,1998-11,Urza's Saga cards now legal
+EXT-1998-12-USG-B1,EXT-1.0.4.1,Extended,1998-12,Tolarian Academy and Windfall are banned. Braingeyser is unbanned.
+LGC-1998-12-USG-B1,LGC-1.8.1,Legacy,1998-12,"Stroke of Genius, Tolarian Academy, and Windfall are banned. Feldon's Cane is unbanned."
+STN-1998-12-USG-B1,STN-4.2.0.1,Standard,1998-12,Tolarian Academy and Windfall are banned.
+VNT-1998-12-USG-B1,VNT-1.15.1,Vintage,1998-12,"Stroke of Genius, Tolarian Academy, and Windfall are restricted"
+BC-USG-1999-03-ULG,BC-USG-1.0.0,Urza's Saga Block,1999-03,Urza's Legacy cards now legal
+BC-USG-1999-03-ULG-B1,BC-USG-1.0.1,Urza's Saga Block,1999-03,"Time Spiral, Memory Jar, and Windfall are banned"
+EXT-1999-03-ULG,EXT-1.0.5.0,Extended,1999-03,Urza's Legacy cards now legal
+EXT-1999-03-ULG-B1,EXT-1.0.5.1,Extended,1999-03,Memory Jar is banned.
+LGC-1999-03-USG-B2,LGC-1.8.2,Legacy,1999-03,"Time Spiral is banned. Candelabra of Tawnos, Copy Artifact, Maze of Ith, Zuran Orb, and Mishra's Workshop are unbanned."
+LGC-1999-03-ULG,LGC-1.9.0,Legacy,1999-03,Urza's Legacy cards now legal
+LGC-1999-03-ULG-B1,LGC-1.9.1,Legacy,1999-03,Memory Jar is banned.
+STN-1999-03-USG-B2,STN-4.2.0.2,Standard,1999-03,"Dream Halls, Earthcraft, Fluctuator, Lotus Petal, Recurring Nightmare, and Time Spiral are banned."
+STN-1999-03-ULG,STN-4.2.1.0,Standard,1999-03,Urza's Legacy cards now legal
+STN-1999-03-ULG-B1,STN-4.2.1.1,Standard,1999-03,Memory Jar is banned.
+VNT-1999-03-USG-B2,VNT-1.15.2,Vintage,1999-03,Maze of Ith is unrestricted. Time Spiral is restricted.
+VNT-1999-03-ULG,VNT-1.16.0,Vintage,1999-03,Urza's Legacy cards now legal
+VNT-1999-03-ULG-B1,VNT-1.16.1,Vintage,1999-03,Memory Jar is restricted.
+EXT-1999-05-6ED,EXT-1.0.6.0,Extended,1999-05,Sixth Edition cards now legal.
+STN-1999-05-6ED,STN-4.2.2.0,Standard,1999-05,Sixth Edition cards now legal. Fifth Edition cards no longer legal.
+BC-USG-1999-06-ULG-B2,BC-USG-1.0.2,Urza's Saga Block,1999-06,"Gaea's Cradle, Serra's Sanctum, Tolarian Academy, and Voltaic Key are banned."
+EXT-1999-06-6ED-B1,EXT-1.0.6.1,Extended,1999-06,Time Spiral is banned.
+STN-1999-06-6ED-B1,STN-4.2.2.1,Standard,1999-06,Mind Over Matter is banned.
+BC-USG-1999-07-UDS,BC-USG-1.1.0,Urza's Saga Block,1999-07,Urza's Destiny cards now legal.
+EXT-1999-07-UDS,EXT-1.0.7.0,Extended,1999-07,Urza's Destiny cards now legal.
+LGC-1999-07-UDS,LGC-1.10.0,Legacy,1999-07,Urza's Destiny cards now legal.
+STN-1999-07-UDS,STN-4.2.3.0,Standard,1999-07,Urza's Destiny cards now legal.
+VNT-1999-07-UDS,VNT-1.17.0,Vintage,1999-07,Urza's Destiny cards now legal.
+EXT-1999-08-UDS-B1,EXT-1.0.7.1,Extended,1999-08,Yawgmoth's Bargain is banned.
+EXT-1999-09-UDS-B2,EXT-1.0.7.2,Extended,1999-09,"Dream Halls, Earthcraft, Lotus Petal, Mind Over Matter, and Yawgmoth's Will are banned."
+LGC-1999-09-UDS-B1,LGC-1.10.1,Legacy,1999-09,"Divine Intervention, Ivory Tower, Mirror Universe, Shahrazad, and Underworld Dreams are unbanned. Crop Rotation, Doomsday, Dream Halls, Enlightened Tutor, Frantic Search, Grim Monolith, Hurkyl's Recall, Lotus Petal, Mana Crypt, Mana Vault, Mind Over Matter, Mox Diamond, Mystical Tutor, Tinker, Vampiric Tutor, Voltaic Key, Yawgmoth's Bargain, and Yawgmoth's Will are banned."
+VNT-1999-09-UDS-B1,VNT-1.17.1,Vintage,1999-09,"Divine Intervention and Shahrazad are unbanned. Ivory Tower, Mirror Universe, and Underworld Dreams are unrestricted. Crop Rotation, Doomsday, Dream Halls, Enlightened Tutor, Frantic Search, Grim Monolith, Hurkyl's Recall, Lotus Petal, Mana Crypt, Mana Vault, Mind Over Matter, Mox Diamond, Mystical Tutor, Tinker, Vampiric Tutor, Voltaic Key, Yawgmoth's Bargain, and Yawgmoth's Will are restricted."
+BC-MMQ-1999-10-MMQ,BC-MMQ-0.1.0,Mercadian Masques Block,1999-10,Mercadian Masques cards now legal.
+EXT-1999-10-MMQ,EXT-1.1.0.0,Extended,1999-10,"Mercadian Masques cards now legal. The Dark, Fallen Empires, Revised, Fourth Edition cards no longer legal. However, Tundra, Underground Sea, Badlands, Taiga, Savannah, Scrubland, Volcanic Island, Bayou, Plateau, and Tropical Island are still legal."
+LGC-1999-10-MMQ,LGC-1.11.0,Legacy,1999-10,Mercadian Masques cards now legal.
+STN-1999-10-MMQ,STN-4.3.0.0,Standard,1999-10,"Mercadian Masques cards now legal. Tempest, Stronghold, and Exodus cards no longer legal."
+VNT-1999-10-MMQ,VNT-1.18.0,Vintage,1999-10,Mercadian Masques cards now legal.
+BC-MMQ-2000-03-NEM,BC-MMQ-1.0.0,Mercadian Masques Block,2000-03,Nemesis cards now legal.
+EXT-2000-03-NEM,EXT-1.1.1.0,Extended,2000-03,Nemesis cards now legal.
+EXT-2000-03-MMQ-B1,EXT-1.1.1.1,Extended,2000-03,Dark Ritual and Mana Vault are banned.
+LGC-2000-03-NEM,LGC-1.12.0,Legacy,2000-03,Nemesis cards now legal.
+STN-2000-03-NEM,STN-4.3.1.0,Standard,2000-03,Nemesis cards now legal.
+VNT-2000-03-NEM,VNT-1.19.0,Vintage,2000-03,Nemesis cards now legal.
+BC-MMQ-2000-06-NEM-B1,BC-MMQ-1.0.1,Mercadian Masques Block,2000-06,"Lin Sivvi, Defiant Hero and Rishadan Port are banned"
+BC-MMQ-2000-07-PCY,BC-MMQ-1.1.0,Mercadian Masques Block,2000-07,Prophecy cards now legal.
+EXT-2000-07-PCY,EXT-1.1.2.0,Extended,2000-07,Prophecy cards now legal.
+LGC-2000-07-PCY,LGC-1.13.0,Legacy,2000-07,Prophecy cards now legal.
+STN-2000-07-PCY,STN-4.3.2.0,Standard,2000-07,Prophecy cards now legal.
+VNT-2000-07-PCY,VNT-1.20.0,Vintage,2000-07,Prophecy cards now legal.
+LGC-2000-09-PCY-B1,LGC-1.13.1,Legacy,2000-09,Demonic Consultation and Necropotence are banned.
+VNT-2000-09-PCY-B1,VNT-1.20.1,Vintage,2000-09,Channel and Mind Twist are changed from banned to restricted. Demonic Consultation and Necropotence are also restricted.
+BC-INV-2000-10-INV,BC-INV-0.1.0,Invasion Block,2000-10,Invasion cards now legal.
+EXT-2000-10-INV,EXT-1.1.3.0,Extended,2000-10,Invasion cards now legal.
+LGC-2000-10-INV,LGC-1.14.0,Legacy,2000-10,Invasion cards now legal.
+STN-2000-10-INV,STN-4.4.0.0,Standard,2000-10,"Invasion cards now legal. Urza's Saga, Urza's Legacy, and Urza's Destiny cards no longer legal."
+VNT-2000-10-INV,VNT-1.21.0,Vintage,2000-10,Invasion cards now legal.
+BC-INV-2001-02-PLS,BC-INV-1.0.0,Invasion Block,2001-02,Planeshift cards now legal.
+EXT-2001-02-PLS,EXT-1.1.4.0,Extended,2001-02,Planeshift cards now legal.
+LGC-2001-02-PLS,LGC-1.15.0,Legacy,2001-02,Planeshift cards now legal.
+STN-2001-02-PLS,STN-4.4.1.0,Standard,2001-02,Planeshift cards now legal.
+VNT-2001-02-PLS,VNT-1.22.0,Vintage,2001-02,Planeshift cards now legal.
+EXT-2001-03-PLS-B1,EXT-1.1.4.1,Extended,2001-03,"Necropotence, Replenish, Survival of the Fittest, and Demonic Consultation are banned."
+EXT-2001-04-7ED,EXT-1.1.5.0,Extended,2001-04,Seventh Edition cards now legal.
+STN-2001-04-7ED,STN-4.4.2.0,Standard,2001-04,Seventh Edition cards now legal. Sixth Edition cards no longer legal.
+BC-INV-2001-06-APC,BC-INV-1.1.0,Invasion Block,2001-06,Apocalypse cards now legal.
+EXT-2001-06-APC,EXT-1.1.6.0,Extended,2001-06,Apocalypse cards now legal.
+LGC-2001-06-APC,LGC-1.16.0,Legacy,2001-06,Apocalypse cards now legal.
+STN-2001-06-APC,STN-4.4.3.0,Standard,2001-06,Apocalypse cards now legal.
+VNT-2001-06-APC,VNT-1.23.0,Vintage,2001-06,Apocalypse cards now legal.
+BC-ODY-2001-11-ODY,BC-ODY-0.1.0,Odyssey Block,2001-11,Odyssey cards now legal.
+EXT-2001-11-ODY,EXT-1.1.7.0,Extended,2001-11,Odyssey cards now legal.
+LGC-2001-11-ODY,LGC-1.17.0,Legacy,2001-11,Odyssey cards now legal.
+STN-2001-11-ODY,STN-4.5.0.0,Standard,2001-11,"Odyssey cards now legal. Mercadian Masques, Nemesis, and Prophecy cards no longer legal."
+VNT-2001-11-ODY,VNT-1.24.0,Vintage,2001-11,Odyssey cards now legal.
+LGC-2001-12-ODY-B1,LGC-1.17.1,Legacy,2001-12,Fact or Fiction is banned.
+VNT-2001-12-ODY-B1,VNT-1.24.1,Vintage,2001-12,Fact or Fiction is restricted.
+BC-ODY-2002-03-TOR,BC-ODY-1.0.0,Odyssey Block,2002-03,Torment cards now legal.
+EXT-2002-03-TOR,EXT-1.1.8.0,Extended,2002-03,Torment cards now legal.
+LGC-2002-03-TOR,LGC-1.18.0,Legacy,2002-03,Torment cards now legal.
+STN-2002-03-TOR,STN-4.5.1.0,Standard,2002-03,Torment cards now legal.
+VNT-2002-03-TOR,VNT-1.25.0,Vintage,2002-03,Torment cards now legal.
+BC-ODY-2002-06-JUD,BC-ODY-1.1.0,Odyssey Block,2002-06,Judgment cards now legal.
+EXT-2002-06-JUD,EXT-1.1.9.0,Extended,2002-06,Judgment cards now legal.
+LGC-2002-06-JUD,LGC-1.19.0,Legacy,2002-06,Judgment cards now legal.
+STN-2002-06-JUD,STN-4.5.2.0,Standard,2002-06,Judgment cards now legal.
+VNT-2002-06-JUD,VNT-1.26.0,Vintage,2002-06,Judgment cards now legal.
+BC-ONS-2002-11-ONS,BC-ONS-0.1.0,Onslaught Block,2002-11,Onslaught cards now legal.
+EXT-2002-11-ONS,EXT-1.2.0.0,Extended,2002-11,"Onslaught cards now legal. Ice Age, Alliances, Homelands, Mirage, Visions, Weatherlight, and Fifth Edition no longer legal. Tundra, Underground Sea, Badlands, Taiga, Savannah, Scrubland, Volcanic Island, Bayou, Plateau, and Tropical Island no longer legal."
+LGC-2002-11-ONS,LGC-1.20.0,Legacy,2002-11,Onslaught cards now legal.
+STN-2002-11-ONS,STN-4.6.0.0,Standard,2002-11,"Onslaught cards now legal. Invasion, Planeshift, and Apocalypse cards no longer legal."
+VNT-2002-11-ONS,VNT-1.27.0,Vintage,2002-11,Onslaught cards now legal.
+BC-ONS-2003-02-LGN,BC-ONS-1.0.0,Onslaught Block,2003-02,Legions cards now legal.
+EXT-2003-02-LGN,EXT-1.2.1.0,Extended,2003-02,Legions cards now legal.
+LGC-2003-02-LGN,LGC-1.21.0,Legacy,2003-02,Legions cards now legal.
+STN-2003-02-LGN,STN-4.6.1.0,Standard,2003-02,Legions cards now legal.
+VNT-2003-02-LGN,VNT-1.28.0,Vintage,2003-02,Legions cards now legal.
+LGC-2003-03-LGN-B1,LGC-1.21.1,Legacy,2003-03,"Earthcraft and Entomb are banned. Berserk, Hurkyl's Recall, and Recall are unbanned."
+VNT-2003-03-LGN-B1,VNT-1.28.1,Vintage,2003-03,"Earthcraft and Entomb are restricted. Berserk, Hurkyl's Recall, and Recall are unrestricted."
+BC-ONS-2003-06-SCG,BC-ONS-1.1.0,Onslaught Block,2003-06,Scourge cards now legal.
+EXT-2003-06-SCG,EXT-1.2.2.0,Extended,2003-06,Scourge cards now legal.
+LGC-2003-06-LGN-B2,LGC-1.21.2,Legacy,2003-06,Gush and Mind's Desire are banned.
+LGC-2003-06-SCG,LGC-1.22.0,Legacy,2003-06,Scourge cards now legal.
+STN-2003-06-SCG,STN-4.6.2.0,Standard,2003-06,Scourge cards now legal.
+VNT-2003-06-LGN-B2,VNT-1.28.2,Vintage,2003-06,Gush and Mind's Desire are restricted.
+VNT-2003-06-SCG,VNT-1.29.0,Vintage,2003-06,Scourge cards now legal.
+EXT-2003-08-8ED,EXT-1.2.3.0,Extended,2003-08,Eighth Edition cards now legal.
+STN-2003-08-8ED,STN-4.6.3.0,Standard,2003-08,Eighth Edition cards now legal. Seventh Edition cards no longer legal.
+EXT-2003-09-8ED-B1,EXT-1.2.3.1,Extended,2003-09,"Goblin Lackey, Entomb, and Frantic Search are banned."
+BC-MRD-2003-11-MRD,BC-MRD-0.1.0,Mirrodin Block,2003-11,Mirrodin cards now legal.
+EXT-2003-11-MRD,EXT-1.2.4.0,Extended,2003-11,Mirrodin cards now legal.
+LGC-2003-11-MRD,LGC-1.23.0,Legacy,2003-11,Mirrodin cards now legal.
+STN-2003-11-MRD,STN-4.7.0.0,Standard,2003-11,"Mirrodin cards now legal. Odyssey, Torment, and Scourge cards no longer legal."
+VNT-2003-11-MRD,VNT-1.30.0,Vintage,2003-11,Mirrodin cards now legal.
+EXT-2003-12-MRD-B1,EXT-1.2.4.1,Extended,2003-12,"Goblin Recruiter, Grim Monolith, Tinker, Hermit Druid, Ancient Tomb, and Oath of Druids are banned."
+LGC-2003-12-MRD-B1,LGC-1.23.1,Legacy,2003-12,"Burning Wish, Chrome Mox, and Lion's Eye Diamond are banned."
+VNT-2003-12-MRD-B1,VNT-1.30.1,Vintage,2003-12,"Burning Wish, Chrome Mox, and Lion's Eye Diamond are restricted."
+BC-MRD-2004-03-DST,BC-MRD-1.0.0,Mirrodin Block,2004-03,Darksteel cards now legal.
+EXT-2004-03-DST,EXT-1.2.5.0,Extended,2004-03,Darksteel cards now legal.
+LGC-2004-03-DST,LGC-1.24.0,Legacy,2004-03,Darksteel cards now legal.
+STN-2004-03-DST,STN-4.7.1.0,Standard,2004-03,Darksteel cards now legal.
+VNT-2004-03-DST,VNT-1.31.0,Vintage,2004-03,Darksteel cards now legal.
+BC-MRD-2004-06-DST-B1,BC-MRD-1.0.1,Mirrodin Block,2004-06,Skullclamp is banned.
+STN-2004-06-DST-B1,STN-4.7.1.1,Standard,2004-06,Skullclamp is banned.
+BC-MRD-2004-07-5DN,BC-MRD-1.1.0,Mirrodin Block,2004-07,Fifth Dawn cards now legal.
+EXT-2004-07-5DN,EXT-1.2.6.0,Extended,2004-07,Fifth Dawn cards now legal.
+LGC-2004-07-5DN,LGC-1.25.0,Legacy,2004-07,Fifth Dawn cards now legal.
+STN-2004-07-5DN,STN-4.7.2.0,Standard,2004-07,Fifth Dawn cards now legal.
+VNT-2004-07-5DN,VNT-1.32.0,Vintage,2004-07,Fifth Dawn cards now legal.
+EXT-2004-09-5DN-B1,EXT-1.2.6.1,Extended,2004-09,Metalworker and Skullclamp are banned.
+LGC-2004-09-5DN-B1,LGC-2.0.0,Legacy,2004-09,"Format becomes independent of Vintage. Banned : Bazaar of Baghdad, Goblin Recruiter, Hermit Druid, Illusionary Mask, Land Tax, Mana Drain, Metalworker, Mishra's Workshop, Oath of Druids, Replenish, Skullclamp, and Worldgorger Dragon. Unbanned : Braingeyser, Burning Wish, Chrome Mox, Crop Rotation, Doomsday, Enlightened Tutor, Fact or Fiction, Lion's Eye Diamond, Lotus Petal, Mox Diamond, Mystical Tutor, Regrowth, Stroke of Genius, and Voltaic Key."
+VNT-2004-09-5DN-B1,VNT-1.32.1,Vintage,2004-09,"Braingeyser, Doomsday, Earthcraft, and Fork are unrestricted."
+BC-CHK-2004-11-CHK,BC-CHK-0.1.0,Kamigawa Block,2004-11,Champions of Kamigawa cards are now legal.
+EXT-2004-11-CHK,EXT-1.2.7.0,Extended,2004-11,Champions of Kamigawa cards are now legal.
+LGC-2004-11-CHK,LGC-2.1.0,Legacy,2004-11,Champions of Kamigawa cards are now legal.
+STN-2004-11-CHK,STN-4.8.0.0,Standard,2004-11,"Champions of Kamigawa cards are now legal. Onslaught, Legions, and Scourge cards are no longer legal."
+VNT-2004-11-CHK,VNT-1.33.0,Vintage,2004-11,Champions of Kamigawa cards are now legal.
+VNT-2004-12-CHK-B1,VNT-1.33.1,Vintage,2004-12,Stroke of Genius is unrestricted.
+BC-CHK-2005-03-BOK,BC-CHK-1.0.0,Kamigawa Block,2005-03,Betrayers of Kamigawa cards are now legal.
+EXT-2005-03-BOK,EXT-1.2.8.0,Extended,2005-03,Betrayers of Kamigawa cards are now legal.
+LGC-2005-03-BOK,LGC-2.2.0,Legacy,2005-03,Betrayers of Kamigawa cards are now legal.
+STN-2005-03-CHK-B1,STN-4.8.0.1,Standard,2005-03,"Arcbound Ravager, Disciple of the Vault, Darksteel Citadel, Ancient Den, Great Furnace, Seat of the Synod, Tree of Tales, and Vault of Whispers are banned."
+STN-2005-03-BOK,STN-4.8.1.0,Standard,2005-03,Betrayers of Kamigawa cards are now legal.
+VNT-2005-03-CHK-B1,VNT-1.33.2,Vintage,2005-03,Trinisphere is restricted.
+VNT-2005-03-BOK,VNT-1.34.0,Vintage,2005-03,Betrayers of Kamigawa cards are now legal.
+BC-CHK-2005-07-SOK,BC-CHK-1.1.0,Kamigawa Block,2005-07,Saviors of Kamigawa cards now legal.
+EXT-2005-07-SOK,EXT-1.2.9.0,Extended,2005-07,Saviors of Kamigawa cards now legal.
+LGC-2005-07-SOK,LGC-2.3.0,Legacy,2005-07,Saviors of Kamigawa cards now legal.
+STN-2005-07-SOK,STN-4.8.2.0,Standard,2005-07,Saviors of Kamigawa cards now legal.
+VNT-2005-07-SOK,VNT-1.35.0,Vintage,2005-07,Saviors of Kamigawa cards now legal.
+EXT-2005-08-9ED,EXT-1.2.10.0,Extended,2005-08,Ninth Edition cards now legal.
+STN-2005-08-9ED,STN-4.8.3.0,Standard,2005-08,Ninth Edition cards now legal. Eighth Edition cards no longer legal.
+EXT-2005-09-SOK-B1,EXT-1.2.10.1,Extended,2005-09,Aether Vial and Disciple of the Vault are banned.
+LGC-2005-09-SOK-B1,LGC-2.3.1,Legacy,2005-09,Imperial Seal is banned.
+VNT-2005-09-SOK-B1,VNT-1.35.1,Vintage,2005-09,Imperial Seal and Personal Tutor are restricted. Mind Over Matter is unrestricted.
+LGC-2005-10-POR,LGC-2.4.0,Legacy,2005-10,"Portal, Portal 2, Portal: Three Kingdoms, Starter, and Starter 2000 cards are now legal."
+VNT-2005-10-POR,VNT-1.36.0,Vintage,2005-10,"Portal, Portal 2, Portal: Three Kingdoms, Starter, and Starter 2000 cards are now legal."
+BC-RAV-2005-11-RAV,BC-RAV-0.1.0,Ravnica Block,2005-11,Ravnica: City of Guilds cards are now legal.
+EXT-2005-11-RAV,EXT-1.3.0.0,Extended,2005-11,"Ravnica: City of Guilds cards are now legal. Tempest, Stronghold, Exodus, Urza's Saga, Urza's Legacy, Urza's Destiny, Mercadian Masques, Nemesis, Prophecy, and Sixth Edition no longer legal."
+LGC-2005-11-RAV,LGC-2.5.0,Legacy,2005-11,Ravnica: City of Guilds cards are now legal.
+STN-2005-11-RAV,STN-4.9.0.0,Standard,2005-11,"Ravnica: City of Guilds cards are now legal. Mirrodin, Darksteel, and Fifth Dawn cards are no longer legal."
+VNT-2005-11-RAV,VNT-1.37.0,Vintage,2005-11,Ravnica: City of Guilds cards are now legal.
+BC-MRD-2006-03-5DN-B1,BC-MRD-1.1.1,Mirrodin Block,2006-03,"Aether Vial, Ancient Den, Arcbound Ravager, Darksteel Citadel, Disciple of the Vault, Great Furnace, Seat of the Synod, Tree of Tales, and Vault of Whispers are banned."
+BC-RAV-2006-03-GPT,BC-RAV-1.0.0,Ravnica Block,2006-03,Guildpact cards now legal.
+EXT-2006-03-GPT,EXT-1.3.1.0,Extended,2006-03,Guildpact cards now legal.
+LGC-2006-03-GPT,LGC-2.6.0,Legacy,2006-03,Guildpact cards now legal.
+STN-2006-03-GPT,STN-4.9.1.0,Standard,2006-03,Guildpact cards now legal.
+VNT-2006-03-GPT,VNT-1.38.0,Vintage,2006-03,Guildpact cards now legal.
+BC-RAV-2006-06-DIS,BC-RAV-1.1.0,Ravnica Block,2006-06,Dissension cards now legal.
+EXT-2006-06-DIS,EXT-1.3.2.0,Extended,2006-06,Dissension cards now legal.
+LGC-2006-06-DIS,LGC-2.7.0,Legacy,2006-06,Dissension cards now legal.
+STN-2006-06-DIS,STN-4.9.2.0,Standard,2006-06,Dissension cards now legal.
+VNT-2006-06-DIS,VNT-1.39.0,Vintage,2006-06,Dissension cards now legal.
+BC-ICE-2006-08-CSP,BC-ICE-2.0.0,Ice Age Block,2006-08,"Ice Age Block redefined as Ice Age, Alliances, and Coldsnap. Homelands cards no longer legal."
+EXT-2006-08-CSP,EXT-1.3.3.0,Extended,2006-08,Coldsnap cards now legal.
+LGC-2006-08-CSP,LGC-2.8.0,Legacy,2006-08,Coldsnap cards now legal.
+STN-2006-08-CSP,STN-4.9.3.0,Standard,2006-08,Coldsnap cards now legal.
+VNT-2006-08-CSP,VNT-1.40.0,Vintage,2006-08,Coldsnap cards now legal.
+BC-TSP-2006-11-TSP,BC-TSP-0.1.0,Time Spiral Block,2006-11,Time Spiral cards now legal.
+EXT-2006-11-TSP,EXT-1.3.4.0,Extended,2006-11,Time Spiral cards now legal.
+LGC-2006-11-TSP,LGC-2.9.0,Legacy,2006-11,Time Spiral cards now legal.
+STN-2006-11-TSP,STN-4.10.0.0,Standard,2006-11,"Time Spiral cards now legal. Champions of Kamigawa, Betrayers of Kamigawa, and Saviors of Kamigawa cards no longer legal."
+VNT-2006-11-TSP,VNT-1.41.0,Vintage,2006-11,Time Spiral cards now legal.
+BC-TSP-2007-03-PLC,BC-TSP-1.0.0,Time Spiral Block,2007-03,Planar Chaos cards now legal.
+EXT-2007-03-PLC,EXT-1.3.5.0,Extended,2007-03,Planar Chaos cards now legal.
+LGC-2007-03-PLC,LGC-2.10.0,Legacy,2007-03,Planar Chaos cards now legal.
+STN-2007-03-PLC,STN-4.10.1.0,Standard,2007-03,Planar Chaos cards now legal.
+VNT-2007-03-PLC,VNT-1.42.0,Vintage,2007-03,Planar Chaos cards now legal.
+BC-TSP-2007-06-FUT,BC-TSP-1.1.0,Time Spiral Block,2007-06,Future Sight cards now legal.
+EXT-2007-06-FUT,EXT-1.3.6.0,Extended,2007-06,Future Sight cards now legal.
+LGC-2007-06-PLC-B1,LGC-2.10.1,Legacy,2007-06,Flash is banned. Mind Over Matter and Replenish are unbanned.
+LGC-2007-06-FUT,LGC-2.11.0,Legacy,2007-06,Future Sight cards now legal.
+STN-2007-06-FUT,STN-4.10.2.0,Standard,2007-06,Future Sight cards now legal.
+VNT-2007-06-PLC-B1,VNT-1.42.1,Vintage,2007-06,"Gifts Ungiven is restricted. Voltaic Key, Black Vise, Mind Twist, and Gush are unrestricted."
+VNT-2007-06-FUT,VNT-1.43.0,Vintage,2007-06,Future Sight cards now legal.
+EXT-2007-08-10E,EXT-1.3.7.0,Extended,2007-08,Tenth Edition cards now legal.
+STN-2007-08-10E,STN-4.10.3.0,Standard,2007-08,Tenth Edition cards now legal. Ninth Edition cards no longer legal.
+LGC-2007-09-FUT-B1,LGC-2.11.1,Legacy,2007-09,Shahrazad is banned.
+VNT-2007-09-FUT-B1,VNT-1.43.1,Vintage,2007-09,Shahrazad is banned.
+BC-LRW-2007-11-LRW,BC-LRW-0.1.0,Lorwyn-Shadowmoor Block,2007-11,Lorwyn cards now legal.
+EXT-2007-11-LRW,EXT-1.3.8.0,Extended,2007-11,Lorwyn cards now legal.
+LGC-2007-11-LRW,LGC-2.12.0,Legacy,2007-11,Lorwyn cards now legal.
+STN-2007-11-LRW,STN-4.11.0.0,Standard,2007-11,"Lorwyn cards now legal. Ravnica: City of Guilds, Guildpact, Dissension, and Coldsnap cards no longer legal."
+VNT-2007-11-LRW,VNT-1.44.0,Vintage,2007-11,Lorwyn cards now legal.
+BC-LRW-2008-03-MOR,BC-LRW-1.0.0,Lorwyn-Shadowmoor Block,2008-03,Morningtide cards now legal.
+EXT-2008-03-MOR,EXT-1.3.9.0,Extended,2008-03,Morningtide cards now legal.
+LGC-2008-03-MOR,LGC-2.13.0,Legacy,2008-03,Morningtide cards now legal.
+STN-2008-03-MOR,STN-4.11.1.0,Standard,2008-03,Morningtide cards now legal.
+VNT-2008-03-MOR,VNT-1.45.0,Vintage,2008-03,Morningtide cards now legal.
+BC-LRW-2008-06-SHM,BC-LRW-1.1.0,Lorwyn-Shadowmoor Block,2008-06,Shadowmoor cards now legal.
+EXT-2008-06-SHM,EXT-1.3.10.0,Extended,2008-06,Shadowmoor cards now legal.
+LGC-2008-06-SHM,LGC-2.14.0,Legacy,2008-06,Shadowmoor cards now legal.
+STN-2008-06-SHM,STN-4.11.2.0,Standard,2008-06,Shadowmoor cards now legal.
+VNT-2008-06-MOR-B1,VNT-1.45.1,Vintage,2008-06,"Brainstorm, Flash, Gush, Merchant Scroll, Ponder are restricted."
+VNT-2008-06-SHM,VNT-1.46.0,Vintage,2008-06,Shadowmoor cards now legal.
+BC-LRW-2008-07-EVE,BC-LRW-1.2.0,Lorwyn-Shadowmoor Block,2008-07,Eventide cards now legal.
+EXT-2008-07-EVE,EXT-1.3.11.0,Extended,2008-07,Eventide cards now legal.
+LGC-2008-07-EVE,LGC-2.15.0,Legacy,2008-07,Eventide cards now legal.
+STN-2008-07-EVE,STN-4.11.3.0,Standard,2008-07,Eventide cards now legal.
+VNT-2008-07-EVE,VNT-1.47.0,Vintage,2008-07,Eventide cards now legal.
+EXT-2008-09-EVE-B1,EXT-1.3.10.1,Extended,2008-09,Sensei's Divining Top is banned.
+LGC-2008-09-EVE-B1,LGC-2.15.1,Legacy,2008-09,Time Vault is banned.
+VNT-2008-09-EVE-B1,VNT-1.47.1,Vintage,2008-09,"Time Vault is restricted. Chrome Mox, Dream Halls, Mox Diamond, Personal Tutor, and Time Spiral are unrestricted."
+BC-ALA-2008-10-ALA,BC-ALA-0.1.0,Shards of Alara Block,2008-10,Shards of Alara cards now legal.
+EXT-2008-10-ALA,EXT-2.0.0.0,Extended,2008-10,"Shards of Alara cards now legal. Extended changed to the last seven years of blocks and core sets, rotating upon the release of a new block each autumn. Invasion, Planeshift, Apocalypse, Odyssey, Torment, Judgment, and Seventh Edition cards no longer legal."
+LGC-2008-10-ALA,LGC-2.16.0,Legacy,2008-10,Shards of Alara cards now legal.
+STN-2008-10-ALA,STN-4.12.0.0,Standard,2008-10,"Shards of Alara cards now legal. Time Spiral, Planar Chaos, and Future Sight cards no longer legal."
+VNT-2008-10-ALA,VNT-1.48.0,Vintage,2008-10,Shards of Alara cards now legal.
+BC-ALA-2009-03-CON,BC-ALA-1.0.0,Shards of Alara Block,2009-03,Conflux cards now legal.
+EXT-2009-03-CON,EXT-2.0.1.0,Extended,2009-03,Conflux cards now legal.
+LGC-2009-03-CON,LGC-2.17.0,Legacy,2009-03,Conflux cards now legal.
+STN-2009-03-CON,STN-4.12.1.0,Standard,2009-03,Conflux cards now legal.
+VNT-2009-03-CON,VNT-1.49.0,Vintage,2009-03,Conflux cards now legal.
+BC-ALA-2009-05-ARB,BC-ALA-1.1.0,Shards of Alara Block,2009-05,Alara Reborn cards now legal.
+EXT-2009-05-ARB,EXT-2.0.2.0,Extended,2009-05,Alara Reborn cards now legal.
+LGC-2009-05-ARB,LGC-2.18.0,Legacy,2009-05,Alara Reborn cards now legal.
+STN-2009-05-ARB,STN-4.12.2.0,Standard,2009-05,Alara Reborn cards now legal.
+VNT-2009-05-ARB,VNT-1.50.0,Vintage,2009-05,Alara Reborn cards now legal.
+EXT-2009-08-M10,EXT-2.0.3.0,Extended,2009-08,Magic 2010 cards now legal.
+LGC-2009-08-M10,LGC-2.19.0,Legacy,2009-08,Magic 2010 cards now legal.
+STN-2009-08-M10,STN-5.0.0.0,Standard,2009-08,Magic 2010 cards now legal. Core Sets now rotate out with Fall rotation rather than replacing the previous Core Set.
+VNT-2009-08-M10,VNT-1.51.0,Vintage,2009-08,Magic 2010 cards now legal.
+LGC-2009-09-M10-B1,LGC-2.19.1,Legacy,2009-09,"Dream Halls, Entomb, and Metalworker are unbanned."
+BC-ZEN-2009-11-ZEN,BC-ZEN-0.1.0,Zendikar Block,2009-11,Zendikar cards now legal.
+EXT-2009-11-ZEN,EXT-2.1.0.0,Extended,2009-11,"Zendikar cards now legal. Onslaught, Legions, Scourge, and Eighth Edition no longer legal."
+LGC-2009-11-ZEN,LGC-2.20.0,Legacy,2009-11,Zendikar cards now legal.
+STN-2009-11-ZEN,STN-5.1.0.0,Standard,2009-11,"Zendikar cards now legal. Lorwyn, Morningtide, Shadowmoor, Eventide, and Tenth Edition cards no longer legal."
+VNT-2009-11-ZEN,VNT-1.52.0,Vintage,2009-11,Zendikar cards now legal.
+BC-ZEN-2010-03-WWK,BC-ZEN-1.0.0,Zendikar Block,2010-03,Worldwake cards now legal.
+EXT-2010-03-WWK,EXT-2.1.1.0,Extended,2010-03,Worldwake cards now legal.
+LGC-2010-03-WWK,LGC-2.21.0,Legacy,2010-03,Worldwake cards now legal.
+STN-2010-03-WWK,STN-5.1.1.0,Standard,2010-03,Worldwake cards now legal.
+VNT-2010-03-WWK,VNT-1.53.0,Vintage,2010-03,Worldwake cards now legal.
+BC-ZEN-2010-05-ROE,BC-ZEN-1.1.0,Zendikar Block,2010-05,Rise of the Eldrazi cards now legal.
+EXT-2010-05-ROE,EXT-2.1.2.0,Extended,2010-05,Rise of the Eldrazi cards now legal.
+LGC-2010-05-ROE,LGC-2.22.0,Legacy,2010-05,Rise of the Eldrazi cards now legal.
+STN-2010-05-ROE,STN-5.1.2.0,Standard,2010-05,Rise of the Eldrazi cards now legal.
+VNT-2010-05-ROE,VNT-1.54.0,Vintage,2010-05,Rise of the Eldrazi cards now legal.
+EXT-2010-07-ROE-B1,EXT-3.0.0.0,Extended,2010-07,"Sword of the Meek and Hypergenesis are banned. Extended changed to the last four years of blocks and core sets, rotating upon the release of a new block each autumn. Mirrodin, Darksteel, Fifth Dawn, Champions of Kamigawa, Betrayers of Kamigawa, Saviors of Kamigawa, Ravnica: City of Guilds, Guildpact, Dissension, Coldsnap, and Ninth Edition cards no longer legal."
+LGC-2010-07-ROE-B1,LGC-2.22.1,Legacy,2010-07,Mystical Tutor is banned. Grim Monolith and Illusionary Mask are unbanned.
+EXT-2010-08-M11,EXT-3.0.1.0,Extended,2010-08,Magic 2011 cards now legal.
+LGC-2010-08-M11,LGC-2.23.0,Legacy,2010-08,Magic 2011 cards now legal.
+STN-2010-08-M11,STN-5.1.3.0,Standard,2010-08,Magic 2011 cards now legal.
+VNT-2010-08-M11,VNT-1.55.0,Vintage,2010-08,Magic 2011 cards now legal.
+VNT-2010-09-M11-B1,VNT-1.55.1,Vintage,2010-09,Frantic Search and Gush are unrestricted.
+BC-SOM-2010-11-SOM,BC-SOM-0.1.0,Scars of Mirrodin Block,2010-11,Scars of Mirrodin cards now legal.
+EXT-2010-11-SOM,EXT-3.1.0.0,Extended,2010-11,"Scars of Mirrodin cards now legal. Time Spiral, Planar Chaos, Future Sight, and Tenth Edition cards no longer legal."
+LGC-2010-11-SOM,LGC-2.24.0,Legacy,2010-11,Scars of Mirrodin cards now legal.
+STN-2010-11-SOM,STN-5.2.0.0,Standard,2010-11,"Scars of Mirrodin cards now legal. Shards of Alara, Conflux, Alara Reborn, and Magic 2010 cards no longer legal."
+VNT-2010-11-SOM,VNT-1.56.0,Vintage,2010-11,Scars of Mirrodin cards now legal.
+LGC-2010-12-SOM-B1,LGC-2.24.1,Legacy,2010-12,Survival of the Fittest is banned. Time Spiral is unbanned.
+BC-SOM-2011-03-MBS,BC-SOM-1.0.0,Scars of Mirrodin Block,2011-03,Mirrodin Beseiged cards now legal.
+EXT-2011-03-MBS,EXT-3.1.1.0,Extended,2011-03,Mirrodin Beseiged cards now legal.
+LGC-2011-03-MBS,LGC-2.25.0,Legacy,2011-03,Mirrodin Beseiged cards now legal.
+STN-2011-03-MBS,STN-5.2.1.0,Standard,2011-03,Mirrodin Beseiged cards now legal.
+VNT-2011-03-MBS,VNT-1.57.0,Vintage,2011-03,Mirrodin Beseiged cards now legal.
+BC-SOM-2011-06-NPH,BC-SOM-1.1.0,Scars of Mirrodin Block,2011-06,New Phyrexia cards now legal.
+EXT-2011-06-NPH,EXT-3.1.2.0,Extended,2011-06,New Phyrexia cards now legal.
+LGC-2011-06-NPH,LGC-2.26.0,Legacy,2011-06,New Phyrexia cards now legal.
+STN-2011-06-MBS-B1,STN-5.2.1.1,Standard,2011-06,"Jace, the Mind Sculptor and Stoneforge Mystic are banned. An exception to the above is introduced, making the War of Attrition event deck legal for Standard constructed play if the decklist has not been modified. The deck contains two copies of Stoneforge Mystic."
+STN-2011-06-NPH,STN-5.2.2.0,Standard,2011-06,New Phyrexia cards now legal.
+VNT-2011-06-NPH,VNT-1.58.0,Vintage,2011-06,New Phyrexia cards now legal.
+LGC-2011-07-CMD,LGC-2.27.0,Legacy,2011-07,Commander cards now legal.
+VNT-2011-07-CMD,VNT-1.59.0,Vintage,2011-07,Commander cards now legal.
+EXT-2011-08-M12,EXT-3.1.3.0,Extended,2011-08,Magic 2012 cards now legal.
+LGC-2011-08-M12,LGC-2.28.0,Legacy,2011-08,Magic 2012 cards now legal.
+MDR-2011-08-M12,MDR-1.0.0,Modern,2011-08,"Modern becomes a sanctioned paper format from an online format. The initial ban list is: Ancestral Vision, Ancient Den, Bitterblossom, Chrome Mox, Dark Depths, Dread Return, Glimpse of Nature, Golgari Grave-Troll, Great Furnace, Hypergenesis, Jace, the Mind Sculptor, Mental Misstep, Seat of the Synod, Sensei's Divining Top, Skullclamp, Stoneforge Mystic, Sword of the Meek, Tree of Tales, Umezawa's Jitte, Valakut, the Molten Pinnacle, and Vault of Whispers."
+STN-2011-08-M12,SNT-5.2.3.0,Standard,2011-08,Magic 2012 cards now legal.
+VNT-2011-08-M12,VNT-1.60.0,Vintage,2011-08,Magic 2012 cards now legal.
+EXT-2011-09-M12-B1,EXT-3.1.3.1,Extended,2011-09,"Jace, the Mind Sculptor, Mental Misstep, Ponder, Preordain, and Stoneforge Mystic are banned."
+LGC-2011-09-M12-B1,LGC-2.28.1,Legacy,2011-09,Mental Misstep is banned.
+MDR-2011-09-M12-B1,MDR-1.0.1,Modern,2011-09,"Blazing Shoal, Cloudpost, Green Sun's Zenith, Ponder, Preordain, and Rite of Flame are banned."
+VNT-2011-09-M12-B1,VNT-1.60.1,Vintage,2011-09,Fact or Fiction is unrestricted.
+BC-ISD-2011-10-ISD,BC-ISD-0.1.0,Innistrad-Avacyn Restored Block,2011-10,Innistrad cards now legal.
+EXT-2011-10-ISD,EXT-3.2.0.0,Extended,2011-10,"Innistrad cards now legal. Lorwyn, Morningtide, Shadowmoor, and Eventide cards no longer legal."
+LGC-2011-10-ISD,LGC-2.29.0,Legacy,2011-10,Innistrad cards now legal.
+MDR-2011-10-ISD,MDR-1.1.0,Modern,2011-10,Innistrad cards now legal.
+STN-2011-10-ISD,STN-5.3.0.0,Standard,2011-10,"Innistrad cards now legal. Zendikar, Worldwake, Rise of the Eldrazi, and Magic 2011 cards no longer legal."
+VNT-2011-10-ISD,VNT-1.61.0,Vintage,2011-10,Innistrad cards now legal.
+MDR-2011-12-ISD-B1,MDR-1.1.1,Modern,2011-12,Punishing Fire and Wild Nacatl are banned.
+BC-ISD-2012-03-DKA,BC-ISD-1.0.0,Innistrad-Avacyn Restored Block,2012-03,Dark Ascension cards now legal.
+BC-ISD-2012-03-DKA-B1,BC-ISD-1.0.1,Innistrad-Avacyn Restored Block,2012-03,Intangible Virtue and Lingering Souls are banned.
+EXT-2012-03-DKA,EXT-3.2.1.0,Extended,2012-03,Dark Ascension cards now legal.
+LGC-2012-03-DKA,LGC-2.30.0,Legacy,2012-03,Dark Ascension cards now legal.
+MDR-2012-03-DKA,MDR-1.2.0,Modern,2012-03,Dark Ascension cards now legal.
+STN-2012-03-DKA,STN-5.3.1.0,Standard,2012-03,Dark Ascension cards now legal.
+VNT-2012-03-DKA,VNT-1.62.0,Vintage,2012-03,Dark Ascension cards now legal.
+BC-ISD-2012-06-AVR,BC-ISD-1.1.0,Innistrad-Avacyn Restored Block,2012-06,Avacyn Restored cards now legal.
+EXT-2012-06-AVR,EXT-3.2.2.0,Extended,2012-06,Avacyn Restored cards now legal.
+LGC-2012-06-DKA-B1,LGC-2.30.1,Legacy,2012-06,Land Tax is unbanned.
+LGC-2012-06-AVR,LGC-2.31.0,Legacy,2012-06,Avacyn Restored cards now legal.
+LGC-2012-06-PC2,LGC-2.32.0,Legacy,2012-06,Planechase 2012 cards now legal.
+MDR-2012-06-AVR,MDR-1.3.0,Modern,2012-06,Avacyn Restored cards now legal.
+STN-2012-06-AVR,STN-5.3.2.0,Standard,2012-06,Avacyn Restored cards now legal.
+VNT-2012-06-AVR,VNT-1.63.0,Vintage,2012-06,Avacyn Restored cards now legal.
+VNT-2012-06-PC2,VNT-1.64.0,Vintage,2012-06,Planechase 2012 cards now legal.
+EXT-2012-08-M13,EXT-3.2.3.0,Extended,2012-08,Magic 2013 cards now legal.
+LGC-2012-08-M13,LGC-2.33.0,Legacy,2012-08,Magic 2013 cards now legal.
+MDR-2012-08-M13,MDR-1.4.0,Modern,2012-08,Magic 2013 cards now legal.
+STN-2012-08-M13,STN-5.3.3.0,Standard,2012-08,Magic 2013 cards now legal.
+VNT-2012-08-M13,VNT-1.65.0,Vintage,2012-08,Magic 2013 cards now legal.
+MDR-2012-09-M13-B1,MDR-1.4.1,Modern,2012-09,"Valakut, the Molten Pinnacle is unbanned."
+VNT-2012-09-M13-B1,VNT-1.65.1,Vintage,2012-09,Burning Wish is unrestricted.
+BC-RTR-2012-11-RTR,BC-RTR-0.1.0,Return to Ravnica Block,2012-11,Return to Ravnica cards now legal.
+LGC-2012-11-RTR,LGC-2.34.0,Legacy,2012-11,Return to Ravnica cards now legal.
+MDR-2012-11-RTR,MDR-1.5.0,Modern,2012-11,Return to Ravnica cards now legal.
+STN-2012-11-RTR,STN-5.4.0.0,Standard,2012-11,"Return to Ravnica cards now legal. Scars of Mirrodin, Mirrodin Beseiged, New Phyrexia, and Magic 2012 cards no longer legal."
+VNT-2012-11-RTR,VNT-1.66.0,Vintage,2012-11,Return to Ravnica cards now legal.
+MDR-2013-01-RTR-B1,MDR-1.5.1,Modern,2013-01,Bloodbraid Elf and Seething Song are banned.
+BC-RTR-2013-03-GTC,BC-RTR-1.0.0,Return to Ravnica Block,2013-03,Gatecrash cards now legal.
+LGC-2013-03-GTC,LGC-2.35.0,Legacy,2013-03,Gatecrash cards now legal.
+MDR-2013-03-GTC,MDR-1.6.0,Modern,2013-03,Gatecrash cards now legal.
+STN-2013-03-GTC,STN-5.4.1.0,Standard,2013-03,Gatecrash cards now legal.
+VNT-2013-03-GTC,VNT-1.67.0,Vintage,2013-03,Gatecrash cards now legal.
+BC-RTR-2013-05-DGM,BC-RTR-1.1.0,Return to Ravnica Block,2013-05,Dragon's Maze cards now legal.
+LGC-2013-05-DGM,LGC-2.36.0,Legacy,2013-05,Dragon's Maze cards now legal.
+MDR-2013-05-GTC-B1,MDR-1.6.1,Modern,2013-05,Second Sunrise is banned.
+MDR-2013-05-DGM,MDR-1.7.0,Modern,2013-05,Dragon's Maze cards now legal.
+STN-2013-05-DGM,STN-5.4.2.0,Standard,2013-05,Dragon's Maze cards now legal.
+VNT-2013-05-GTC-B1,VNT-1.67.1,Vintage,2013-05,Regrowth is unrestricted.
+VNT-2013-05-DGM,VNT-1.68.0,Vintage,2013-05,Dragon's Maze cards now legal.
+LGC-2013-08-M14,LGC-2.37.0,Legacy,2013-08,Magic 2014 cards now legal.
+MDR-2013-08-M14,MDR-1.8.0,Modern,2013-08,Magic 2014 cards now legal.
+STN-2013-08-M14,STN-5.4.3.0,Standard,2013-08,Magic 2014 cards now legal.
+VNT-2013-08-M14,VNT-1.69.0,Vintage,2013-08,Magic 2014 cards now legal.
+BC-THS-2013-10-THS,BC-THS-0.1.0,Theros Block,2013-10,Theros cards now legal.
+LGC-2013-10-THS,LGC-2.38.0,Legacy,2013-10,Theros cards now legal.
+MDR-2013-10-THS,MDR-1.9.0,Modern,2013-10,Theros cards now legal.
+STN-2013-10-THS,STN-5.5.0.0,Standard,2013-10,"Theros cards now legal. Innistrad, Dark Ascension, Avacyn Restored, and Magic 2013 cards no longer legal."
+VNT-2013-10-THS,VNT-1.70.0,Vintage,2013-10,Theros cards now legal.
+LGC-2013-11-C13,LGC-2.39.0,Legacy,2013-11,Commander 2013 cards now legal.
+VNT-2013-11-C13,VNT-1.71.0,Vintage,2013-11,Commander 2013 cards now legal.
+MDR-2014-02-THS-B1,MDR-1.9.1,Modern,2014-02,Deathrite Shaman is banned. Bitterblossom and Wild Nacatl are unbanned.
+BC-THS-2014-03-BNG,BC-THS-1.0.0,Theros Block,2014-03,Born of the Gods cards now legal.
+LGC-2014-03-BNG,LGC-2.40.0,Legacy,2014-03,Born of the Gods cards now legal.
+MDR-2014-03-BNG,MDR-1.10.0,Modern,2014-03,Born of the Gods cards now legal.
+STN-2014-03-BNG,STN-5.5.1.0,Standard,2014-03,Born of the Gods cards now legal.
+VNT-2014-03-BNG,VNT-1.72.0,Vintage,2014-03,Born of the Gods cards now legal.
+BC-THS-2014-05-JOU,BC-THS-1.1.0,Theros Block,2014-05,Journey Into Nyx cards now legal.
+LGC-2014-05-JOU,LGC-2.41.0,Legacy,2014-05,Journey Into Nyx cards now legal.
+MDR-2014-05-JOU,MDR-1.11.0,Modern,2014-05,Journey Into Nyx cards now legal.
+STN-2014-05-JOU,STN-5.5.2.0,Standard,2014-05,Journey Into Nyx cards now legal.
+VNT-2014-05-JOU,VNT-1.73.0,Vintage,2014-05,Journey Into Nyx cards now legal.
+LGC-2014-06-CNS,LGC-2.42.0,Legacy,2014-06,Conspiracy cards now legal. Cards with Conspiracy card type are preemptively banned.
+VNT-2014-06-CNS,VNT-1.74.0,Vintage,2014-06,Conspiracy cards now legal. Cards with Conspiracy card type are preemptively banned.
+LGC-2014-07-M15,LGC-2.42.0,Legacy,2014-07,Magic 2015 cards now legal.
+MDR-2014-07-M15,MDR-1.12.0,Modern,2014-07,Magic 2015 cards now legal.
+STN-2014-07-M15,STN-5.5.3.0,Standard,2014-07,Magic 2015 cards now legal.
+VNT-2014-07-M15,VNT-1.74.0,Vintage,2014-07,Magic 2015 cards now legal.
+LGC-2014-10-KTK,LGC-2.43.0,Legacy,2014-10,Khans of Tarkir cards now legal.
+MDR-2014-10-KTK,MDR-1.13.0,Modern,2014-10,Khans of Tarkir cards now legal.
+STN-2014-10-KTK,STN-5.6.0.0,Standard,2014-10,"Khans of Tarkir cards now legal. Return to Ravnica, Gatecrash, Dragon's Maze, and Magic 2014 cards no longer legal."
+VNT-2014-10-KTK,VNT-1.75.0,Vintage,2014-10,Khans of Tarkir cards now legal.
+LGC-2014-11-C14,LGC-2.44.0,Legacy,2014-11,Commander 2014 cards now legal.
+VNT-2014-11-C14,VNT-1.76.0,Vintage,2014-11,Commander 2014 cards now legal.
+LGC-2015-01-FRF,LGC-2.45.0,Legacy,2015-01,Fate Reforged cards now legal. Treasure Cruise is banned. Worldgorger Dragon is unbanned.
+MDR-2015-01-FRF,MDR-1.14.0,Modern,2015-01,"Fate Reforged cards now legal. Dig Through Time, Treasure Cruise, and Birthing Pod are banned. Golgari Grave-Troll is unbanned."
+STN-2015-01-FRF,STN-5.6.1.0,Standard,2015-01,Fate Reforged cards now legal.
+VNT-2015-01-FRF,VNT-1.77.0,Vintage,2015-01,Fate Reforged cards now legal. Treasure Cruise is restricted. Gifts Ungiven is unrestricted.
+LGC-2015-03-DTK,LGC-2.46.0,Legacy,2015-03,Dragons of Tarkir cards now legal.
+MDR-2015-03-DTK,MDR-1.15.0,Modern,2015-03,Dragons of Tarkir cards now legal.
+STN-2015-03-DTK,STN-5.6.2.0,Standard,2015-03,Dragons of Tarkir cards now legal.
+VNT-2015-03-DTK,VNT-1.78.0,Vintage,2015-03,Dragons of Tarkir cards now legal.
+LGC-2015-07-ORI,LGC-2.47.0,Legacy,2015-07,Magic Origins cards now legal.
+MDR-2015-07-ORI,MDR-1.16.0,Modern,2015-07,Magic Origins cards now legal.
+STN-2015-07-ORI,STN-5.6.3.0,Standard,2015-07,Magic Origins cards now legal.
+VNT-2015-07-ORI,VNT-1.79.0,Vintage,2015-07,Magic Origins cards now legal.
+LGC-2015-09-ORI-B1,LGC-2.47.1,Legacy,2015-09,Dig Through Time is banned. Black Vise is unbanned.
+VNT-2015-09-ORI-B1,VNT-1.79.1,Vintage,2015-09,Chalice of the Void and Dig Through Time are restricted. Thirst for Knowledge is unrestricted.
+LGC-2015-10-BFZ,LGC-2.48.0,Legacy,2015-10,Battle for Zendikar cards now legal.
+MDR-2015-10-BFZ,MDR-1.17.0,Modern,2015-10,Battle for Zendikar cards now legal.
+STN-2015-10-BFZ,STN-6.0.0.0,Standard,2015-10,"Battle for Zendikar cards now legal. Theros, Born of the Gods, Journey into Nyx, and Magic 2015 no longer legal. Standard rotation changed to Spring/Fall schedule with Three 2-set blocks legal at any given point."
+VNT-2015-10-BFZ,VNT-1.80.0,Vintage,2015-10,Battle for Zendikar cards now legal.
+LGC-2015-11-C15,LGC-2.49.0,Legacy,2015-11,Commander 2015 cards now legal.
+VNT-2015-11-C15,VNT-1.81.0,Vintage,2015-11,Commander 2015 cards now legal.
+LGC-2016-01-OGW,LGC-2.50.0,Legacy,2016-01,Oath of the Gatewatch cards now legal.
+MDR-2016-01-OGW,MDR-1.18.0,Modern,2016-01,Oath of the Gatewatch cards now legal. Splinter Twin and Summer Bloom are banned.
+STN-2016-01-OGW,STN-6.0.1.0,Standard,2016-01,Oath of the Gatewatch cards now legal.
+VNT-2016-01-OGW,VNT-1.82.0,Vintage,2016-01,Oath of the Gatewatch cards now legal.
+LGC-2016-04-SOI,LGC-2.51.0,Legacy,2016-04,Shadows Over Innistrad cards now legal.
+MDR-2016-04-SOI,MDR-1.19.0,Modern,2016-04,Shadows Over Innistrad cards now legal. Eye of Ugin is banned. Ancestral Vision and Sword of the Meek are unbanned.
+STN-2016-04-SOI,STN-6.1.0.0,Standard,2016-04,Shadows Over Innistrad cards now legal. Khans of Tarkir and Fate Reforged cards no longer legal.
+VNT-2016-04-SOI,VNT-1.83.0,Vintage,2016-04,Shadows Over Innistrad cards now legal. Lodestone Golem is restricted.
+LGC-2016-07-EMN,LGC-2.52.0,Legacy,2016-07,Eldritch Moon cards now legal.
+MDR-2016-07-EMN,MDR-1.20.0,Modern,2016-07,Eldritch Moon cards now legal.
+STN-2016-07-EMN,STN-6.1.1.0,Standard,2016-07,Eldritch Moon cards now legal.
+VNT-2016-07-EMN,VNT-1.84.0,Vintage,2016-07,Eldritch Moon cards now legal.
+LGC-2016-08-CN2,LGC-2.53.0,Legacy,2016-08,Conspiracy: Take the Crown cards now legal.
+VNT-2016-08-CN2,VNT-1.85.0,Vintage,2016-08,Conspiracy: Take the Crown cards now legal.
+LGC-2016-09-KLD,LGC-2.54.0,Legacy,2016-09,Kaladesh cards now legal.
+MDR-2016-09-KLD,MDR-1.21.0,Modern,2016-09,Kaladesh cards now legal.
+STN-2016-09-KLD,STN-6.2.0.0,Standard,2016-09,Kaladesh cards now legal. Dragons of Tarkir and Magic Origins cards no longer legal.
+VNT-2016-09-KLD,VNT-1.86.0,Vintage,2016-09,Kaladesh cards now legal.
+LGC-2016-11-C16,LGC-2.55.0,Legacy,2016-11,Commander 2016 cards now legal.
+VNT-2016-11-C16,VNT-1.87.0,Vintage,2016-11,Commander 2016 cards now legal.
+LGC-2017-01-AER,LGC-2.56.0,Legacy,2017-01,Aether Revolt cards now legal.
+MDR-2017-01-AER,MDR-1.22.0,Modern,2017-01,Aether Revolt cards now legal. Gitaxian Probe and Golgari Grave-Troll are banned.
+STN-2017-01-AER,STN-6.2.1.0,Standard,2017-01,"Aether Revolt cards now legal. Emrakul, the Promised End, Smuggler's Copter, and Reflector Mage are banned."
+VNT-2017-01-AER,VNT-1.88.0,Vintage,2017-01,Aether Revolt cards now legal.
+LGC-2017-04-AKH,LGC-2.57.0,Legacy,2017-04,Amonkhet cards now legal. Sensei's Divining Top is banned.
+MDR-2017-04-AKH,MDR-1.23.0,Modern,2017-04,Amonkhet cards now legal.
+STN-2017-04-AKH,STN-6.3.0.0,Standard,2017-04,Amonkhet cards now legal. Battle for Zendikar and Oath of the Gatewatch cards no longer legal. Felidar Guardian is banned.
+VNT-2017-04-AKH,VNT-1.89.0,Vintage,2017-04,Amonkhet cards now legal. Gitaxian Probe and Gush are restricted.
+STN-2017-06-AKH-B1,STN-6.3.0.1,Standard,2017-06,Aetherworks Marvel is banned.
+LGC-2017-07-HOU,LGC-2.58.0,Legacy,2017-07,Hour of Devastation cards now legal.
+MDR-2017-07-HOU,MDR-1.24.0,Modern,2017-07,Hour of Devastation cards now legal.
+STN-2017-07-HOU,STN-6.3.1.0,Standard,2017-07,Hour of Devastation cards now legal.
+VNT-2017-07-HOU,VNT-1.90.0,Vintage,2017-07,Hour of Devastation cards now legal.
+LGC-2017-08-C17,LGC-2.59.0,Legacy,2017-08,Commander 2017 cards now legal.
+VNT-2017-08-C17,VNT-1.91.0,Vintage,2017-08,Commander 2017 cards now legal. Thorn of Amethyst and Monastery Mentor are restricted. Yawgmoth's Bargain is unrestricted.
+LGC-2017-09-XLN,LGC-2.60.0,Legacy,2017-09,Ixalan cards now legal.
+MDR-2017-09-XLN,MDR-1.25.0,Modern,2017-09,Ixalan cards now legal.
+STN-2017-09-XLN,STN-7.0.0.0,Standard,2017-09,Ixalan cards now legal. Shadows Over Innistrad and Eldritch Moon cards no longer legal.
+VNT-2017-09-XLN,VNT-1.92.0,Vintage,2017-09,Ixalan cards now legal.
+LGC-2018-01-RIX,LGC-2.61.0,Legacy,2018-01,Rivals of Ixalan cards now legal.
+MDR-2018-01-RIX,MDR-1.26.0,Modern,2018-01,Rivals of Ixalan cards now legal.
+STN-2018-01-RIX,STN-7.0.1.0,Standard,2018-01,"Rivals of Ixalan cards now legal. Attune with Aether, Rogue Refiner, Ramunap Ruins, and Rampaging Ferocidon are banned."
+VNT-2018-01-RIX,VNT-1.93.0,Vintage,2018-01,Rivals of Ixalan cards now legal.
+MDR-2018-02-RIX-B1,MDR-1.26.1,Modern,2018-02,"Jace, the Mind Sculptor and Bloodbraid Elf are unbanned."
+LGC-2018-04-DOM,LGC-2.62.0,Legacy,2018-04,Dominaria cards now legal.
+MDR-2018-04-DOM,MDR-1.27.0,Modern,2018-04,Dominaria cards now legal.
+STN-2018-04-DOM,STN-7.0.2.0,Standard,2018-04,Dominaria cards now legal.
+VNT-2018-04-DOM,VNT-1.94.0,Vintage,2018-04,Dominaria cards now legal.
+LGC-2018-06-BBD,LGC-2.63.0,Legacy,2018-06,Battlebond cards now legal.
+VNT-2018-06-BBD,VNT-1.95.0,Vintage,2018-06,Battlebond cards now legal.
+LGC-2018-07-M19,LGC-2.64.0,Legacy,2018-07,Core Set 2019 cards now legal. Deathrite Shaman and Gitaxian Probe are banned.
+MDR-2018-07-M19,MDR-1.28.0,Modern,2018-07,Core Set 2019 cards now legal.
+STN-2018-07-M19,STN-7.0.3.0,Standard,2018-07,Core Set 2019 cards now legal.
+VNT-2018-07-M19,VNT-1.96.0,Vintage,2018-07,Core Set 2019 cards now legal.
+LGC-2018-08-C18,LGC-2.65.0,Legacy,2018-08,Commander 2018 cards now legal.
+VNT-2018-08-C18,VNT-1.97.0,Vintage,2018-08,Commander 2018 cards now legal.
+LGC-2018-10-GRN,LGC-2.66.0,Legacy,2018-10,Guilds of Ravnica cards now legal.
+MDR-2018-10-GRN,MDR-1.29.0,Modern,2018-10,Guilds of Ravnica cards now legal.
+STN-2018-10-GRN,STN-8.0.0.0,Standard,2018-10,Guilds of Ravnica cards now legal. Amonkhet and Hour of Devastation cards no longer legal.
+VNT-2018-10-GRN,VNT-1.98.0,Vintage,2018-10,Guilds of Ravnica cards now legal.
+LGC-2019-01-RNA,LGC-2.67.0,Legacy,2019-01,Ravnica Allegiance cards now legal.
+MDR-2019-01-RNA,MDR-1.30.0,Modern,2019-01,Ravnica Allegiance cards now legal.
+MDR-2019-01-RNA-B1,MDR-1.30.1,Modern,2019-01,Krark-Clan Ironworks is banned.
+STN-2019-01-RNA,STN-8.0.1.0,Standard,2019-01,Ravnica Allegiance cards now legal.
+VNT-2019-01-RNA,VNT-1.99.0,Vintage,2019-01,Ravnica Allegiance cards now legal.
+LGC-2019-05-WAR,LGC-2.68.0,Legacy,2019-05,War of the Spark cards now legal.
+MDR-2019-05-WAR,MDR-1.31.0,Modern,2019-05,War of the Spark cards now legal.
+STN-2019-05-WAR,STN-8.0.2.0,Standard,2019-05,War of the Spark cards now legal.
+VNT-2019-05-WAR,VNT-1.100.0,Vintage,2019-05,War of the Spark cards now legal.
+LGC-2019-06-MH1,LGC-2.69.0,Legacy,2019-06,Modern Horizons cards now legal.
+MDR-2019-06-MH1,MDR-1.32.0,Modern,2019-06,Modern Horizons cards now legal.
+PPR-2019-06-MH1,PPR-1.0.0,Pauper,2019-06,"Pauper become a sanctioned format. Banned list is inherited from MTGO, with the additions of High Tide, Hymn to Tourach, and Sinkhole."
+VNT-2019-06-MH1,VNT-1.101.0,Vintage,2019-06,Modern Horizons cards now legal.
+LGC-2019-07-M20,LGC-2.70.0,Legacy,2019-07,Core Set 2020 cards now legal.
+MDR-2019-07-M20,MDR-1.33.0,Modern,2019-07,Core Set 2020 cards now legal. Bridge from Below is banned.
+PPR-2019-07-M20,PPR-1.1.0,Pauper,2019-07,Core Set 2020 cards now legal.
+STN-2019-07-M20,STN-8.0.3.0,Standard,2019-07,Core Set 2020 cards now legal.
+VNT-2019-07-M20,VNT-1.102.0,Vintage,2019-07,Core Set 2020 cards now legal.
+LGC-2019-08-C19,LGC-2.71.0,Legacy,2019-08,Commander 2019 cards now legal.
+MDR-2019-08-M20-B1,MDR-1.33.1,Modern,2019-08,"Hogaak, Arisen Necropolis and Faithless Looting are banned. Stoneforge Mystic is unbanned."
+PPR-2019-08-C19,PPR-1.2.0,Pauper,2019-08,Commander 2019 cards now legal.
+STN-2019-08-M20-B1,STN-8.0.3.1,Standard,2019-08,Rampaging Ferocidon is unbanned.
+VNT-2019-08-C19,VNT-1.103.0,Vintage,2019-08,Commander 2019 cards now legal.
+VNT-2019-08-C19-B1,VNT-1.103.1,Vintage,2019-08,"Karn, the Great Creator, Mental Misstep, Golgari Grave-Troll, and Mystic Forge are restricted. Fastbond is unrestricted."
+HST-2019-10-ELD,HST-1.0.0,Historic,2019-10,"Historic ladder created with qualifying path to MC. Initial card pool is cards from: Ixalan, Rivals of Ixalan, Dominaria, Core Set 2019, Guilds of Ravnica, Ravnica Allegiance, War of the Spark, Core Set 2020, and Throne of Eldraine."
+LGC-2019-10-ELD,LGC-2.72.0,Legacy,2019-10,Throne of Eldraine cards now legal.
+MDR-2019-10-ELD,MDR-1.34.0,Modern,2019-10,Throne of Eldraine cards now legal.
+PNR-2019-10-ELD,PNR-1.0.0,Pioneer,2019-10,"Pioneer announced a new non-rotating format including sets from Return to Ravnica forward. Bloodstained Mire, Flooded Strand, Polluted Delta, Windswept Heath and Wooded Foothills are banned."
+PPR-2019-10-ELD,PPR-1.3.0,Pauper,2019-10,Throne of Eldraine cards now legal.
+PPR-2019-10-ELD-B1,PPR-1.4.0,Pauper,2019-10,Arcum's Astrolabe is banned.
+STN-2019-10-ELD,STN-8.1.0.0,Standard,2019-10,"Throne of Eldraine cards now legal. Ixalan, Rivals of Ixalan, Dominaria, and Core Set 2019 cards no longer legal."
+STN-2019-10-ELD-B1,STN-8.1.0.1,Standard,2019-10,Field of the Dead is banned.
+VNT-2019-10-ELD,VNT-1.104.0,Vintage,2019-10,Throne of Eldraine cards now legal.
+HST-2019-11-HA1,HST-1.1.0,Historic,2019-11,Historic Anthology 1 cards now legal.
+LGC-2019-11-ELD-B1,LGC-2.72.1,Legacy,2019-11,Wrenn and Six is banned.
+PNR-2019-11-ELD-B1,PNR-1.0.1,Pioneer,2019-11,"Felidar Guardian, Leyline of Abundance and Oath of Nissa are banned."
+PNR-2019-11-ELD-B2,PNR-1.0.2,Pioneer,2019-11,Veil of Summer is banned.
+STN-2019-11-ELD-B2,STN-8.1.0.2,Standard,2019-11,"Oko, Thief of Crowns, Once Upon a Time and Veil of Summer are banned."
+VNT-2019-11-ELD-B1,VNT-1.104.1,Vintage,2019-11,"Narset, Parter of Veils is restricted."
+HST-2019-12-HA1-B1,HST-1.1.1,Historic,2019-12,"Rhy, the Redeemed now legal."
+PNR-2019-12-ELD-B3,PNR-1.0.3,Pioneer,2019-12,"Field of the Dead, Once Upon a Time and Smuggler's Copter are banned."
+PNR-2019-12-ELD-B4,PNR-1.0.4,Pioneer,2019-12,"Oko, Thief of Crowns and Nexus of Fate are banned."
+HST-2020-01-THB,HST-1.2.0,Historic,2020-01,Theros: Beyond Death cards now legal.
+LGC-2020-01-THB,LGC-2.73.0,Legacy,2020-01,Theros: Beyond Death cards now legal.
+MDR-2020-01-THB,MDR-1.35.0,Modern,2020-01,Theros: Beyond Death cards now legal.
+MDR-2020-01-THB-B1,MDR-1.35.1,Modern,2020-01,"Oko, Thief of Crowns, Mox Opal, and Mycosynth Lattice are banned."
+PNR-2020-01-THB,PNR-1.1.0,Pioneer,2020-01,Theros: Beyond Death cards now legal.
+PPR-2020-01-THB,PPR-1.5.0,Pauper,2020-01,Theros: Beyond Death cards now legal.
+STN-2020-01-THB,STN-8.1.1.0,Standard,2020-01,Theros: Beyond Death cards now legal.
+VNT-2020-01-THB,VNT-1.105.0,Vintage,2020-01,Theros: Beyond Death cards now legal.
+HST-2020-03-THB-B1,HST-1.2.1,Historic,2020-03,"Oko, Thief of Crowns, Once Upon a Time, and Veil of Summer are banned. Field of the Dead is made legal."
+HST-2020-03-HA2,HST-1.3.0,Historic,2020-03,Historic Anthology 2 cards now legal.
+LGC-2020-03-THB-B1,LGC-2.73.1,Legacy,2020-03,Underworld Breach is banned.
+MDR-2020-03-THB-B2,MDR-1.35.2,Modern,2020-03,Once Upon a Time is banned.
+HST-2020-04-IKO,HST-1.4.0,Historic,2020-04,Ikoria: Lair of Behemoths cards now legal.
+LGC-2020-04-IKO,LGC-2.74.0,Legacy,2020-04,Ikoria: Lair of Behemoths cards now legal.
+MDR-2020-04-IKO,MDR-1.36.0,Modern,2020-04,Ikoria: Lair of Behemoths cards now legal.
+PNR-2020-04-IKO,PNR-1.2.0,Pioneer,2020-04,Ikoria: Lair of Behemoths cards now legal.
+PPR-2020-04-IKO,PPR-1.6.0,Pauper,2020-04,Ikoria: Lair of Behemoths cards now legal.
+STN-2020-04-IKO,STN-8.1.2.0,Standard,2020-04,Ikoria: Lair of Behemoths cards now legal.
+VNT-2020-04-IKO,VNT-1.106.0,Vintage,2020-04,Ikoria: Lair of Behemoths cards now legal.
