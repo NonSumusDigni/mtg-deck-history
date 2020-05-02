@@ -11,6 +11,7 @@ Currently, this is very much a work in progress. I am in the process of adding d
 
 ## TODO list
 (1. Add all the decks)
+- Sort out STN-2001-04-7ED archetype names - Fires vs. No Fires, Machine Head vs. Void, Orbosition vs. Opp-Orb 
 - Get exact dates for epoch boundaries (to the extent possible)
 - Write specification (file names, deck names, folder structure, etc.)
 - Write CONTRIBUTING.md to guide possible helpers
