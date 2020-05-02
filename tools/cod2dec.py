@@ -40,11 +40,11 @@ def convert(xml_root):
     output_lines = []
     for zone in xml_root.iter('zone'):
         zone_name = zone.get('name')
-        prefix = 'SB:' if zone_name != 'main' else ''
+        prefix = 'SB: ' if zone_name != 'main' else ''
         for card in zone.iter('card'):
             card_count = card.get('number')
             card_name = card.get('name')
-            output_lines.append('{} {} {}'.format(prefix, card_count, card_name))
+            output_lines.append('{}{} {}'.format(prefix, card_count, card_name))
 
     return '\n'.join(output_lines) + '\n'
 
