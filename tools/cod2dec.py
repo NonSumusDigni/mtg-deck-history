@@ -2,21 +2,15 @@ import argparse
 import os
 import xml.etree.ElementTree as ET
 
-parser = argparse.ArgumentParser(description='Convert all .cod files to .dec files recursively from the current directory.')
-parser.add_argument('--delete', '-d', action='store_true', help='Also delete the .cod files after converting')
-parser.add_argument('--dry-run', action='store_true', help="Don't write or delete any files, just print intentions")
-args = parser.parse_args()
 
-log_prefix = '[DRY RUN] ' if args.dry_run else ''
-
-def convert_dir(dir_path):
+def convert_dir(dir_path, log_prefix='', dry_run=False, delete=False):
     for root, dirs, files in os.walk(dir_path):
         for dir in dirs:
             convert_dir(dir)
 
         for file in files:
             if file.endswith('.cod'):
-                cod_file_name = '{}/{}'.format(root, file)
+                cod_file_name = os.path.join(root, file)
 
                 file_name_part = cod_file_name[:-4]
                 dec_file_name = '{}.dec'.format(file_name_part)
@@ -26,13 +20,13 @@ def convert_dir(dir_path):
                     print('{}Converting file {}'.format(log_prefix, cod_file_name))
                     dec_file_contents = convert(ET.parse(cod_file_name).getroot())
                     print('{}Writing file {}'.format(log_prefix, dec_file_name))
-                    if not args.dry_run:
+                    if not args.dry:
                         with open(dec_file_name, 'w') as f:
                             f.write(dec_file_contents)
 
                 if args.delete:
                     print('{}Deleting file {}'.format(log_prefix, cod_file_name))
-                    if not args.dry_run:
+                    if not args.dry:
                         os.remove(cod_file_name)
     
 
@@ -49,5 +43,13 @@ def convert(xml_root):
     return '\n'.join(output_lines) + '\n'
 
 
-convert_dir(os.path.curdir)
+if __name__ == '__main__':
+    parser = argparse.ArgumentParser(description='Convert all .cod files to .dec files recursively from the current directory.')
+    parser.add_argument('--delete', '-d', action='store_true', help='Also delete the .cod files after converting')
+    parser.add_argument('--dry', action='store_true', help="Don't write or delete any files, just print intentions")
+    args = parser.parse_args()
+
+    log_prefix = '[DRY RUN] ' if args.dry else ''
+
+    convert_dir(os.path.curdir, log_prefix=log_prefix, dry_run=args.dry, delete=args.delete)
 
