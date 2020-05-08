@@ -12,7 +12,7 @@ BC-ICE-1997-05-ALL-B1,BC-ICE-1.1.1,Ice Age Block,1997-05,Thawing Glaciers and Zu
 BC-ICE-2006-08-CSP,BC-ICE-2.0.0,Ice Age Block,2006-08,"Ice Age Block redefined as Ice Age, Alliances, and Coldsnap. Homelands cards no longer legal."
 BC-INV-2000-10-INV,BC-INV-0.1.0,Invasion Block,2000-10,Invasion cards now legal.
 BC-INV-2001-02-PLS,BC-INV-1.0.0,Invasion Block,2001-02,Planeshift cards now legal.
-BC-INV-2001-06-APC,BC-INV-1.1.0,Invasion Block,2001-06,Apocalypse cards now legal.
+BC-INV-2001-07-APC,BC-INV-1.1.0,Invasion Block,2001-07,Apocalypse cards now legal.
 BC-ISD-2011-10-ISD,BC-ISD-0.1.0,Innistrad-Avacyn Restored Block,2011-10,Innistrad cards now legal.
 BC-ISD-2012-03-DKA,BC-ISD-1.0.0,Innistrad-Avacyn Restored Block,2012-03,Dark Ascension cards now legal.
 BC-ISD-2012-03-DKA-B1,BC-ISD-1.0.1,Innistrad-Avacyn Restored Block,2012-03,Intangible Virtue and Lingering Souls are banned.
@@ -90,7 +90,7 @@ EXT-2000-10-INV,EXT-1.1.3.0,Extended,2000-10,Invasion cards now legal.
 EXT-2001-02-PLS,EXT-1.1.4.0,Extended,2001-02,Planeshift cards now legal.
 EXT-2001-03-PLS-B1,EXT-1.1.4.1,Extended,2001-03,"Necropotence, Replenish, Survival of the Fittest, and Demonic Consultation are banned."
 EXT-2001-05-7ED,EXT-1.1.5.0,Extended,2001-05,Seventh Edition cards now legal.
-EXT-2001-06-APC,EXT-1.1.6.0,Extended,2001-06,Apocalypse cards now legal.
+EXT-2001-07-APC,EXT-1.1.6.0,Extended,2001-07,Apocalypse cards now legal.
 EXT-2001-11-ODY,EXT-1.1.7.0,Extended,2001-11,Odyssey cards now legal.
 EXT-2002-03-TOR,EXT-1.1.8.0,Extended,2002-03,Torment cards now legal.
 EXT-2002-06-JUD,EXT-1.1.9.0,Extended,2002-06,Judgment cards now legal.
@@ -170,7 +170,7 @@ LGC-2000-07-PCY,LGC-1.13.0,Legacy,2000-07,Prophecy cards now legal.
 LGC-2000-09-PCY-B1,LGC-1.13.1,Legacy,2000-09,Demonic Consultation and Necropotence are banned.
 LGC-2000-10-INV,LGC-1.14.0,Legacy,2000-10,Invasion cards now legal.
 LGC-2001-02-PLS,LGC-1.15.0,Legacy,2001-02,Planeshift cards now legal.
-LGC-2001-06-APC,LGC-1.16.0,Legacy,2001-06,Apocalypse cards now legal.
+LGC-2001-07-APC,LGC-1.16.0,Legacy,2001-07,Apocalypse cards now legal.
 LGC-2001-11-ODY,LGC-1.17.0,Legacy,2001-11,Odyssey cards now legal.
 LGC-2001-12-ODY-B1,LGC-1.17.1,Legacy,2001-12,Fact or Fiction is banned.
 LGC-2002-03-TOR,LGC-1.18.0,Legacy,2002-03,Torment cards now legal.
@@ -373,7 +373,7 @@ STN-2000-07-PCY,STN-4.3.2.0,Standard,2000-07,Prophecy cards now legal.
 STN-2000-10-INV,STN-4.4.0.0,Standard,2000-10,"Invasion cards now legal. Urza's Saga, Urza's Legacy, and Urza's Destiny cards no longer legal."
 STN-2001-02-PLS,STN-4.4.1.0,Standard,2001-02,Planeshift cards now legal.
 STN-2001-05-7ED,STN-4.4.2.0,Standard,2001-05,Seventh Edition cards now legal. Sixth Edition cards no longer legal.
-STN-2001-06-APC,STN-4.4.3.0,Standard,2001-06,Apocalypse cards now legal.
+STN-2001-07-APC,STN-4.4.3.0,Standard,2001-07,Apocalypse cards now legal.
 STN-2001-11-ODY,STN-4.5.0.0,Standard,2001-11,"Odyssey cards now legal. Mercadian Masques, Nemesis, and Prophecy cards no longer legal."
 STN-2002-03-TOR,STN-4.5.1.0,Standard,2002-03,Torment cards now legal.
 STN-2002-06-JUD,STN-4.5.2.0,Standard,2002-06,Judgment cards now legal.
@@ -496,7 +496,7 @@ VNT-2000-07-PCY,VNT-1.20.0,Vintage,2000-07,Prophecy cards now legal.
 VNT-2000-09-PCY-B1,VNT-1.20.1,Vintage,2000-09,Channel and Mind Twist are changed from banned to restricted. Demonic Consultation and Necropotence are also restricted.
 VNT-2000-10-INV,VNT-1.21.0,Vintage,2000-10,Invasion cards now legal.
 VNT-2001-02-PLS,VNT-1.22.0,Vintage,2001-02,Planeshift cards now legal.
-VNT-2001-06-APC,VNT-1.23.0,Vintage,2001-06,Apocalypse cards now legal.
+VNT-2001-07-APC,VNT-1.23.0,Vintage,2001-07,Apocalypse cards now legal.
 VNT-2001-11-ODY,VNT-1.24.0,Vintage,2001-11,Odyssey cards now legal.
 VNT-2001-12-ODY-B1,VNT-1.24.1,Vintage,2001-12,Fact or Fiction is restricted.
 VNT-2002-03-TOR,VNT-1.25.0,Vintage,2002-03,Torment cards now legal.
