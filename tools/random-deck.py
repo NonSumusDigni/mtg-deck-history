@@ -30,8 +30,11 @@ def filter_deck_files(deck_files, requires, rejects, allow_incomplete):
     lower_requires = list(map(lambda x: x.lower(), requires))
     lower_rejects = list(map(lambda x: x.lower(), rejects))
 
+    return list(filter(get_apply_constraints(lower_requires, lower_rejects), deck_files))
 
-    def apply_filters(deck_file, requires=lower_requires, rejects=lower_rejects):
+
+def get_apply_constraints(requires, rejects):
+    def apply_constraints_func(deck_file):
         lower_deck_file = deck_file.lower()
 
         for require_str in requires:
@@ -44,8 +47,7 @@ def filter_deck_files(deck_files, requires, rejects, allow_incomplete):
 
         return True
 
-
-    return list(filter(apply_filters, deck_files))
+    return apply_constraints_func
 
 
 def find_all_deck_files(dir_path, deck_files=[]):
@@ -80,8 +82,7 @@ if __name__ == '__main__':
     parser.add_argument('directory', nargs='?', default=os.path.curdir, help='The directory to select decks from (defaults to current directory)')
     args = parser.parse_args()
 
-    print(args)
-
     decks = random_decks(args.directory, args.count, args.require, args.reject, args.allow_incomplete)
     if len(decks) > 0:
-        print('\n'.join(add_indices(decks)))
+        indexed_decks = add_indices(decks)
+        print('\n'.join(indexed_decks))
