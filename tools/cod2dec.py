@@ -15,7 +15,6 @@ def convert_dir(dir_path, log_prefix='', dry_run=False, delete=False):
                 file_name_part = cod_file_name[:-4]
                 dec_file_name = '{}.dec'.format(file_name_part)
 
-                # check if a .dec version already exists
                 if not os.path.isfile(dec_file_name):
                     print('{}Converting file {}'.format(log_prefix, cod_file_name))
                     dec_file_contents = convert(ET.parse(cod_file_name).getroot())
