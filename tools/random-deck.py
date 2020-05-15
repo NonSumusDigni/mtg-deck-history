@@ -11,7 +11,7 @@ NOT_OP = f'{OP_PREFIX}not'
 
 def random_decks(directory, query, count=2, all_=False):
     all_deck_paths = find_all_deck_paths(directory)
-    all_decks = map(parse_deck, all_deck_paths)
+    all_decks = list(filter(bool, map(parse_deck, all_deck_paths)))
     decks = filter_decks(all_decks, query)
 
     if all_:
@@ -36,14 +36,15 @@ def find_all_deck_paths(dir_path, deck_paths=[]):
 
 
 def parse_deck(deck_path):
-    dir_path, full_file_name = os.path.split(deck_path)
-    dir_parts = dir_path.split(os.path.sep)
-    file_name, _ = os.path.splitext(full_file_name)
+    try:
+        dir_path, full_file_name = os.path.split(deck_path)
+        dir_parts = dir_path.split(os.path.sep)
+        file_name, _ = os.path.splitext(full_file_name)
 
-    return {
-        **parse_dir_parts(dir_parts),
-        **parse_file_name(file_name)
-    }
+        return { **parse_dir_parts(dir_parts), **parse_file_name(file_name) }
+    except Exception as ex:
+        print(f'Error while parsing deck ({deck_path}): {ex}')
+        return None
 
 
 def filter_decks(decks, query):
@@ -70,10 +71,10 @@ def parse_dir_parts(dir_parts):
     tournament_date, tournament_name = parse_tournament_str(tournament)
 
     return {
-        tournament_name: tournament_name,
-        tournament_date: tournament_date,
-        format_epoch: format_epoch,
-        format: format_
+        'tournament_name': tournament_name,
+        'tournament_date': tournament_date,
+        'format_epoch': format_epoch,
+        'format': format_
     }
 
 
@@ -81,17 +82,13 @@ file_name_regex = re.compile(r'^(\[(?P<deck_tags>.+)\])?\s*(?P<tournament_placem
 
 
 def parse_file_name(file_name):
-    try:
-        match = file_name_regex.match(file_name)
-        return {
-            tournament_placement: match.group('tournament_placement'),
-            archetype: match.group('archetype'),
-            player: match.group('player'),
-            tags: list(map(lambda x: x.strip().lower(), (match.group('deck_tags') or '').split(',')))
-        }
-    except e:
-        print(f"Error in parse_file_name('{file_name}'): {str(e)}")
-        return {}
+    match = file_name_regex.match(file_name)
+    return {
+        'tournament_placement': match.group('tournament_placement'),
+        'archetype': match.group('archetype'),
+        'player': match.group('player'),
+        'tags': list(map(lambda x: x.strip().lower(), (match.group('deck_tags') or '').split(',')))
+    }
 
 
 tournament_regex = re.compile(r'^(?P<tournament_date>[\d-]+)\s+-\s+(?P<tournament_name>.+)$')
@@ -145,13 +142,16 @@ if __name__ == '__main__':
     parser.add_argument('--verbose', '-v', action='store_true', help='Verbose output (default: %(default)s)')
     args = parser.parse_args()
 
-    print(f'args are: {args}')
+    if args.verbose:
+        print(f'args are: {args}\n')
 
     query = query_from_args(args)
 
-    print(f'query is: {query}')
+    if args.verbose:
+        print(f'query is: {query}\n')
 
-    #decks = random_decks(args.directory, query={}, count=args.count, all=args.all)
-    #if len(decks) > 0:
-    #    separator = '\nVERSUS\n' if args.count == 2 and not args.all else '\n\n\n'
-    #    print(separator.join(map(pretty_print_deck, indexed_decks)))
+    decks = random_decks(args.directory, query={}, count=args.count, all_=args.all)
+    if len(decks) > 0:
+        print('\n\n\nRESULTS:\n\n\n')
+        separator = '\n\nVERSUS\n\n' if args.count == 2 and not args.all else '\n\n\n'
+        print(separator.join(map(pretty_print_deck, decks)))
