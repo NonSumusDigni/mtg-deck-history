@@ -94,14 +94,16 @@ def select_decks(decks, count, chaos, ultra_chaos):
 
         if len(selected_decks) == 1:
             if not chaos and not ultra_chaos:
-                decks = list(filter(lambda d: match_query(d, { 'format_epoch': random_deck['format_epoch'] }), decks))
+                decks = list(filter(lambda d: match_query(d, {
+                    'format': random_deck['format'],
+                    'format_epoch': random_deck['format_epoch']
+                }), decks))
             elif not ultra_chaos:
                 decks = list(filter(lambda d: match_query(d, { 'format': random_deck['format'] }), decks))
 
             if len(decks) < count - 1:
                 print(f'Cannot choose {count} decks, only found {len(decks)} matching decks')
-                return selected_decks
-
+                return [*selected_decks, *decks]
 
     return selected_decks
 
